@@ -1,6 +1,6 @@
 # 🏨 Hotel ETL Pipeline
 
-A production-style ETL (Extract, Transform, Load) pipeline built with Python, PostgreSQL, and AWS S3 — designed to process real-world hotel booking data with data cleaning, validation, optimization, and cloud integration.
+A production-style ETL (Extract, Transform, Load) pipeline built with Python, PostgreSQL, and AWS S3 designed to process real-world hotel booking data with data cleaning, validation, optimization, and cloud integration.
 
 ---
 
