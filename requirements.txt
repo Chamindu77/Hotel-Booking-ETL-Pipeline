@@ -1,0 +1,8 @@
+pandas==2.1.0
+numpy==1.24.0
+psycopg2-binary==2.9.7
+boto3==1.28.0
+python-dotenv==1.0.0
+faker==19.3.0
+sqlalchemy==2.0.20
+loguru==0.7.0
