@@ -34,4 +34,7 @@ def generate_hotel_data(n=12000):
     df.to_csv('data/raw/hotels_raw.csv', index=False)
     print(f"Generated {len(df)} records")
 
-generate_hotel_data()
+generate_hotel_data() 
+
+
+
