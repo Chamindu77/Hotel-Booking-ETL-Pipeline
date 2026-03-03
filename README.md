@@ -170,17 +170,15 @@ CREATE INDEX idx_hotels_created  ON hotels(created_date);
 ### Index Performance Demo
 
 ```sql
--- Disable indexes (forces Seq Scan)
+-- Disable indexes 
 SET enable_indexscan = OFF;
 SET enable_bitmapscan = OFF;
 EXPLAIN ANALYZE SELECT * FROM hotels WHERE category = 'Luxury' AND rating >= 4.0;
--- Execution Time: ~18.9 ms (reads every row)
 
--- Re-enable indexes (uses Index Scan)
+-- Re-enable indexes
 SET enable_indexscan = ON;
 SET enable_bitmapscan = ON;
 EXPLAIN ANALYZE SELECT * FROM hotels WHERE category = 'Luxury' AND rating >= 4.0;
--- Execution Time: ~2.6 ms (jumps directly to matching rows — 7x faster)
 ```
 
 ---
@@ -206,8 +204,8 @@ Only the minimum required permissions are granted:
       "Effect": "Allow",
       "Action": ["s3:PutObject", "s3:GetObject", "s3:ListBucket"],
       "Resource": [
-        "arn:aws:s3:::your-bucket-name",
-        "arn:aws:s3:::your-bucket-name/*"
+        "arn:aws:s3:::hotel-etl-bucket",
+        "arn:aws:s3:::hotel-etl-bucket/*"
       ]
     }
   ]
@@ -223,7 +221,7 @@ All credentials are stored in `.env` — **no hardcoded secrets anywhere in the 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hotel-etl-pipeline.git
+git clone https://github.com/Chamindu77/Hotel-Booking-ETL-Pipeline.git
 cd hotel-etl-pipeline
 ```
 
@@ -283,7 +281,7 @@ Removed 300 duplicates
 Clean records: 10842 | Rejected: 1158
 Loaded 10842 records into PostgreSQL
 Uploaded cleaned/hotels_clean.csv to S3
-Saved 1158 rejected records to CSV
+Saved 1131 rejected records to CSV
 === ETL Pipeline Completed ===
 ```
 
@@ -296,10 +294,13 @@ Run these in PostgreSQL to validate data and gain insights:
 ### 1. Top Categories by Revenue
 
 ```sql
-SELECT category,
-       COUNT(*)                       AS total_bookings,
-       ROUND(SUM(price)::numeric, 2)  AS total_revenue,
-       ROUND(AVG(price)::numeric, 2)  AS avg_price
+SELECT
+    category,
+    COUNT(*)                         AS total_hotels,
+    ROUND(SUM(price)::NUMERIC, 2)    AS total_revenue,
+    ROUND(AVG(price)::NUMERIC, 2)    AS avg_price,
+    ROUND(MIN(price)::NUMERIC, 2)    AS min_price,
+    ROUND(MAX(price)::NUMERIC, 2)    AS max_price
 FROM hotels
 GROUP BY category
 ORDER BY total_revenue DESC
@@ -309,26 +310,32 @@ LIMIT 10;
 ### 2. Monthly Growth Analysis
 
 ```sql
-SELECT DATE_TRUNC('month', created_date) AS month,
-       COUNT(*)                           AS new_listings,
-       ROUND(AVG(price)::numeric, 2)      AS avg_price,
-       ROUND(AVG(rating)::numeric, 2)     AS avg_rating
+SELECT
+    TO_CHAR(DATE_TRUNC('month', created_date), 'YYYY-MM')  AS month,
+    COUNT(*)                                               AS new_listings,
+    ROUND(AVG(price)::NUMERIC, 2)                          AS avg_price,
+    ROUND(AVG(rating)::NUMERIC, 2)                         AS avg_rating,
+    SUM(COUNT(*)) OVER (
+        ORDER BY DATE_TRUNC('month', created_date)
+    )                                                      AS cumulative_listings
 FROM hotels
-GROUP BY month
+GROUP BY DATE_TRUNC('month', created_date)
 ORDER BY month;
 ```
 
 ### 3. Average Rating by Country
 
 ```sql
-SELECT country,
-       COUNT(*)                        AS hotel_count,
-       ROUND(AVG(rating)::numeric, 2)  AS avg_rating,
-       ROUND(AVG(price)::numeric, 2)   AS avg_price,
-       SUM(reviews_count)              AS total_reviews
+SELECT
+    country,
+    COUNT(*)                         AS hotel_count,
+    ROUND(AVG(rating)::NUMERIC, 2)   AS avg_rating,
+    ROUND(AVG(price)::NUMERIC, 2)    AS avg_price,
+    SUM(reviews_count)               AS total_reviews,
+    ROUND(AVG(rooms_available))      AS avg_rooms
 FROM hotels
 GROUP BY country
-ORDER BY avg_rating DESC;
+ORDER BY avg_rating DESC, hotel_count DESC;
 ```
 
 ---
@@ -419,6 +426,4 @@ REINDEX INDEX CONCURRENTLY idx_hotels_category;
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use and adapt this project.
