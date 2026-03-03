@@ -6,16 +6,16 @@ def clean_data(df: pd.DataFrame):
     initial_count = len(df)
     rejected = []
 
-    # 1. Remove duplicates
+    # Remove duplicates
     df = df.drop_duplicates(subset=['id'])
     logger.info(f"Removed {initial_count - len(df)} duplicates")
 
-    # 2. Standardize text columns
+    # Standardize text columns
     df['category'] = df['category'].str.strip().str.title()
     df['country'] = df['country'].str.strip().str.upper()
     df['name'] = df['name'].str.strip()
 
-    # 3. Fix dates — handle multiple formats
+    # Fix dates — handle multiple formats
     def parse_date(val):
         for fmt in ('%Y-%m-%d', '%d/%m/%Y', '%m-%d-%Y'):
             try:
@@ -26,7 +26,7 @@ def clean_data(df: pd.DataFrame):
 
     df['created_date'] = df['created_date'].apply(parse_date)
 
-    # 4. Validate & reject bad records
+    # Validate & reject bad records
     valid_categories = ['Luxury', 'Budget', 'Business', 'Resort', 'Boutique', 'Hostel']
 
     def is_valid(row):
@@ -58,7 +58,7 @@ def clean_data(df: pd.DataFrame):
     rejected_df = pd.DataFrame(rejected_rows)
     clean_df = pd.DataFrame(valid_rows)
 
-    # 5. Fill remaining nulls
+    # Fill remaining nulls
     clean_df['rooms_available'] = clean_df['rooms_available'].fillna(clean_df['rooms_available'].median())
     clean_df['reviews_count'] = clean_df['reviews_count'].fillna(0)
 

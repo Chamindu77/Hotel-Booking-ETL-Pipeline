@@ -1,0 +1,1871 @@
+id,name,category,price,rating,country,created_date,rooms_available,reviews_count,rejection_reason
+1,,Budget,231.92,3.2,USA,2023-06-30,,1791,Missing name
+4,"Wood, Smith and Rogers",Business,1418.01,99.0,JAPAN,2024-07-29,444.0,827,Invalid rating
+22,Vasquez PLC,Business,1873.4,,USA,2024-04-02,110.0,4144,Invalid rating
+26,Johnson PLC,Boutique,,4.5,FRANCE,2025-08-09,299.0,4526,Invalid price
+62,,Business,80.95,3.7,USA,2023-04-22,,2207,Missing name
+66,Andrews-Zamora,Resort,984.88,,USA,2023-06-29,160.0,4512,Invalid rating
+74,"Cox, Boone and Bartlett",Budget,1809.75,99.0,JAPAN,2025-01-21,126.0,4351,Invalid rating
+76,,Business,341.21,2.4,USA,2024-10-31,354.0,2048,Missing name
+82,"Robinson, Ryan and Fernandez",Resort,,2.8,JAPAN,2026-02-28,482.0,3043,Invalid price
+83,"White, Andrews and Harris",,1231.86,3.5,INDIA,2023-07-17,210.0,955,Invalid category
+90,Sanchez-Watson,Boutique,,4.5,FRANCE,2025-01-02,16.0,498,Invalid price
+97,Adams-West,Business,,4.0,AUSTRALIA,2024-05-15,74.0,4639,Invalid price
+99,"Robles, Casey and Sims",Boutique,,2.8,UAE,2023-08-20,140.0,1765,Invalid price
+102,"Ramirez, Gomez and Gray",Hostel,,99.0,AUSTRALIA,2023-05-06,364.0,3421,Invalid price; Invalid rating
+109,Meyer Ltd,Hostel,1302.87,,INDIA,2026-02-26,313.0,1300,Invalid rating
+115,,Hostel,905.07,4.0,INDIA,2024-05-31,495.0,3842,Missing name
+120,,Business,324.55,3.4,UAE,2024-05-11,155.0,998,Missing name
+123,Grimes-Collins,Budget,529.69,99.0,AUSTRALIA,2023-12-10,54.0,4766,Invalid rating
+124,"Tucker, Long and Martin",,1296.31,3.7,INDIA,2023-12-18,33.0,3749,Invalid category
+142,Allen-Flores,Resort,637.82,-1.0,FRANCE,2023-03-18,299.0,2890,Invalid rating
+143,"Hall, Hays and Smith",Hostel,592.92,99.0,UAE,2023-05-16,188.0,3303,Invalid rating
+157,"Savage, Santiago and Clayton",Luxury,,1.4,AUSTRALIA,2023-07-29,279.0,4295,Invalid price
+169,Mitchell-Brown,Luxury,,3.5,USA,2026-01-14,305.0,275,Invalid price
+178,,Hostel,543.72,3.3,UAE,2023-06-08,118.0,3111,Missing name
+182,Maldonado-Chen,,1955.63,,UAE,2024-01-06,55.0,789,Invalid rating; Invalid category
+186,Barnes LLC,Hostel,,2.3,GERMANY,2024-06-28,365.0,3262,Invalid price
+196,Phillips-Rodriguez,Boutique,1542.21,,INDIA,2024-05-03,409.0,2386,Invalid rating
+232,"Reyes, Gardner and Coleman",Budget,1921.87,,UAE,2025-12-11,469.0,2620,Invalid rating
+234,Harvey-Gamble,Resort,,3.3,JAPAN,2025-06-02,189.0,4847,Invalid price
+236,,Hostel,234.78,2.0,INDIA,2026-02-21,73.0,2292,Missing name
+241,Boyle-Harmon,Budget,,2.8,FRANCE,2025-07-21,412.0,1145,Invalid price
+250,"Mcguire, Clark and Peck",Budget,,1.8,FRANCE,2024-12-01,411.0,2650,Invalid price
+257,Fisher-Drake,Business,,1.4,AUSTRALIA,2023-12-04,375.0,614,Invalid price
+268,Swanson-Sullivan,Resort,,2.3,GERMANY,2007-11-30,138.0,3051,Invalid price
+288,"Jones, Smith and Travis",Boutique,,3.6,USA,2016-10-23,228.0,3115,Invalid price
+291,,Budget,976.91,1.1,UK,2025-03-02,343.0,4047,Missing name
+310,"Wagner, Perez and Adkins",Luxury,,3.7,GERMANY,2025-02-22,147.0,2052,Invalid price
+322,Stone-Wells,,1519.24,3.8,UK,2025-07-16,149.0,2468,Invalid category
+324,Fuller-Jones,Hostel,1916.06,,FRANCE,2023-09-18,,4887,Invalid rating
+336,Yoder PLC,Boutique,,2.8,GERMANY,2025-08-13,109.0,1230,Invalid price
+338,,Budget,1039.91,1.6,FRANCE,2025-01-05,491.0,3321,Missing name
+339,"Powell, Rodriguez and Powell",,1647.97,1.9,USA,2024-05-19,88.0,1797,Invalid category
+341,,Boutique,1658.23,1.7,USA,2024-01-17,273.0,4123,Missing name
+350,,Boutique,1241.92,2.4,USA,2024-07-21,142.0,3272,Missing name
+351,Hobbs LLC,Boutique,,4.7,FRANCE,2024-11-17,469.0,4775,Invalid price
+373,,Resort,891.1,3.9,UAE,2025-06-13,41.0,3458,Missing name
+383,,Boutique,1403.16,1.7,AUSTRALIA,2025-12-23,445.0,4904,Missing name
+387,Hunt-Gardner,Business,1444.16,99.0,INDIA,2024-05-01,240.0,497,Invalid rating
+392,Lopez-Werner,Resort,30.39,-1.0,USA,1987-07-09,456.0,2472,Invalid rating
+393,Christian-Marshall,Business,,3.8,JAPAN,2024-01-05,293.0,4682,Invalid price
+394,,Budget,1782.56,2.0,JAPAN,2025-06-23,470.0,1781,Missing name
+397,Bennett-Holmes,Boutique,,1.6,FRANCE,2024-04-15,345.0,3218,Invalid price
+402,Ryan Inc,Budget,1645.66,,UK,2025-04-08,170.0,1712,Invalid rating
+405,,Hostel,1960.19,3.8,AUSTRALIA,2025-07-07,46.0,1527,Missing name
+406,Graves-Zuniga,Hostel,,3.1,AUSTRALIA,2024-01-06,10.0,2840,Invalid price
+423,,Business,1128.37,1.2,FRANCE,2024-12-29,75.0,265,Missing name
+424,Clark Inc,Luxury,,1.7,JAPAN,2024-10-31,305.0,4688,Invalid price
+435,,Boutique,700.03,4.5,JAPAN,2024-06-21,447.0,804,Missing name
+454,,Budget,252.93,3.8,FRANCE,2025-04-17,440.0,2289,Missing name
+456,,Resort,683.08,4.9,JAPAN,2024-03-17,,4895,Missing name
+464,,Luxury,,1.4,INDIA,2025-10-12,129.0,1581,Missing name; Invalid price
+473,Strong and Sons,Budget,,,GERMANY,2023-06-26,277.0,2520,Invalid price; Invalid rating
+474,Allen LLC,Luxury,,4.2,USA,2024-09-06,335.0,4285,Invalid price
+476,Hall-Morrison,,,4.2,INDIA,2025-11-29,33.0,871,Invalid price; Invalid category
+479,Martinez LLC,Hostel,1561.99,-1.0,UK,2003-12-31,46.0,4863,Invalid rating
+483,Brown-Frye,,442.89,3.5,INDIA,1996-06-25,474.0,4402,Invalid category
+491,Wood-Morrow,Boutique,,4.1,UAE,2026-01-25,321.0,3803,Invalid price
+492,,Resort,685.83,-1.0,JAPAN,2025-11-17,295.0,1696,Missing name; Invalid rating
+498,Johnson-Taylor,Business,1483.29,99.0,UK,1977-11-04,428.0,4256,Invalid rating
+502,,Business,913.41,3.1,UK,2024-11-28,256.0,1190,Missing name
+521,Wilkinson-Shepherd,Luxury,1168.92,99.0,GERMANY,2024-05-01,387.0,4400,Invalid rating
+529,,Boutique,330.89,1.4,UK,2024-11-06,253.0,3817,Missing name
+531,Freeman-Shields,Luxury,,4.4,JAPAN,2025-09-21,221.0,1101,Invalid price
+535,Holmes-Holder,Business,1090.68,,UAE,2024-02-07,137.0,167,Invalid rating
+548,Washington Group,Luxury,1813.3,,USA,2025-10-11,123.0,2072,Invalid rating
+556,"Yates, Lopez and Osborne",,1842.38,3.7,UK,2025-08-21,485.0,2180,Invalid category
+560,Goodwin-Dennis,,625.94,2.5,FRANCE,2019-03-27,87.0,4126,Invalid category
+566,Lowe Ltd,,270.32,4.7,UK,2025-01-17,42.0,3770,Invalid category
+573,,Resort,945.37,4.3,AUSTRALIA,2025-07-17,258.0,133,Missing name
+580,"Johnson, Hall and Best",Business,,3.1,USA,2024-12-31,445.0,3996,Invalid price
+581,"Diaz, Ponce and Mathis",,155.12,2.7,INDIA,2025-07-25,331.0,2840,Invalid category
+585,Hess Inc,Budget,1792.08,99.0,AUSTRALIA,2023-04-29,62.0,4603,Invalid rating
+596,"Young, Foster and Hernandez",Luxury,,1.5,JAPAN,2023-06-12,,2776,Invalid price
+601,"Miller, Brewer and Hill",Resort,,3.2,UK,2025-02-03,62.0,3027,Invalid price
+602,,Business,767.69,1.1,FRANCE,2025-11-17,25.0,2499,Missing name
+603,Nelson-Medina,Resort,,1.3,USA,2023-09-19,290.0,3705,Invalid price
+617,,Luxury,843.93,3.8,UAE,2025-04-20,333.0,635,Missing name
+620,Holmes LLC,Business,,3.8,USA,2023-10-17,421.0,3244,Invalid price
+624,,Luxury,857.52,1.0,GERMANY,2023-08-21,414.0,207,Missing name
+632,"Davis, Davis and Mann",,314.86,4.3,FRANCE,2025-02-22,101.0,1641,Invalid category
+635,Simpson Inc,Luxury,175.25,99.0,FRANCE,2024-09-05,300.0,2948,Invalid rating
+636,,Budget,546.14,4.4,GERMANY,2025-11-15,,2144,Missing name
+637,,Resort,1773.47,1.8,INDIA,2024-08-14,339.0,1403,Missing name
+646,,Business,825.51,3.3,USA,2025-12-26,390.0,1222,Missing name
+651,Johnson Group,Budget,1119.23,,USA,2023-12-30,36.0,3161,Invalid rating
+652,Mathis LLC,Luxury,756.24,-1.0,UAE,2025-08-05,67.0,4394,Invalid rating
+654,"Stephens, Aguirre and Henry",Budget,,1.3,UAE,2023-10-20,169.0,4663,Invalid price
+659,,Budget,1504.89,1.3,FRANCE,2023-04-23,225.0,1148,Missing name
+662,Miller Ltd,Luxury,,1.8,GERMANY,2023-10-20,47.0,131,Invalid price
+674,Duran Group,Resort,,4.4,JAPAN,2024-12-11,373.0,1439,Invalid price
+679,Davis-Moore,Budget,,3.6,UAE,2025-10-05,462.0,658,Invalid price
+687,"Thompson, Sullivan and Cooper",Budget,,3.1,GERMANY,2025-01-18,338.0,3892,Invalid price
+688,Cain Ltd,,1630.86,-1.0,USA,2024-08-01,348.0,3639,Invalid rating; Invalid category
+695,,Boutique,794.65,4.1,FRANCE,2025-12-26,114.0,873,Missing name
+706,"Moreno, Sanchez and King",,1573.44,1.3,USA,2023-07-14,334.0,1016,Invalid category
+713,Cherry and Sons,,562.15,3.7,UAE,2024-06-08,186.0,2732,Invalid category
+714,Conley PLC,Business,,4.9,UAE,2023-07-30,64.0,1439,Invalid price
+725,Mitchell-Hunter,,728.43,3.0,UK,2024-07-21,211.0,1014,Invalid category
+726,,Business,808.86,2.7,FRANCE,2025-12-04,225.0,3599,Missing name
+730,"Murphy, Chavez and Bowen",Hostel,,2.1,UK,2025-11-26,79.0,4188,Invalid price
+734,Harmon-Fuller,Budget,,4.0,GERMANY,2024-11-05,311.0,825,Invalid price
+735,"Sawyer, Wright and Bradshaw",Business,220.87,,FRANCE,2023-05-04,186.0,4824,Invalid rating
+742,,Business,562.76,3.6,GERMANY,2024-07-08,60.0,11,Missing name
+748,"Bailey, Marshall and Zavala",Luxury,1299.63,99.0,UK,2024-05-27,308.0,110,Invalid rating
+749,,Boutique,696.63,1.8,INDIA,2024-06-01,418.0,1336,Missing name
+766,Barry Ltd,Budget,,4.8,USA,2024-03-03,491.0,3261,Invalid price
+777,"White, Moon and Dickerson",Boutique,,2.5,AUSTRALIA,2025-12-13,110.0,443,Invalid price
+778,,Resort,1282.3,1.3,UAE,2024-12-02,232.0,3438,Missing name
+781,Lewis Group,Hostel,1474.26,-1.0,FRANCE,2024-07-11,406.0,3329,Invalid rating
+789,,Boutique,1211.89,4.8,UAE,2024-05-03,99.0,3222,Missing name
+797,,,456.12,4.6,USA,2024-05-21,373.0,1036,Missing name; Invalid category
+815,"Hawkins, Sanchez and Holmes",,723.35,3.2,AUSTRALIA,2023-09-17,258.0,3529,Invalid category
+816,"Burke, Harper and King",Luxury,,4.7,GERMANY,2025-02-28,305.0,2260,Invalid price
+817,Martin Group,Hostel,,1.4,UK,2023-03-31,,2180,Invalid price
+821,"Haynes, King and Davis",Resort,960.96,99.0,USA,2023-12-27,117.0,4303,Invalid rating
+828,,Budget,273.17,1.0,AUSTRALIA,2024-12-20,,2059,Missing name
+841,Lynch-Jackson,Resort,932.95,99.0,AUSTRALIA,2025-04-18,108.0,2857,Invalid rating
+844,Floyd-Burns,Luxury,,1.9,UK,2024-02-10,166.0,1896,Invalid price
+850,"Fitzgerald, Robertson and Johnson",Business,,2.2,JAPAN,2024-11-18,447.0,1293,Invalid price
+855,"Waters, Miller and Fischer",Hostel,,2.5,UAE,2023-07-29,219.0,4501,Invalid price
+857,"Thompson, Alexander and Reeves",,142.06,2.8,JAPAN,2015-11-29,336.0,2000,Invalid category
+866,,Business,1571.38,3.4,UK,2024-03-31,429.0,2166,Missing name
+869,"Espinoza, Bowman and Black",Boutique,1172.38,,GERMANY,2024-10-02,133.0,2108,Invalid rating
+889,"Jackson, Dixon and Rogers",Boutique,1758.82,,USA,2023-07-27,447.0,1803,Invalid rating
+891,Davis-Lewis,Budget,,3.5,USA,2024-10-30,272.0,1475,Invalid price
+896,"Sutton, Moore and Fisher",Boutique,1221.77,,USA,2025-12-05,361.0,2730,Invalid rating
+897,Young Inc,Hostel,,3.1,FRANCE,2025-06-20,368.0,1878,Invalid price
+899,,Luxury,1551.65,2.1,UK,2024-08-10,206.0,1074,Missing name
+908,"Parrish, Fitzpatrick and Grant",Resort,,5.0,JAPAN,2025-03-09,191.0,4618,Invalid price
+914,,Budget,1612.61,1.7,USA,2026-01-04,27.0,1122,Missing name
+930,,Hostel,966.16,2.3,USA,2024-03-30,18.0,2640,Missing name
+932,,Resort,1398.16,2.9,GERMANY,2025-07-10,173.0,3953,Missing name
+939,Peterson-Webster,Hostel,1014.9,-1.0,UAE,2023-05-06,93.0,3487,Invalid rating
+940,"Hooper, King and Arnold",Resort,,2.7,FRANCE,2024-08-29,55.0,3808,Invalid price
+941,"Chambers, Dean and Garcia",Hostel,1612.99,-1.0,FRANCE,2024-07-26,233.0,94,Invalid rating
+944,Owens-Holland,Resort,945.58,-1.0,INDIA,2025-07-06,352.0,3025,Invalid rating
+946,,Budget,1083.92,1.6,INDIA,2025-10-02,498.0,3752,Missing name
+947,Keller-Barry,Hostel,1151.06,-1.0,AUSTRALIA,2003-06-15,371.0,828,Invalid rating
+948,"Johnson, Hall and Ward",Hostel,862.38,,JAPAN,2023-07-05,41.0,3550,Invalid rating
+951,Jackson-Pearson,Hostel,466.01,-1.0,GERMANY,2025-08-26,365.0,4991,Invalid rating
+961,"Mosley, English and Moreno",,512.74,5.0,FRANCE,2023-05-02,57.0,4948,Invalid category
+962,Jones-Harris,Budget,1926.07,99.0,UAE,2023-07-27,442.0,3156,Invalid rating
+983,,Budget,534.18,1.1,UAE,2025-01-26,287.0,1633,Missing name
+1000,,Hostel,666.84,2.0,USA,1972-11-24,72.0,3848,Missing name
+1013,White LLC,Budget,1075.21,,AUSTRALIA,2024-05-16,272.0,1366,Invalid rating
+1032,,Hostel,81.93,3.8,GERMANY,2023-03-31,332.0,1769,Missing name
+1037,Hess Inc,Budget,,3.6,AUSTRALIA,2025-08-30,33.0,2903,Invalid price
+1038,Fields-Johnston,Hostel,,2.7,FRANCE,2025-06-24,232.0,2538,Invalid price
+1044,Galloway-Fitzgerald,,1722.94,1.8,USA,2023-05-09,500.0,2828,Invalid category
+1050,Oconnell-Gonzalez,Resort,192.31,99.0,AUSTRALIA,2023-07-10,157.0,4076,Invalid rating
+1063,"Santos, Medina and Mora",Boutique,,3.9,AUSTRALIA,2025-09-14,54.0,1914,Invalid price
+1064,,Resort,265.69,3.5,USA,2025-03-17,,3902,Missing name
+1091,Williams PLC,Hostel,1186.84,-1.0,UAE,2025-10-29,473.0,3303,Invalid rating
+1099,Nicholson-Cannon,,786.76,2.3,FRANCE,2023-08-25,457.0,2179,Invalid category
+1110,,Budget,998.19,1.3,AUSTRALIA,2023-06-15,204.0,1743,Missing name
+1111,,Boutique,1125.84,1.6,GERMANY,2024-04-25,101.0,2679,Missing name
+1112,Mcdonald Ltd,Resort,,3.6,FRANCE,2023-06-21,58.0,341,Invalid price
+1114,Mckinney-Lawrence,Business,76.91,99.0,AUSTRALIA,2023-07-27,199.0,2681,Invalid rating
+1117,Mcdonald-Lee,Hostel,,4.6,JAPAN,2025-10-02,478.0,1676,Invalid price
+1119,,Luxury,331.99,3.7,USA,1977-02-20,239.0,3378,Missing name
+1120,,Hostel,1545.98,2.1,INDIA,2025-07-22,344.0,2227,Missing name
+1130,,Business,440.64,3.4,INDIA,2024-02-16,348.0,4025,Missing name
+1132,Hammond-Beck,Resort,,4.6,INDIA,2025-09-25,126.0,770,Invalid price
+1133,Washington Inc,Resort,,4.1,INDIA,2024-05-28,6.0,1051,Invalid price
+1134,Richards-Willis,,1019.08,3.8,UAE,2025-12-19,371.0,399,Invalid category
+1136,"Hill, White and Patterson",,1813.66,1.2,FRANCE,2024-04-23,299.0,4041,Invalid category
+1138,Garrett Ltd,Hostel,854.69,-1.0,FRANCE,2024-06-11,45.0,2152,Invalid rating
+1186,"Farmer, Colon and George",Hostel,1983.92,99.0,USA,2026-02-15,188.0,2926,Invalid rating
+1189,Lane-Shaw,Resort,1387.39,-1.0,FRANCE,2024-04-17,184.0,4168,Invalid rating
+1193,,Business,1630.66,4.9,AUSTRALIA,2026-02-24,382.0,3459,Missing name
+1200,,Luxury,569.06,3.2,UAE,2026-01-01,376.0,2508,Missing name
+1207,Browning Group,Business,,4.2,UAE,2023-12-06,416.0,3296,Invalid price
+1209,,Luxury,63.73,2.5,AUSTRALIA,2023-03-31,497.0,2581,Missing name
+1211,,Business,1088.05,1.2,UK,2023-06-06,494.0,1121,Missing name
+1216,"Graves, Jackson and Castro",Boutique,,1.2,AUSTRALIA,2025-04-08,82.0,4840,Invalid price
+1222,Willis PLC,Hostel,,1.8,FRANCE,2023-07-05,64.0,3020,Invalid price
+1224,"Lopez, Bennett and Benson",Business,,1.2,USA,2025-07-15,105.0,3386,Invalid price
+1234,Chase Inc,Hostel,1528.99,,JAPAN,2025-01-01,357.0,52,Invalid rating
+1236,Oconnell-Barker,Hostel,1265.6,-1.0,GERMANY,2024-01-05,378.0,370,Invalid rating
+1250,,Budget,1284.24,3.9,JAPAN,2025-07-31,289.0,1007,Missing name
+1251,"Jacobs, Steele and Davis",Budget,758.05,-1.0,FRANCE,2023-07-19,22.0,4526,Invalid rating
+1264,,Luxury,87.91,4.1,UK,2023-11-14,269.0,107,Missing name
+1268,Allen-Dalton,Resort,532.64,,JAPAN,2023-06-25,482.0,351,Invalid rating
+1285,"Williams, Hunt and Wallace",Luxury,,2.7,UAE,2024-03-09,29.0,956,Invalid price
+1300,,Luxury,366.75,2.4,FRANCE,2023-05-09,448.0,2998,Missing name
+1306,"Phillips, Sanchez and Patel",,779.48,3.5,INDIA,2024-03-27,197.0,4439,Invalid category
+1309,Perry Group,Business,1151.31,99.0,FRANCE,2024-07-11,399.0,2806,Invalid rating
+1314,Sanders and Sons,Resort,1130.61,-1.0,INDIA,2026-03-01,134.0,1836,Invalid rating
+1323,"Peters, Martinez and Cole",Business,,1.0,USA,2006-06-03,191.0,1880,Invalid price
+1325,,Hostel,1484.17,2.1,JAPAN,2025-11-26,197.0,3160,Missing name
+1342,Thompson Ltd,Luxury,,3.3,USA,2024-01-24,48.0,2480,Invalid price
+1344,"Gonzales, Huffman and Decker",Resort,,1.6,GERMANY,2024-02-05,474.0,3771,Invalid price
+1346,,Business,1853.3,4.7,GERMANY,2024-11-24,110.0,303,Missing name
+1348,Collins Inc,,1261.94,2.3,USA,2026-02-13,69.0,1229,Invalid category
+1349,Coleman and Sons,,1698.34,2.4,UAE,2023-06-04,380.0,10,Invalid category
+1353,Wilson-Cannon,Boutique,,1.5,JAPAN,2025-04-19,55.0,2804,Invalid price
+1364,Jones-White,Hostel,1830.44,,JAPAN,2025-12-17,483.0,4522,Invalid rating
+1365,Melton-Brown,Hostel,561.03,99.0,UK,2023-05-28,131.0,4987,Invalid rating
+1380,,Luxury,344.82,3.3,GERMANY,2023-07-10,278.0,4478,Missing name
+1382,Green PLC,Resort,164.26,99.0,UK,2024-06-11,425.0,925,Invalid rating
+1384,Rivera Ltd,Budget,,3.2,UK,2024-04-21,359.0,179,Invalid price
+1387,"Miller, Johnson and Williams",Hostel,,4.3,FRANCE,2024-09-12,139.0,3389,Invalid price
+1395,,Business,1930.57,3.0,USA,1998-03-18,439.0,3027,Missing name
+1397,Miller Ltd,,1715.48,1.6,FRANCE,2024-06-15,220.0,3918,Invalid category
+1402,Richardson Inc,Hostel,1512.54,,AUSTRALIA,2025-01-18,189.0,2168,Invalid rating
+1423,,Business,1239.81,3.4,USA,2024-01-13,8.0,3008,Missing name
+1426,"Johnson, Smith and Larsen",Luxury,1796.68,,GERMANY,2026-01-05,68.0,3535,Invalid rating
+1432,,Hostel,,1.9,AUSTRALIA,2024-06-22,236.0,1406,Missing name; Invalid price
+1452,"Washington, Mitchell and White",,263.48,1.5,USA,2023-11-01,260.0,2328,Invalid category
+1464,"Rodriguez, Walter and Glover",Boutique,,3.8,FRANCE,2025-10-01,372.0,1400,Invalid price
+1487,Friedman-Woodard,,1158.19,4.7,JAPAN,2025-05-04,95.0,3269,Invalid category
+1491,Farrell-Howard,,1469.82,3.1,AUSTRALIA,2025-10-19,62.0,650,Invalid category
+1495,,Luxury,121.88,3.8,FRANCE,2025-01-17,33.0,201,Missing name
+1497,"Snyder, Petersen and Foster",Resort,,4.9,UK,2024-05-14,204.0,4334,Invalid price
+1499,,Boutique,1716.21,2.4,AUSTRALIA,2025-03-03,458.0,1746,Missing name
+1502,,Luxury,796.51,4.8,FRANCE,2024-11-06,103.0,3122,Missing name
+1503,,Resort,1300.27,4.9,GERMANY,2023-04-16,287.0,1498,Missing name
+1508,Wolf-Stewart,Resort,1660.52,,AUSTRALIA,2025-06-28,157.0,999,Invalid rating
+1509,"Padilla, Roberts and Rubio",,1556.29,3.6,FRANCE,2026-02-11,118.0,4676,Invalid category
+1513,Rodriguez Ltd,,1007.38,3.6,FRANCE,2024-02-29,293.0,1995,Invalid category
+1533,,Budget,832.57,4.0,USA,2023-11-18,235.0,2398,Missing name
+1538,"Lewis, Rollins and Martinez",Boutique,48.36,-1.0,UAE,2025-12-05,105.0,81,Invalid rating
+1545,"Wise, Green and Reese",Luxury,653.82,,AUSTRALIA,2025-01-21,145.0,2086,Invalid rating
+1547,Santana Ltd,Boutique,,4.9,FRANCE,2025-07-28,315.0,409,Invalid price
+1550,,Budget,770.09,2.3,JAPAN,2024-04-15,436.0,1575,Missing name
+1551,Taylor LLC,,428.64,2.2,USA,2025-12-20,256.0,4166,Invalid category
+1552,Chavez-Cummings,Budget,,4.4,USA,2025-11-27,351.0,2861,Invalid price
+1563,Wagner-Warren,Budget,410.82,,UK,2025-04-13,130.0,4357,Invalid rating
+1566,"Lane, Steele and Horton",,1421.27,2.4,GERMANY,2023-05-23,100.0,4456,Invalid category
+1567,"Smith, Nelson and Howard",,,2.1,FRANCE,2025-12-10,1.0,2910,Invalid price; Invalid category
+1581,"Frederick, Gomez and Harris",Boutique,,1.0,USA,2024-12-15,413.0,3231,Invalid price
+1604,Stewart-Rocha,Boutique,87.12,99.0,FRANCE,2025-10-10,117.0,4730,Invalid rating
+1612,,Hostel,1933.16,3.5,FRANCE,2023-06-11,296.0,384,Missing name
+1614,,Business,1356.47,,UK,2023-04-18,300.0,653,Missing name; Invalid rating
+1616,"Alvarado, Cox and Hill",Luxury,1442.84,-1.0,USA,2025-06-20,366.0,3776,Invalid rating
+1620,Martinez Group,Budget,1367.32,99.0,FRANCE,2025-03-15,94.0,3743,Invalid rating
+1623,Davis LLC,Luxury,,3.2,FRANCE,2024-04-28,136.0,1169,Invalid price
+1635,"Scott, Soto and Carr",,451.55,1.4,USA,2023-11-26,196.0,4307,Invalid category
+1636,Montgomery-Lopez,Resort,,2.8,FRANCE,2024-10-16,399.0,287,Invalid price
+1643,Smith-Richard,Hostel,,4.0,INDIA,2024-11-29,93.0,3078,Invalid price
+1645,,Budget,709.54,3.3,AUSTRALIA,2024-01-17,,866,Missing name
+1653,"Kelly, Jennings and Scott",Resort,249.12,,FRANCE,2023-11-01,47.0,993,Invalid rating
+1654,"Butler, Cooke and Gallagher",,1705.28,4.0,FRANCE,2025-04-14,254.0,1651,Invalid category
+1680,Anderson Ltd,Luxury,93.89,-1.0,INDIA,2023-05-30,385.0,4066,Invalid rating
+1684,,Resort,140.79,1.4,UAE,2025-04-01,,4194,Missing name
+1687,Watkins-Robinson,Boutique,,2.0,JAPAN,2024-04-11,110.0,3237,Invalid price
+1689,,Hostel,160.6,1.5,USA,2025-06-16,187.0,1163,Missing name
+1692,,Luxury,1213.35,4.3,AUSTRALIA,2024-02-21,,826,Missing name
+1694,Rocha-Shaw,Business,,4.0,INDIA,2025-01-16,80.0,4018,Invalid price
+1701,"Mccoy, Johnson and Davis",Boutique,621.51,-1.0,UAE,2024-07-15,,3090,Invalid rating
+1710,"Jackson, Richards and Hill",Budget,,2.7,USA,2023-05-26,,2180,Invalid price
+1717,"Collier, Ellis and Santiago",Business,,3.0,FRANCE,2025-04-20,215.0,4056,Invalid price
+1719,Perkins-Hamilton,Business,499.25,-1.0,FRANCE,2024-12-24,,1844,Invalid rating
+1725,"Miller, Williams and Barnett",Business,159.17,99.0,USA,2024-05-01,48.0,4639,Invalid rating
+1728,Flynn-Conley,Budget,,1.6,FRANCE,2024-07-09,71.0,2215,Invalid price
+1732,Johnson Inc,,111.65,2.5,USA,2023-05-26,121.0,1393,Invalid category
+1738,Johnson and Sons,Boutique,52.55,,UAE,2025-02-21,228.0,325,Invalid rating
+1741,Knox-Bennett,Luxury,857.15,,FRANCE,2023-12-30,165.0,3276,Invalid rating
+1747,Cross Inc,Budget,1403.75,99.0,JAPAN,2023-11-22,137.0,2189,Invalid rating
+1756,"Fernandez, Nelson and Mcintyre",Resort,,1.9,GERMANY,2023-03-03,304.0,4171,Invalid price
+1757,,Resort,73.84,3.8,UK,2025-11-01,377.0,1502,Missing name
+1772,,Boutique,1932.9,1.7,INDIA,2023-12-28,215.0,4422,Missing name
+1777,,Business,827.99,3.8,GERMANY,2024-08-08,230.0,6,Missing name
+1779,King-Horton,Business,578.41,99.0,UAE,2025-10-08,450.0,4178,Invalid rating
+1781,,Resort,1261.11,2.1,UK,2024-09-29,291.0,3969,Missing name
+1785,Campos-Chavez,Budget,1568.55,99.0,GERMANY,2025-09-23,268.0,2060,Invalid rating
+1787,"Carroll, Garcia and Gray",,1861.99,3.5,UK,2025-08-14,334.0,1858,Invalid category
+1788,Stevens PLC,Boutique,622.02,,USA,2023-07-07,326.0,4452,Invalid rating
+1789,,Resort,1670.66,1.6,FRANCE,2024-10-02,,1239,Missing name
+1790,"Yang, Ball and Cox",Budget,,5.0,UAE,2024-11-01,319.0,2138,Invalid price
+1792,,Business,1872.43,2.6,UK,2025-04-12,171.0,3934,Missing name
+1798,Payne Inc,Boutique,958.3,,FRANCE,2024-01-08,46.0,3959,Invalid rating
+1801,Sloan-Sanchez,Luxury,1647.88,-1.0,USA,2023-08-01,411.0,103,Invalid rating
+1803,"Conley, Sexton and Davis",Budget,1484.68,,AUSTRALIA,2024-04-25,205.0,2283,Invalid rating
+1808,"Adams, Manning and Haas",Boutique,696.85,99.0,UAE,2024-03-02,58.0,4866,Invalid rating
+1809,,Hostel,343.1,99.0,USA,2025-02-12,244.0,3910,Missing name; Invalid rating
+1821,"Harrington, Blevins and Turner",Resort,,-1.0,FRANCE,2026-01-06,208.0,131,Invalid price; Invalid rating
+1829,Nunez LLC,Business,,4.7,AUSTRALIA,2024-10-26,203.0,3769,Invalid price
+1831,Dunlap Group,Boutique,1386.82,-1.0,USA,2024-05-08,90.0,4229,Invalid rating
+1834,Schaefer Inc,,1583.55,1.9,FRANCE,2024-06-01,321.0,1233,Invalid category
+1836,Rivera-Harris,,498.94,2.3,AUSTRALIA,2024-01-07,156.0,1108,Invalid category
+1844,,Budget,890.77,4.7,FRANCE,2025-06-20,303.0,4350,Missing name
+1847,,Hostel,1454.97,2.5,JAPAN,2024-09-21,307.0,4394,Missing name
+1851,Fox-Mckinney,Budget,878.98,99.0,UAE,2025-06-16,403.0,3399,Invalid rating
+1853,Montoya-Weber,Business,,4.3,GERMANY,2024-12-06,219.0,139,Invalid price
+1859,,Hostel,118.96,2.7,FRANCE,2024-01-13,76.0,362,Missing name
+1874,"Gutierrez, Jackson and Yates",Boutique,,2.8,FRANCE,2023-03-19,302.0,4545,Invalid price
+1876,,Resort,845.12,3.9,GERMANY,2023-08-22,182.0,3654,Missing name
+1891,Martinez Group,Hostel,,3.3,FRANCE,2026-02-24,213.0,3089,Invalid price
+1892,Callahan-Bush,Resort,1906.52,-1.0,UAE,2024-08-02,416.0,262,Invalid rating
+1907,Garcia-White,Budget,,1.1,AUSTRALIA,2024-03-04,302.0,4639,Invalid price
+1921,Thompson Ltd,Budget,,2.9,UAE,2025-04-08,397.0,33,Invalid price
+1922,Ortiz-Carter,Resort,1810.56,99.0,UAE,2023-05-06,61.0,1079,Invalid rating
+1929,Rojas-Nelson,,1391.97,1.2,UK,2025-06-05,111.0,308,Invalid category
+1937,"Jones, Gonzalez and Taylor",Budget,1929.05,,INDIA,2023-05-09,337.0,3104,Invalid rating
+1940,Simon LLC,,988.52,4.7,INDIA,2024-05-09,315.0,2260,Invalid category
+1945,,Resort,1211.02,5.0,UK,2024-03-03,4.0,3864,Missing name
+1963,Walters and Sons,Boutique,120.8,99.0,USA,2025-01-27,452.0,4915,Invalid rating
+1964,"Williams, Rangel and Burnett",Budget,1663.56,99.0,UAE,2024-02-25,91.0,976,Invalid rating
+1967,,Hostel,766.13,3.4,UK,2025-05-22,,177,Missing name
+1976,Bradley-Jones,Luxury,,2.0,AUSTRALIA,2024-07-09,386.0,4406,Invalid price
+1982,,Budget,1918.39,4.9,UAE,2025-08-05,171.0,899,Missing name
+1989,Wolf-Thompson,,605.59,1.5,JAPAN,2025-09-30,105.0,1676,Invalid category
+1994,Jackson-Cline,Hostel,,1.3,JAPAN,2025-01-04,179.0,3323,Invalid price
+1996,,,,3.1,AUSTRALIA,2024-12-19,250.0,3692,Missing name; Invalid price; Invalid category
+1997,,Boutique,,4.2,UK,2024-02-17,356.0,4577,Missing name; Invalid price
+2003,"Nguyen, Maxwell and Perry",,340.45,1.7,UAE,2024-07-24,332.0,1818,Invalid category
+2010,Jones-Jackson,Budget,1564.59,,AUSTRALIA,2024-10-25,430.0,2306,Invalid rating
+2013,Morgan and Sons,,166.41,4.6,UAE,1993-11-07,69.0,3287,Invalid category
+2027,Harrell PLC,Resort,731.28,,UK,2024-06-12,246.0,805,Invalid rating
+2031,,Boutique,656.44,1.5,AUSTRALIA,2024-06-24,78.0,3553,Missing name
+2032,Ford-Bryan,Business,,4.6,AUSTRALIA,2025-11-13,163.0,240,Invalid price
+2035,Bishop and Sons,Luxury,,2.0,USA,2025-05-13,486.0,3663,Invalid price
+2037,,Resort,101.17,3.3,USA,2025-09-23,177.0,1222,Missing name
+2039,,Business,1812.26,2.7,JAPAN,2023-12-23,187.0,1959,Missing name
+2049,,Business,721.79,3.7,USA,2024-06-19,337.0,1515,Missing name
+2056,"Brown, Goodman and King",Resort,,1.5,INDIA,2026-01-29,,485,Invalid price
+2058,,Boutique,1093.51,1.5,UAE,2024-11-14,52.0,1419,Missing name
+2059,"Peters, Velazquez and Lee",Boutique,1075.27,,AUSTRALIA,2023-12-09,150.0,1247,Invalid rating
+2063,"Stephens, Hernandez and Vance",Business,,3.3,INDIA,2024-10-19,401.0,2783,Invalid price
+2067,,Luxury,1303.02,3.1,FRANCE,2023-06-26,455.0,1745,Missing name
+2075,"Ross, Tate and Weeks",Resort,,4.1,USA,2026-02-05,409.0,2489,Invalid price
+2093,,Business,1674.54,3.7,USA,2024-07-03,265.0,2727,Missing name
+2099,Bender-Everett,Hostel,,3.4,FRANCE,2023-04-15,326.0,1541,Invalid price
+2104,"Hanson, Lane and Sweeney",Business,,2.8,AUSTRALIA,2025-12-10,61.0,4216,Invalid price
+2105,Mendoza-Lopez,Business,,2.1,JAPAN,2023-10-31,277.0,532,Invalid price
+2107,Sanders-Villa,Luxury,,2.5,USA,2024-09-09,304.0,1437,Invalid price
+2117,,Resort,1714.62,-1.0,USA,2024-07-03,319.0,3607,Missing name; Invalid rating
+2125,"White, Mccormick and Henry",Luxury,,4.1,INDIA,2026-02-18,171.0,688,Invalid price
+2144,Miller-Moon,Budget,,2.0,UK,2020-07-16,448.0,1363,Invalid price
+2159,"Herman, Mccarthy and Powers",Budget,,2.1,USA,2024-12-19,382.0,31,Invalid price
+2161,,Hostel,1695.21,3.5,FRANCE,2024-04-18,238.0,1000,Missing name
+2163,Davis and Sons,,,4.3,JAPAN,1985-07-15,434.0,2461,Invalid price; Invalid category
+2179,,Boutique,721.4,1.7,UK,2025-01-13,20.0,703,Missing name
+2191,Thomas PLC,Resort,,3.9,JAPAN,2025-01-25,327.0,2506,Invalid price
+2201,Shaw Inc,Hostel,,4.0,INDIA,2024-12-30,236.0,4692,Invalid price
+2202,"Hanson, Sanders and Garcia",,1206.84,2.3,UK,2025-04-27,57.0,2991,Invalid category
+2205,Smith-Mccoy,Budget,,4.4,FRANCE,2025-08-20,315.0,1857,Invalid price
+2207,Kramer PLC,Hostel,,2.8,GERMANY,2024-08-22,224.0,2988,Invalid price
+2216,Ruiz and Sons,Resort,,5.0,INDIA,2025-03-14,122.0,3809,Invalid price
+2220,,Business,1151.18,3.9,INDIA,2026-01-28,67.0,2754,Missing name
+2230,Ford-Riley,Luxury,,2.2,USA,2023-10-28,326.0,1910,Invalid price
+2231,Gibson-Hernandez,Budget,,2.1,UAE,2024-09-21,232.0,2730,Invalid price
+2236,Thompson-Hawkins,Hostel,,1.0,FRANCE,2026-01-24,271.0,2857,Invalid price
+2237,,Hostel,1206.99,4.8,UAE,2024-11-04,477.0,3356,Missing name
+2246,Gomez-Nelson,Hostel,1102.38,99.0,USA,2026-02-27,67.0,1382,Invalid rating
+2256,"Bauer, Williams and Reid",Resort,,3.9,USA,2024-12-30,434.0,3959,Invalid price
+2257,,Luxury,121.05,1.6,AUSTRALIA,2025-05-16,77.0,4629,Missing name
+2258,,Hostel,1515.28,3.0,USA,2024-11-13,494.0,3047,Missing name
+2264,"Ward, Brennan and Garcia",Budget,1081.86,-1.0,FRANCE,2026-02-23,215.0,414,Invalid rating
+2268,Franklin Ltd,Business,1940.23,99.0,UK,2024-08-05,313.0,1824,Invalid rating
+2280,"Johnson, Carrillo and Sullivan",Business,1607.55,-1.0,FRANCE,2023-03-18,128.0,2828,Invalid rating
+2283,,Luxury,294.23,3.7,FRANCE,2024-11-12,367.0,3543,Missing name
+2286,,Resort,1703.67,3.4,INDIA,2024-08-07,286.0,804,Missing name
+2289,"Briggs, Foster and Scott",Boutique,,1.6,INDIA,2025-08-07,,4538,Invalid price
+2299,Bell and Sons,Luxury,,1.9,FRANCE,2024-03-25,116.0,145,Invalid price
+2303,,Boutique,357.02,4.5,USA,2024-09-25,221.0,355,Missing name
+2312,,Luxury,571.53,-1.0,INDIA,2024-10-07,258.0,3758,Missing name; Invalid rating
+2318,,Business,818.01,4.5,UAE,2023-03-24,418.0,4250,Missing name
+2319,"Stone, Smith and Keller",Resort,,2.6,UK,2009-07-13,457.0,3735,Invalid price
+2320,,Resort,1537.48,2.9,USA,2023-03-17,415.0,1654,Missing name
+2328,"Peterson, Taylor and Henry",Resort,,3.6,INDIA,2025-06-12,237.0,4976,Invalid price
+2334,Jones PLC,Luxury,,3.0,GERMANY,2023-09-28,498.0,3075,Invalid price
+2346,,Business,172.75,1.7,AUSTRALIA,2023-09-26,291.0,4011,Missing name
+2351,"Davis, Ramsey and Hobbs",Luxury,,3.9,FRANCE,2024-07-04,226.0,1880,Invalid price
+2352,"Wallace, Villanueva and Hooper",Business,324.21,99.0,USA,2025-02-16,12.0,4508,Invalid rating
+2354,King-Coleman,Business,1378.33,-1.0,UK,1981-05-31,156.0,4405,Invalid rating
+2357,"Davis, Flores and Johnson",Boutique,,4.5,UAE,2023-03-13,461.0,3492,Invalid price
+2359,"Smith, Ramos and Hughes",Luxury,,2.2,AUSTRALIA,2023-08-08,374.0,778,Invalid price
+2360,"Walker, Roberts and Tran",Resort,364.81,99.0,JAPAN,2025-11-23,163.0,148,Invalid rating
+2362,Hernandez-Benitez,Hostel,1118.77,,FRANCE,2024-05-11,228.0,2491,Invalid rating
+2365,,Resort,1187.5,1.1,AUSTRALIA,2023-04-25,409.0,4157,Missing name
+2369,"Haynes, Nelson and Vincent",Hostel,1994.72,,AUSTRALIA,2025-12-09,467.0,319,Invalid rating
+2393,"Hodges, Lee and Gonzalez",Resort,,4.8,UK,2025-04-15,300.0,1710,Invalid price
+2407,Dillon Ltd,Luxury,263.44,,UAE,2024-01-09,188.0,1397,Invalid rating
+2410,Perez-Brown,Luxury,53.29,-1.0,JAPAN,2023-03-15,391.0,1881,Invalid rating
+2414,,Hostel,213.04,1.8,INDIA,2024-12-08,393.0,1882,Missing name
+2418,Quinn Group,,890.36,2.5,GERMANY,2024-11-20,378.0,4842,Invalid category
+2421,Foster-Martinez,Boutique,,4.5,FRANCE,2025-01-27,80.0,2835,Invalid price
+2422,Herring and Sons,Budget,,2.2,FRANCE,2025-04-11,453.0,3967,Invalid price
+2425,Nguyen-Blankenship,Boutique,,4.2,USA,2025-11-12,229.0,3505,Invalid price
+2434,,Luxury,1767.55,4.4,AUSTRALIA,2024-07-03,182.0,3547,Missing name
+2442,Smith-Thomas,Resort,1436.26,-1.0,AUSTRALIA,2024-08-15,362.0,4784,Invalid rating
+2457,"Dodson, Armstrong and Phelps",Budget,,1.5,UAE,2025-08-27,238.0,1658,Invalid price
+2461,,Resort,528.17,4.6,GERMANY,2023-08-19,209.0,66,Missing name
+2479,,Resort,747.26,2.7,JAPAN,2024-02-21,484.0,2177,Missing name
+2480,Delgado Group,Budget,,2.8,AUSTRALIA,2024-03-20,247.0,3273,Invalid price
+2485,Salazar and Sons,Hostel,865.26,99.0,UK,2025-07-22,330.0,1127,Invalid rating
+2495,Wallace LLC,Budget,,5.0,USA,2026-02-15,358.0,2362,Invalid price
+2512,,Luxury,939.05,2.0,USA,2025-11-26,45.0,3544,Missing name
+2516,,Hostel,1540.64,4.5,USA,2024-11-22,73.0,1700,Missing name
+2517,Wright Inc,Resort,,1.9,GERMANY,2023-10-04,276.0,4215,Invalid price
+2521,,Budget,917.1,5.0,USA,2025-06-26,316.0,1672,Missing name
+2522,"Walters, Young and Scott",Boutique,1611.49,,INDIA,2023-07-02,468.0,4242,Invalid rating
+2523,"Wheeler, Tucker and Edwards",Business,,3.4,AUSTRALIA,2026-02-11,216.0,2829,Invalid price
+2524,"Flores, Olson and Sparks",Hostel,,2.6,UAE,2026-02-16,269.0,3316,Invalid price
+2529,"Gibson, Lee and Galloway",Luxury,,4.2,INDIA,2025-07-28,193.0,1814,Invalid price
+2538,"Cook, Colon and Brown",Hostel,325.1,,USA,2024-07-20,202.0,4982,Invalid rating
+2543,"Combs, Cortez and Allen",Hostel,,2.2,AUSTRALIA,2023-04-18,111.0,3054,Invalid price
+2545,"Hahn, Holland and Rodriguez",Boutique,,4.5,UK,2024-04-07,182.0,3814,Invalid price
+2548,Yu Ltd,Resort,45.34,-1.0,USA,2025-10-10,105.0,1334,Invalid rating
+2564,,Hostel,1229.24,2.6,UK,2024-02-07,394.0,4424,Missing name
+2565,,Boutique,562.03,4.5,USA,2023-05-27,346.0,3383,Missing name
+2566,,Resort,1010.34,3.7,USA,2026-02-05,421.0,4073,Missing name
+2593,"Higgins, Flores and Burke",Luxury,,1.9,FRANCE,2026-02-23,363.0,155,Invalid price
+2602,"Liu, Hall and West",Luxury,806.97,99.0,GERMANY,2026-01-07,115.0,1420,Invalid rating
+2604,"Donovan, Lindsey and Hanson",Budget,993.12,99.0,AUSTRALIA,2025-10-26,427.0,3821,Invalid rating
+2606,Estrada-Davis,Luxury,,2.4,USA,2023-07-16,257.0,3100,Invalid price
+2613,"Campos, Garcia and Velez",Resort,1488.46,-1.0,USA,2024-08-27,29.0,2251,Invalid rating
+2614,,Budget,1979.19,1.1,UK,1982-07-02,73.0,3339,Missing name
+2620,"May, Crawford and Cantrell",Resort,,1.1,UAE,2024-04-01,222.0,3853,Invalid price
+2632,Marquez and Sons,Luxury,,1.3,FRANCE,2024-02-12,,3149,Invalid price
+2642,Holmes-Gonzalez,Budget,955.78,-1.0,USA,2024-05-09,458.0,2983,Invalid rating
+2652,Williamson-Meyer,Luxury,591.52,,GERMANY,2025-10-24,363.0,1778,Invalid rating
+2664,Mills-Manning,Hostel,,2.3,FRANCE,2023-06-19,246.0,3476,Invalid price
+2673,Acevedo Ltd,Luxury,873.37,99.0,FRANCE,2024-04-07,234.0,2355,Invalid rating
+2677,Hoffman Inc,Luxury,,2.4,UAE,2025-09-06,,4743,Invalid price
+2683,"Robinson, Johnson and Johnson",Budget,,4.1,JAPAN,2023-09-22,28.0,23,Invalid price
+2711,Hayes-Abbott,Boutique,1844.02,,UK,2024-04-16,315.0,3405,Invalid rating
+2713,Maldonado LLC,Luxury,1441.78,99.0,JAPAN,2024-03-11,330.0,757,Invalid rating
+2763,Ballard-Anderson,Luxury,91.63,99.0,USA,2025-04-12,,2542,Invalid rating
+2765,,Business,835.44,2.7,JAPAN,2024-12-01,395.0,2394,Missing name
+2772,Wallace-Rose,Resort,953.92,,AUSTRALIA,2025-10-30,47.0,1268,Invalid rating
+2779,"Macias, Garcia and Miller",Business,,2.3,INDIA,2024-03-07,300.0,3695,Invalid price
+2783,Davis-Cook,Resort,,1.5,JAPAN,1970-09-22,185.0,2074,Invalid price
+2784,Harmon and Sons,Resort,,1.2,USA,2025-10-28,73.0,2071,Invalid price
+2791,"Hudson, Schroeder and Parrish",,692.62,1.3,FRANCE,2024-03-04,490.0,1005,Invalid category
+2797,Woodard-Gregory,Luxury,,1.8,FRANCE,2026-01-10,,4655,Invalid price
+2803,"Ramirez, Lewis and Norman",Boutique,884.88,,JAPAN,2024-07-22,7.0,1386,Invalid rating
+2807,Davis LLC,Business,668.19,,JAPAN,2023-05-02,250.0,3162,Invalid rating
+2812,Miller-Jones,Budget,893.92,-1.0,USA,2025-05-29,302.0,1645,Invalid rating
+2816,,Hostel,1754.66,3.0,FRANCE,2025-08-03,24.0,1683,Missing name
+2821,Huerta-Clayton,Hostel,623.07,-1.0,JAPAN,2025-06-02,224.0,3515,Invalid rating
+2830,,Budget,1086.33,1.9,FRANCE,2023-08-02,18.0,505,Missing name
+2839,,Luxury,1976.46,3.0,UK,2024-07-20,403.0,2562,Missing name
+2846,Chan Ltd,,,3.7,FRANCE,2024-10-07,354.0,1978,Invalid price; Invalid category
+2855,Hawkins-Reed,Hostel,,3.5,FRANCE,2025-12-25,204.0,4097,Invalid price
+2865,,Business,322.75,3.7,USA,2025-12-29,190.0,269,Missing name
+2872,Maynard-Mitchell,Luxury,,4.8,USA,2025-01-03,280.0,394,Invalid price
+2875,"Jenkins, Copeland and Gibson",Business,,3.2,GERMANY,2024-07-28,279.0,226,Invalid price
+2878,,Boutique,329.25,1.8,UAE,2025-06-17,348.0,545,Missing name
+2879,,Luxury,119.64,3.2,UAE,2023-09-28,,920,Missing name
+2884,Stevenson PLC,Boutique,,4.7,GERMANY,2026-03-01,329.0,934,Invalid price
+2894,"Gillespie, Brown and Hodges",Budget,410.76,99.0,UAE,2023-11-23,317.0,4886,Invalid rating
+2895,,Resort,160.3,3.9,JAPAN,2023-07-18,40.0,726,Missing name
+2897,Wilson Group,Luxury,1330.68,,JAPAN,2024-10-13,127.0,4443,Invalid rating
+2927,Riddle Inc,Resort,,4.4,FRANCE,2023-04-24,149.0,1061,Invalid price
+2928,Thomas-Blevins,Hostel,234.45,99.0,JAPAN,2024-08-28,257.0,2859,Invalid rating
+2934,,,206.66,1.3,FRANCE,2024-02-02,379.0,2620,Missing name; Invalid category
+2938,,Boutique,197.51,2.5,GERMANY,2023-10-31,412.0,1895,Missing name
+2950,"Roberson, Coleman and Taylor",Budget,1180.83,99.0,AUSTRALIA,2024-03-29,449.0,4311,Invalid rating
+2964,,Budget,844.06,2.9,AUSTRALIA,2026-02-04,318.0,2370,Missing name
+2965,"Thomas, Thompson and Hernandez",Luxury,,1.0,USA,2025-12-26,241.0,1664,Invalid price
+2967,"Hanson, Huynh and Perez",Boutique,1513.01,99.0,FRANCE,2022-07-03,439.0,4773,Invalid rating
+2969,Mcintyre LLC,Boutique,,3.6,UAE,2025-06-11,334.0,2488,Invalid price
+2980,,Business,1285.12,-1.0,UK,2024-08-28,118.0,3356,Missing name; Invalid rating
+2981,Webb-Jenkins,Resort,1347.81,99.0,GERMANY,2023-03-31,484.0,546,Invalid rating
+2985,,Business,868.64,3.1,GERMANY,2025-04-28,182.0,4239,Missing name
+2988,"Vasquez, Johnson and Burton",Luxury,,3.7,USA,2024-08-15,481.0,2623,Invalid price
+2996,Perez-Green,Hostel,,2.5,FRANCE,2023-11-17,,1002,Invalid price
+2999,"Davidson, Brock and Kennedy",Resort,892.57,,USA,2025-04-15,348.0,105,Invalid rating
+3000,,Boutique,1201.43,2.1,USA,2024-05-04,194.0,2651,Missing name
+3005,"Hoover, Lozano and Kemp",Boutique,,1.8,GERMANY,2023-07-21,115.0,2123,Invalid price
+3020,,Business,1344.96,1.3,UK,2025-03-10,131.0,1823,Missing name
+3027,Rivera-Boyer,Luxury,1295.21,-1.0,FRANCE,2024-10-19,87.0,1997,Invalid rating
+3028,,Hostel,,2.8,JAPAN,2024-01-07,114.0,1631,Missing name; Invalid price
+3036,,Luxury,142.74,4.7,FRANCE,2024-02-20,172.0,4788,Missing name
+3038,Roberts-Jennings,Resort,1712.6,99.0,JAPAN,2026-01-17,456.0,4129,Invalid rating
+3045,"Wood, Fox and Williams",Resort,,4.9,GERMANY,2024-03-14,429.0,3833,Invalid price
+3047,Bradshaw and Sons,Resort,,4.8,USA,2024-04-03,274.0,555,Invalid price
+3063,Chavez Group,Luxury,,4.6,UAE,2024-04-20,239.0,2884,Invalid price
+3069,,Resort,1734.32,4.1,USA,2024-08-28,197.0,3596,Missing name
+3073,Wood-Cannon,Resort,,3.7,INDIA,2025-05-16,81.0,3059,Invalid price
+3082,Small-Green,Hostel,,2.3,FRANCE,2024-12-25,7.0,2700,Invalid price
+3094,White-Sanchez,Budget,,2.5,USA,2024-10-27,469.0,4898,Invalid price
+3097,,Resort,1947.12,3.3,AUSTRALIA,2023-11-14,,3166,Missing name
+3101,Harris-Campbell,Resort,,3.2,INDIA,2025-04-01,386.0,2832,Invalid price
+3103,White Ltd,Business,1358.67,99.0,FRANCE,2025-05-04,48.0,817,Invalid rating
+3112,,Budget,833.37,1.2,FRANCE,2023-04-28,166.0,4801,Missing name
+3115,Ellis Ltd,Business,420.8,-1.0,UK,2023-03-11,80.0,2718,Invalid rating
+3118,"Salas, Lopez and Decker",Business,,1.3,FRANCE,2024-10-19,,3382,Invalid price
+3130,Thomas-Turner,Resort,,3.3,GERMANY,2023-05-04,109.0,1054,Invalid price
+3136,Callahan LLC,Resort,739.07,,FRANCE,2023-09-30,389.0,80,Invalid rating
+3138,Ramirez LLC,Luxury,660.52,99.0,FRANCE,2025-08-20,349.0,3444,Invalid rating
+3144,Anderson and Sons,,1873.53,3.4,UK,2025-09-12,369.0,1899,Invalid category
+3149,Coleman-Lane,Boutique,,4.7,AUSTRALIA,2025-03-18,180.0,928,Invalid price
+3150,Reed-Jefferson,Business,,1.3,GERMANY,2024-10-28,149.0,3348,Invalid price
+3153,Randall Group,Hostel,824.58,-1.0,FRANCE,2024-03-30,325.0,3855,Invalid rating
+3156,Snyder and Sons,Business,746.69,,FRANCE,2025-05-02,313.0,222,Invalid rating
+3157,,Budget,1388.78,2.4,INDIA,2024-06-17,198.0,1946,Missing name
+3162,Green-Higgins,Boutique,916.31,99.0,INDIA,2024-11-21,171.0,1838,Invalid rating
+3194,,Budget,862.7,3.0,FRANCE,1988-02-16,64.0,1690,Missing name
+3198,"Mcbride, Turner and Williamson",Resort,,1.7,UAE,2024-12-16,20.0,1156,Invalid price
+3202,Baxter-Rivera,Boutique,1867.57,,GERMANY,2024-01-31,201.0,4564,Invalid rating
+3203,Taylor-Morgan,Business,,2.9,GERMANY,2024-10-20,233.0,677,Invalid price
+3212,"Schwartz, Harris and Campbell",Luxury,,1.1,USA,2024-12-05,471.0,1710,Invalid price
+3213,,Budget,1624.62,3.7,GERMANY,2026-02-18,142.0,1068,Missing name
+3219,"Melton, Washington and Garrett",Boutique,,3.0,GERMANY,2025-01-17,443.0,4040,Invalid price
+3226,,Business,779.94,2.7,USA,1975-03-02,341.0,2598,Missing name
+3232,,Budget,597.35,4.5,INDIA,2024-04-04,54.0,1833,Missing name
+3233,Payne PLC,Budget,1521.12,-1.0,FRANCE,2023-03-17,328.0,3961,Invalid rating
+3237,"Walker, Robinson and Stevenson",Luxury,452.11,,UK,2024-11-04,286.0,4688,Invalid rating
+3238,"Owen, Sexton and Evans",,1142.38,4.2,AUSTRALIA,2019-05-23,472.0,4673,Invalid category
+3239,"Luna, Smith and Kelly",Hostel,814.49,99.0,USA,2025-11-03,148.0,630,Invalid rating
+3249,"Kerr, Wilson and Smith",Hostel,,2.6,USA,2023-06-30,398.0,2362,Invalid price
+3259,,Resort,1371.69,3.6,UAE,2023-10-06,47.0,818,Missing name
+3264,Smith PLC,Boutique,,1.9,INDIA,2026-03-01,13.0,3688,Invalid price
+3271,,Budget,,2.6,AUSTRALIA,2023-06-16,271.0,1728,Missing name; Invalid price
+3315,,Boutique,561.75,2.7,UAE,2024-10-25,161.0,696,Missing name
+3316,Hall-Davis,Hostel,,2.9,UK,2025-08-19,16.0,266,Invalid price
+3333,Freeman LLC,Boutique,,4.1,AUSTRALIA,2024-02-01,32.0,4359,Invalid price
+3334,Anderson and Sons,,322.98,3.6,UK,2024-08-15,87.0,387,Invalid category
+3343,"French, Gutierrez and Adkins",Budget,,1.2,USA,2024-09-10,320.0,4468,Invalid price
+3354,Ray-Walker,Hostel,283.59,99.0,GERMANY,2023-03-21,266.0,4302,Invalid rating
+3355,Villanueva Group,Resort,,1.1,FRANCE,2025-01-13,13.0,2542,Invalid price
+3356,Rogers and Sons,Resort,627.33,-1.0,FRANCE,2024-06-20,238.0,2576,Invalid rating
+3360,Jefferson LLC,Boutique,792.8,-1.0,FRANCE,2024-03-01,449.0,1307,Invalid rating
+3361,,Budget,1102.27,2.3,USA,2024-10-25,347.0,3683,Missing name
+3365,Davis LLC,,1462.45,2.3,USA,2023-11-07,351.0,2487,Invalid category
+3366,,Boutique,,2.8,FRANCE,2023-05-27,172.0,1975,Missing name; Invalid price
+3370,,Luxury,897.85,4.7,JAPAN,2024-12-12,171.0,3622,Missing name
+3378,"Lopez, Gutierrez and Gomez",,802.69,3.4,AUSTRALIA,2023-09-15,479.0,2036,Invalid category
+3392,Norman-Holder,Budget,1196.51,,AUSTRALIA,2023-10-08,46.0,2962,Invalid rating
+3394,Mcknight-Johnson,Resort,1042.8,,GERMANY,2025-02-11,303.0,2693,Invalid rating
+3402,,Business,1218.46,1.7,JAPAN,2023-10-12,426.0,4047,Missing name
+3406,,Budget,477.79,1.2,UAE,2025-11-18,2.0,2710,Missing name
+3411,"Patrick, Cantu and Wolf",Business,,4.7,FRANCE,2025-08-14,341.0,609,Invalid price
+3412,Wise Inc,Hostel,1070.05,-1.0,USA,2023-11-09,278.0,1278,Invalid rating
+3432,,Resort,128.46,4.7,UK,2023-08-03,158.0,661,Missing name
+3443,Velazquez LLC,Resort,468.7,-1.0,JAPAN,2023-11-23,167.0,4286,Invalid rating
+3449,,,685.56,3.2,USA,2025-09-21,409.0,1440,Missing name; Invalid category
+3454,Johnson-Martin,Boutique,1469.35,,FRANCE,2024-06-13,254.0,866,Invalid rating
+3455,Hardy Inc,Hostel,,2.3,UAE,2024-06-24,18.0,4761,Invalid price
+3458,,Resort,1029.96,3.2,FRANCE,2024-06-01,140.0,1715,Missing name
+3463,,Hostel,291.87,1.5,USA,2024-10-07,445.0,1151,Missing name
+3468,"Hernandez, Ross and Montgomery",Resort,,1.6,INDIA,2023-06-21,145.0,2985,Invalid price
+3474,Smith-Ortiz,Budget,991.64,,JAPAN,2025-09-14,63.0,2195,Invalid rating
+3475,,Luxury,533.68,4.9,AUSTRALIA,2024-03-02,368.0,2379,Missing name
+3477,"Webb, Garrett and Weber",Boutique,,4.4,UK,2023-12-23,17.0,3739,Invalid price
+3480,"Green, Barrett and Cook",Budget,,2.0,FRANCE,2023-05-04,16.0,1862,Invalid price
+3482,Adams-Sherman,Business,755.36,,USA,1986-12-19,460.0,151,Invalid rating
+3484,,Luxury,1882.61,1.2,FRANCE,2025-01-06,341.0,2434,Missing name
+3487,,Resort,721.46,3.2,FRANCE,2024-03-20,105.0,1730,Missing name
+3499,,Hostel,1154.82,2.3,UAE,2024-07-23,500.0,894,Missing name
+3514,Herrera LLC,Resort,,2.2,USA,2024-01-18,354.0,2055,Invalid price
+3519,,Business,103.69,3.8,UK,2023-07-01,1.0,2091,Missing name
+3520,Brown-Hernandez,Budget,,4.0,FRANCE,2025-03-20,258.0,2701,Invalid price
+3528,"Barrett, Thomas and Torres",,1460.68,99.0,INDIA,2025-02-05,224.0,4496,Invalid rating; Invalid category
+3534,,Business,767.81,3.8,UK,2024-07-17,118.0,3170,Missing name
+3544,"Conner, Clay and Nelson",Hostel,,3.8,JAPAN,2023-12-03,474.0,4328,Invalid price
+3547,,Boutique,134.29,2.2,INDIA,2023-07-23,232.0,1128,Missing name
+3550,Jordan PLC,Boutique,1361.65,,AUSTRALIA,2023-05-04,1.0,3847,Invalid rating
+3555,,Resort,1928.65,4.3,USA,2024-09-15,68.0,892,Missing name
+3556,Goodman LLC,,1700.25,4.5,USA,2025-04-09,260.0,1339,Invalid category
+3568,"Cohen, West and Ellis",,1772.85,2.0,AUSTRALIA,2024-02-17,138.0,3421,Invalid category
+3569,Goodman-Barajas,Boutique,,2.7,UK,2023-04-05,179.0,4848,Invalid price
+3571,Benton and Sons,Luxury,530.73,,FRANCE,2024-03-05,108.0,880,Invalid rating
+3580,Fleming-Moreno,Budget,,4.6,USA,2024-12-09,107.0,4759,Invalid price
+3585,Thompson Group,Budget,,,UAE,2026-02-07,114.0,1462,Invalid price; Invalid rating
+3588,Hanson and Sons,Luxury,,-1.0,USA,2026-01-19,122.0,4025,Invalid price; Invalid rating
+3590,May-Clark,Hostel,,1.4,USA,2025-01-30,139.0,3808,Invalid price
+3604,,Hostel,,3.8,USA,2024-11-13,416.0,628,Missing name; Invalid price
+3637,,Resort,1825.29,2.6,FRANCE,2023-04-11,253.0,1518,Missing name
+3638,Bryant Group,Hostel,,1.1,USA,2024-11-07,108.0,2636,Invalid price
+3645,Harvey Ltd,,708.16,4.9,UAE,2025-05-31,385.0,1533,Invalid category
+3649,Jones LLC,Resort,,3.8,JAPAN,2023-07-04,382.0,3159,Invalid price
+3650,Santos-Smith,,1308.06,3.1,USA,2023-07-27,274.0,3611,Invalid category
+3652,Kaiser and Sons,Resort,189.53,99.0,UAE,2023-12-27,151.0,1586,Invalid rating
+3657,,Resort,305.69,4.2,JAPAN,2024-10-26,276.0,3619,Missing name
+3662,Scott Group,Budget,,2.9,GERMANY,2025-09-24,107.0,2292,Invalid price
+3663,,Hostel,1921.44,2.5,JAPAN,2023-06-21,92.0,4853,Missing name
+3667,Mathis-Shaw,Boutique,,3.6,USA,2026-01-05,325.0,1352,Invalid price
+3671,Bowers PLC,Business,,4.5,AUSTRALIA,1984-04-21,162.0,127,Invalid price
+3674,,Boutique,1696.23,2.0,GERMANY,2024-02-05,344.0,744,Missing name
+3680,"Martinez, Watkins and Allen",Budget,1813.06,99.0,USA,2024-04-10,,440,Invalid rating
+3685,,Hostel,1973.96,4.5,UK,2025-01-20,88.0,2551,Missing name
+3703,,Business,551.85,1.2,USA,2023-11-26,496.0,1695,Missing name
+3722,Wade-Morton,Resort,,2.4,FRANCE,2024-10-14,174.0,398,Invalid price
+3723,Schroeder-Johnson,Resort,398.03,,USA,2023-12-30,180.0,3037,Invalid rating
+3731,Hooper-Peterson,Luxury,,4.2,USA,2025-01-01,132.0,793,Invalid price
+3732,"Holmes, Monroe and Kramer",Boutique,,3.0,FRANCE,2024-03-30,59.0,3281,Invalid price
+3743,Chan Inc,Business,1288.08,,JAPAN,2024-10-04,10.0,1905,Invalid rating
+3746,,Luxury,1597.98,3.8,FRANCE,2024-07-24,,2940,Missing name
+3750,,Hostel,1596.99,3.5,UAE,2024-12-31,201.0,3705,Missing name
+3767,,Budget,1151.26,2.6,UAE,2023-09-02,218.0,1389,Missing name
+3777,"Elliott, White and Gonzales",Budget,416.47,-1.0,GERMANY,2024-09-09,412.0,1580,Invalid rating
+3779,"Ritter, Shaw and Turner",Luxury,,4.8,FRANCE,2023-09-23,390.0,1580,Invalid price
+3784,"Romero, Smith and Morris",Hostel,794.85,99.0,USA,2024-10-13,16.0,50,Invalid rating
+3789,,Luxury,1974.49,3.1,UK,2025-06-06,422.0,1775,Missing name
+3800,,Luxury,508.23,2.5,INDIA,2024-11-27,,2262,Missing name
+3804,Andrews and Sons,Budget,1507.77,-1.0,AUSTRALIA,2025-08-29,347.0,3369,Invalid rating
+3815,Guerra-Daugherty,Business,462.62,99.0,GERMANY,2025-05-12,427.0,2518,Invalid rating
+3816,Thompson and Sons,Resort,1753.6,-1.0,AUSTRALIA,2023-07-02,379.0,1090,Invalid rating
+3817,Herring-Cook,,134.56,2.9,USA,2024-10-31,299.0,4244,Invalid category
+3820,,Business,282.43,1.6,INDIA,2025-11-09,375.0,2309,Missing name
+3826,,Resort,162.97,4.4,FRANCE,2025-06-04,26.0,495,Missing name
+3835,,Business,854.23,2.6,INDIA,2023-09-23,366.0,505,Missing name
+3839,Gregory-Rodriguez,Luxury,83.69,,FRANCE,1979-03-10,252.0,3308,Invalid rating
+3842,Yang-Mendoza,Hostel,,1.7,FRANCE,2025-03-10,477.0,4894,Invalid price
+3855,,Budget,1335.9,99.0,GERMANY,2025-12-30,436.0,920,Missing name; Invalid rating
+3857,,Resort,56.64,2.6,USA,2024-12-01,317.0,1272,Missing name
+3892,"Mack, Wallace and Gonzalez",,1242.21,3.6,USA,2024-03-19,401.0,500,Invalid category
+3895,Carroll Ltd,Business,95.0,-1.0,FRANCE,2024-01-18,326.0,3811,Invalid rating
+3899,Ballard Group,Luxury,444.9,99.0,USA,2026-02-08,,767,Invalid rating
+3912,Ware-Baker,Luxury,,2.9,GERMANY,2025-06-16,228.0,3145,Invalid price
+3917,"Stewart, Hamilton and Lucas",Luxury,441.34,-1.0,UK,2024-03-12,250.0,1075,Invalid rating
+3922,,Boutique,615.07,3.0,GERMANY,2024-11-04,101.0,3701,Missing name
+3927,,Resort,1417.12,1.7,AUSTRALIA,1989-06-04,214.0,1165,Missing name
+3933,,Resort,1515.51,4.1,UK,2023-03-16,217.0,1956,Missing name
+3937,"Lewis, Smith and Price",Boutique,669.13,-1.0,JAPAN,2023-07-13,62.0,4966,Invalid rating
+3942,Mercado Inc,,1634.08,1.1,USA,2023-09-12,301.0,3143,Invalid category
+3949,Griffin LLC,,610.47,4.1,INDIA,1989-07-14,410.0,1828,Invalid category
+3950,May and Sons,Resort,442.94,99.0,AUSTRALIA,2023-07-15,88.0,2720,Invalid rating
+3953,,Luxury,557.62,4.1,UAE,2026-03-01,326.0,2767,Missing name
+3969,"Lawrence, Stone and Turner",Hostel,,4.7,USA,2024-06-13,150.0,1215,Invalid price
+3979,Torres PLC,Budget,1056.95,99.0,UK,2023-07-31,120.0,3609,Invalid rating
+3980,,Hostel,1453.72,2.4,FRANCE,2023-04-27,435.0,3222,Missing name
+3986,,Business,1771.74,1.7,UK,2023-10-25,375.0,2604,Missing name
+3987,Campbell LLC,Budget,,1.9,INDIA,2023-09-02,361.0,4298,Invalid price
+3994,,Luxury,1256.7,4.5,UAE,2025-10-09,393.0,4583,Missing name
+4000,,Budget,1826.84,2.9,USA,2000-05-21,29.0,516,Missing name
+4002,,Luxury,1840.86,1.5,UK,2025-03-08,425.0,1787,Missing name
+4021,Conley Group,Business,979.19,-1.0,UK,2023-03-11,384.0,4328,Invalid rating
+4044,Walker Group,Resort,1322.97,99.0,UAE,2023-10-09,190.0,1002,Invalid rating
+4081,,Luxury,918.79,3.9,FRANCE,2026-01-01,371.0,2033,Missing name
+4084,,Budget,557.11,1.3,AUSTRALIA,2025-04-06,393.0,2761,Missing name
+4089,,Resort,865.07,2.1,AUSTRALIA,2026-01-12,435.0,2377,Missing name
+4090,,Budget,1009.05,1.2,JAPAN,2023-12-28,427.0,4620,Missing name
+4092,,Budget,1119.23,3.0,USA,2025-06-20,188.0,3048,Missing name
+4109,Mcintyre Inc,Business,1749.96,,USA,2024-01-23,220.0,3552,Invalid rating
+4116,,,1812.57,4.8,AUSTRALIA,2026-01-09,476.0,4656,Missing name; Invalid category
+4119,Perry-Hayes,Business,111.94,,UAE,2025-03-15,7.0,3533,Invalid rating
+4123,,Luxury,403.87,1.4,UAE,2023-07-03,280.0,2899,Missing name
+4126,"Miller, Chase and Morales",Luxury,1855.4,-1.0,UAE,2024-01-08,159.0,2229,Invalid rating
+4128,Ramirez Ltd,Business,,1.1,FRANCE,2024-11-11,357.0,3750,Invalid price
+4131,,Business,1821.29,2.2,JAPAN,2026-02-22,42.0,825,Missing name
+4133,Owens-Curry,,1993.5,1.6,INDIA,2026-01-24,7.0,1698,Invalid category
+4135,Perkins LLC,Business,110.25,-1.0,FRANCE,2023-04-29,451.0,1763,Invalid rating
+4146,"Williams, Johnson and Carpenter",Hostel,1006.29,-1.0,JAPAN,2025-06-24,,3699,Invalid rating
+4148,Frazier-Murphy,Budget,200.07,-1.0,JAPAN,2023-05-06,460.0,1032,Invalid rating
+4149,Freeman-Gonzales,Resort,1107.89,-1.0,UK,2024-10-20,,3118,Invalid rating
+4152,Mcmahon-Hall,Luxury,1028.45,99.0,INDIA,2023-07-03,329.0,836,Invalid rating
+4161,"Peterson, King and Schwartz",Hostel,,3.8,FRANCE,2023-08-18,359.0,2574,Invalid price
+4172,,Luxury,1643.93,4.6,FRANCE,2024-03-10,187.0,873,Missing name
+4175,"Davis, Gonzalez and Boyd",Resort,1015.08,99.0,UK,2023-11-18,52.0,1704,Invalid rating
+4188,Stevens Group,Resort,,4.9,USA,2023-03-09,56.0,4518,Invalid price
+4190,,Budget,974.02,1.6,USA,2023-10-28,402.0,3396,Missing name
+4195,,Resort,60.15,2.0,UK,2024-02-09,319.0,634,Missing name
+4204,Kelly-Thompson,Luxury,793.5,-1.0,JAPAN,2024-01-30,355.0,625,Invalid rating
+4205,,Resort,46.43,4.6,USA,2025-06-10,255.0,171,Missing name
+4214,"Colon, Nelson and Larson",,,3.8,GERMANY,2024-08-16,248.0,583,Invalid price; Invalid category
+4215,,Luxury,1310.45,4.5,AUSTRALIA,2024-08-28,360.0,797,Missing name
+4216,"Stevens, Beard and Cruz",Luxury,319.92,99.0,GERMANY,2025-01-16,114.0,1837,Invalid rating
+4231,Lopez-Forbes,Resort,1035.19,-1.0,USA,2023-10-30,355.0,1985,Invalid rating
+4234,Hodges-Patel,Luxury,,4.0,JAPAN,2025-04-22,322.0,4544,Invalid price
+4236,,Business,944.95,2.2,AUSTRALIA,2026-01-03,297.0,128,Missing name
+4242,,Business,1845.19,2.9,FRANCE,2024-10-02,320.0,234,Missing name
+4251,"Turner, Simpson and Jefferson",Budget,,99.0,USA,2023-08-26,448.0,3443,Invalid price; Invalid rating
+4253,Walsh PLC,Boutique,,1.2,INDIA,2023-10-23,139.0,3202,Invalid price
+4258,,Resort,695.8,1.7,JAPAN,2025-06-02,279.0,4396,Missing name
+4269,"Gutierrez, Giles and Williams",Budget,,2.3,USA,2023-07-24,109.0,4623,Invalid price
+4279,,Business,1936.77,1.6,UK,2025-02-12,209.0,2707,Missing name
+4281,"Duran, Dennis and Moody",,877.43,2.3,UK,2023-07-25,430.0,3357,Invalid category
+4309,Hoffman-Marshall,Budget,,3.3,AUSTRALIA,2023-05-12,271.0,4679,Invalid price
+4311,Smith LLC,Luxury,407.16,-1.0,UAE,2026-02-18,264.0,4348,Invalid rating
+4319,"Perry, Morales and Fox",,67.43,1.3,UK,2024-04-03,330.0,2196,Invalid category
+4323,King-Robles,Business,,3.5,UK,2026-02-01,464.0,2443,Invalid price
+4327,Lutz Inc,,,2.7,UAE,2000-05-17,197.0,3300,Invalid price; Invalid category
+4334,Allen LLC,Resort,443.12,,GERMANY,2025-03-15,41.0,4562,Invalid rating
+4335,Garza PLC,Resort,214.78,-1.0,USA,2025-10-27,252.0,1792,Invalid rating
+4354,"Robinson, Li and Cook",,1132.5,1.3,GERMANY,2025-07-19,448.0,3261,Invalid category
+4356,,Boutique,1114.13,1.1,FRANCE,2023-03-25,285.0,4772,Missing name
+4357,,Budget,1740.05,2.9,JAPAN,2023-07-19,461.0,2103,Missing name
+4361,Arnold PLC,Resort,,2.7,UAE,2025-03-12,348.0,3931,Invalid price
+4372,Wong-Hurst,Hostel,,2.1,INDIA,2025-06-12,427.0,3515,Invalid price
+4377,"Moore, Walker and Barton",Luxury,,2.2,USA,2025-12-10,387.0,2865,Invalid price
+4380,"Macias, Henderson and Everett",Hostel,,4.8,FRANCE,1983-11-05,427.0,3674,Invalid price
+4383,"Richardson, Turner and White",Boutique,366.96,99.0,AUSTRALIA,2025-05-14,332.0,4860,Invalid rating
+4385,Yang-Taylor,,363.67,4.7,FRANCE,2024-03-13,293.0,4674,Invalid category
+4402,Fernandez-Jenkins,Budget,,3.5,USA,2025-05-18,36.0,274,Invalid price
+4404,"Weiss, Harrison and Lewis",,124.92,2.3,USA,2025-04-10,221.0,2278,Invalid category
+4406,,Budget,599.93,3.8,FRANCE,2025-12-30,269.0,2984,Missing name
+4415,Velazquez-Wagner,Hostel,,2.6,UAE,2025-03-24,434.0,2103,Invalid price
+4421,Guerrero-Carpenter,Business,1377.6,,UAE,2025-05-14,400.0,3712,Invalid rating
+4433,Silva-Parker,Hostel,513.81,99.0,USA,2024-12-06,,2149,Invalid rating
+4434,,Hostel,643.34,2.5,UAE,2024-07-02,178.0,728,Missing name
+4444,Martin-Williams,Boutique,,3.4,GERMANY,2024-08-17,83.0,416,Invalid price
+4454,,,466.12,2.2,UAE,2024-09-11,307.0,2867,Missing name; Invalid category
+4463,Williams and Sons,,1285.45,1.7,USA,2024-09-12,454.0,3625,Invalid category
+4465,,Business,1653.75,2.8,JAPAN,2025-02-13,394.0,2517,Missing name
+4466,Rocha-Clark,,1817.62,3.0,USA,2023-05-09,40.0,2648,Invalid category
+4468,,Resort,482.62,3.8,USA,2023-09-25,306.0,819,Missing name
+4476,,Boutique,1049.28,2.8,GERMANY,2023-10-02,169.0,2248,Missing name
+4478,,Budget,323.78,4.1,UK,2025-07-25,225.0,208,Missing name
+4483,Wheeler-Young,Budget,1049.62,,USA,1986-12-24,305.0,3871,Invalid rating
+4485,"Reyes, Cox and Sanchez",Boutique,,2.3,FRANCE,2025-08-15,464.0,1429,Invalid price
+4499,"Hernandez, Baldwin and Harrison",Boutique,1140.4,,INDIA,2025-08-05,250.0,4027,Invalid rating
+4501,,Business,1080.88,1.5,AUSTRALIA,2024-04-26,10.0,1605,Missing name
+4502,Moore LLC,Budget,1716.41,-1.0,JAPAN,2026-01-16,128.0,3612,Invalid rating
+4506,,Resort,1823.97,4.1,FRANCE,2024-05-25,35.0,4681,Missing name
+4515,,,495.82,5.0,FRANCE,2025-10-31,210.0,1665,Missing name; Invalid category
+4529,"Gonzalez, Ross and Odom",Luxury,,4.5,FRANCE,2023-05-30,312.0,3881,Invalid price
+4538,Blake-Beck,Business,95.54,-1.0,GERMANY,2025-01-05,250.0,3068,Invalid rating
+4546,Rodriguez-Lopez,Resort,1188.14,,AUSTRALIA,2024-04-10,53.0,3460,Invalid rating
+4547,Sanders PLC,Resort,,2.6,JAPAN,2024-07-15,83.0,1955,Invalid price
+4550,"Williams, Mahoney and Benitez",Hostel,98.88,99.0,FRANCE,2025-07-24,,160,Invalid rating
+4551,Oconnor-Stewart,Resort,948.99,,FRANCE,2024-10-21,158.0,4754,Invalid rating
+4563,,Budget,1281.27,-1.0,FRANCE,2024-06-20,51.0,50,Missing name; Invalid rating
+4568,Hart LLC,Luxury,981.76,,GERMANY,2025-11-03,229.0,3200,Invalid rating
+4573,,Boutique,1640.71,4.2,JAPAN,1992-03-11,210.0,161,Missing name
+4587,,Business,1713.11,4.1,UK,2024-03-18,364.0,3665,Missing name
+4602,Hurst-Williams,Luxury,969.31,,INDIA,2025-08-29,373.0,2744,Invalid rating
+4605,,Luxury,1463.32,1.8,UAE,2025-09-26,387.0,1546,Missing name
+4623,,Budget,736.78,3.3,INDIA,2025-02-02,447.0,1867,Missing name
+4625,Gonzalez-Adams,Hostel,,2.1,FRANCE,2024-11-03,292.0,4102,Invalid price
+4632,,Luxury,1154.2,2.5,USA,2025-08-10,476.0,3252,Missing name
+4637,"Perry, Johnson and Mcdaniel",,1138.74,1.9,USA,2024-01-06,119.0,1645,Invalid category
+4639,Vega LLC,Luxury,441.99,-1.0,AUSTRALIA,2025-10-29,366.0,57,Invalid rating
+4640,"Edwards, Mcgee and Davis",,1420.63,1.3,UK,2023-09-22,276.0,1101,Invalid category
+4650,Armstrong LLC,Luxury,,1.6,JAPAN,2025-05-17,,4971,Invalid price
+4653,,Boutique,1592.39,1.4,UK,2023-10-13,33.0,384,Missing name
+4656,,Hostel,688.42,2.9,USA,2023-04-21,26.0,2316,Missing name
+4666,"Holland, Price and Marsh",,,3.8,INDIA,2024-05-13,296.0,1253,Invalid price; Invalid category
+4674,,Resort,247.78,1.6,FRANCE,2023-11-06,199.0,1904,Missing name
+4679,Huff-Weiss,,258.84,3.0,AUSTRALIA,2024-01-28,406.0,3579,Invalid category
+4681,"Tran, Harris and Morris",,481.52,3.5,FRANCE,2025-01-23,120.0,3745,Invalid category
+4687,,Hostel,1985.03,4.8,UK,2025-02-22,74.0,2426,Missing name
+4702,,Boutique,370.62,3.6,FRANCE,2023-08-14,257.0,4019,Missing name
+4705,Faulkner-Thomas,Boutique,1985.26,-1.0,INDIA,2023-06-30,388.0,4852,Invalid rating
+4708,Lee-Smith,Budget,52.02,,JAPAN,2024-08-07,262.0,1895,Invalid rating
+4711,,Boutique,,4.9,JAPAN,2024-10-02,43.0,3385,Missing name; Invalid price
+4718,"Smith, Trujillo and Schmitt",Budget,,2.0,UAE,2025-05-04,262.0,1366,Invalid price
+4728,Barajas-Foley,Resort,1887.75,99.0,JAPAN,2024-04-28,489.0,1586,Invalid rating
+4730,Smith-Donovan,Luxury,,4.5,FRANCE,2025-07-23,193.0,1425,Invalid price
+4739,"Nguyen, Russell and Day",Budget,1811.2,99.0,INDIA,2023-03-15,374.0,2424,Invalid rating
+4747,,Resort,130.63,3.0,UK,2023-04-19,,4750,Missing name
+4752,,Resort,1173.71,1.9,USA,2025-08-31,49.0,2486,Missing name
+4754,,Resort,1910.74,5.0,GERMANY,2025-07-20,103.0,3276,Missing name
+4766,,Resort,942.18,2.5,USA,2025-10-09,368.0,1785,Missing name
+4773,Lee and Sons,Budget,,2.4,FRANCE,2023-03-26,257.0,3449,Invalid price
+4777,Rogers-Clarke,Business,1639.47,99.0,USA,2023-05-22,45.0,179,Invalid rating
+4785,"George, Lewis and Carroll",,957.89,3.7,USA,2025-07-27,439.0,2328,Invalid category
+4799,"Harrison, Weaver and Spencer",Luxury,,3.7,AUSTRALIA,2024-07-09,464.0,1640,Invalid price
+4803,Boyd-Mendez,Boutique,1294.78,,FRANCE,2025-02-08,199.0,1160,Invalid rating
+4816,"Watkins, Juarez and Stanley",,1854.88,4.4,USA,2024-10-27,69.0,431,Invalid category
+4819,Russo-Silva,Boutique,,1.4,AUSTRALIA,2024-06-24,158.0,3623,Invalid price
+4824,Jones and Sons,Luxury,1673.75,,UK,2023-03-30,63.0,4728,Invalid rating
+4828,Flores-Short,Hostel,,3.1,AUSTRALIA,2025-11-13,496.0,4808,Invalid price
+4836,Mccann PLC,Luxury,67.22,-1.0,JAPAN,2025-10-18,193.0,2364,Invalid rating
+4839,Taylor Group,Boutique,,2.4,AUSTRALIA,2025-07-11,105.0,1326,Invalid price
+4851,Robles-Schroeder,Hostel,,1.7,AUSTRALIA,2024-03-09,404.0,759,Invalid price
+4853,"Flores, Johnson and Lopez",,552.54,3.5,UAE,2024-10-15,194.0,1151,Invalid category
+4856,,Luxury,225.22,4.2,FRANCE,2025-09-22,91.0,2998,Missing name
+4861,Page-Jones,Boutique,,4.7,FRANCE,2025-06-13,192.0,4545,Invalid price
+4866,"Odonnell, Myers and Russell",Budget,,2.2,UK,2023-12-21,185.0,3794,Invalid price
+4871,"Lutz, Curtis and Tate",Hostel,,2.5,GERMANY,2023-08-01,359.0,3979,Invalid price
+4872,,Business,1072.49,-1.0,GERMANY,2024-10-27,171.0,2224,Missing name; Invalid rating
+4875,,Business,996.04,4.6,FRANCE,2023-08-21,11.0,1968,Missing name
+4887,,Boutique,1417.0,4.4,UAE,2025-05-20,82.0,3163,Missing name
+4888,Bell Inc,Resort,1531.5,-1.0,UK,2025-06-03,28.0,1463,Invalid rating
+4912,,Resort,1629.78,2.3,UAE,2025-06-03,,4560,Missing name
+4919,Parker-Brown,,612.12,4.8,USA,2025-12-13,448.0,1507,Invalid category
+4925,Mcdaniel LLC,Luxury,,2.8,USA,2025-01-18,480.0,4404,Invalid price
+4928,Cooper and Sons,Luxury,,3.9,JAPAN,2024-04-28,,4826,Invalid price
+4941,Berry LLC,Boutique,,3.1,GERMANY,2024-06-24,237.0,938,Invalid price
+4943,"Harris, Hill and Mitchell",Business,,,USA,2023-08-08,61.0,2179,Invalid price; Invalid rating
+4949,Jensen-Romero,Boutique,,4.4,UK,2024-12-11,99.0,3460,Invalid price
+4953,,Business,35.08,4.2,FRANCE,2025-02-22,50.0,2948,Missing name
+4955,,Luxury,1541.26,3.2,GERMANY,2025-01-16,276.0,1636,Missing name
+4963,Taylor and Sons,Hostel,,2.5,FRANCE,2025-11-01,134.0,4183,Invalid price
+4965,"Riley, Sullivan and Horn",,978.04,2.0,FRANCE,2024-09-22,128.0,3168,Invalid category
+4967,,Budget,417.81,3.4,GERMANY,2023-05-09,133.0,1320,Missing name
+4978,"Davis, Acevedo and Shaw",Luxury,1028.85,-1.0,AUSTRALIA,2025-12-28,90.0,4445,Invalid rating
+4983,"White, Lewis and Harris",Business,,3.3,FRANCE,2026-01-12,305.0,519,Invalid price
+4993,Ellis Group,Resort,,1.4,UK,2024-02-22,384.0,4634,Invalid price
+4999,Cardenas LLC,Boutique,786.56,99.0,AUSTRALIA,2023-08-25,215.0,2373,Invalid rating
+5008,,Luxury,905.82,5.0,USA,2024-10-08,459.0,4479,Missing name
+5017,,Resort,961.77,2.8,USA,2025-03-03,268.0,4394,Missing name
+5028,Walker PLC,,855.0,4.0,FRANCE,2024-02-09,255.0,427,Invalid category
+5031,Scott-Mayo,,1124.23,3.3,JAPAN,2025-05-31,224.0,4066,Invalid category
+5037,,Hostel,714.69,1.3,UAE,2023-12-22,367.0,1216,Missing name
+5041,"Moore, Phillips and Cox",Luxury,,4.2,FRANCE,2024-07-04,302.0,3636,Invalid price
+5044,Miller-Kaiser,,1774.71,2.3,FRANCE,2026-01-02,192.0,2652,Invalid category
+5049,Ramirez LLC,Hostel,,3.3,GERMANY,2023-11-13,422.0,517,Invalid price
+5054,Holt-Roberts,Boutique,1551.83,99.0,USA,1993-11-13,191.0,2094,Invalid rating
+5055,"Hines, Long and Garcia",Hostel,1178.2,-1.0,INDIA,2023-06-06,398.0,1696,Invalid rating
+5060,,Luxury,1741.59,1.7,GERMANY,2023-06-20,430.0,4827,Missing name
+5065,Hoffman PLC,,135.76,4.2,UK,2025-09-09,103.0,1692,Invalid category
+5070,"Sweeney, Fitzgerald and Martinez",Business,,3.2,JAPAN,2026-02-17,226.0,2098,Invalid price
+5093,,Hostel,137.83,1.8,JAPAN,1978-03-06,196.0,2245,Missing name
+5112,,Business,1061.48,2.0,USA,2024-07-10,224.0,2920,Missing name
+5142,"Alexander, Adams and Pham",,649.53,4.6,USA,2025-04-25,185.0,4341,Invalid category
+5146,"Hutchinson, Morris and Lynch",Budget,,3.1,UK,2024-05-31,317.0,4795,Invalid price
+5148,Jenkins-Thompson,,148.11,3.7,GERMANY,2025-05-12,435.0,3509,Invalid category
+5152,Stanley Ltd,Luxury,,3.3,USA,2024-02-28,157.0,2161,Invalid price
+5155,,Resort,1022.37,5.0,USA,2025-09-14,22.0,1619,Missing name
+5156,"Wilson, Clark and Gonzales",Budget,,3.9,AUSTRALIA,2024-03-02,141.0,1119,Invalid price
+5166,,Budget,839.66,4.2,UK,2024-02-24,254.0,4118,Missing name
+5169,,Resort,1055.49,3.9,UAE,2023-10-25,433.0,678,Missing name
+5175,,Luxury,418.74,3.0,JAPAN,2024-12-01,78.0,4020,Missing name
+5194,Ramsey-Gonzalez,Luxury,1517.33,,AUSTRALIA,2024-01-15,412.0,4847,Invalid rating
+5204,,Hostel,1180.22,2.1,UK,1992-04-01,51.0,3866,Missing name
+5209,"Le, Villarreal and Stevens",,1029.95,3.4,USA,2023-09-06,18.0,627,Invalid category
+5211,,Boutique,1303.48,4.6,JAPAN,2024-03-22,312.0,2334,Missing name
+5214,Walker-White,Resort,1499.83,,FRANCE,2024-12-08,227.0,2977,Invalid rating
+5219,,Budget,353.27,2.6,USA,2025-12-19,89.0,4106,Missing name
+5220,"Adkins, Thompson and Donovan",Business,1455.43,,FRANCE,2025-01-20,385.0,4185,Invalid rating
+5230,,Business,781.43,4.2,UK,2024-03-22,210.0,526,Missing name
+5236,,Luxury,961.36,3.9,GERMANY,2024-12-10,440.0,4100,Missing name
+5237,"Rivera, Joyce and Jackson",Boutique,,4.7,FRANCE,2023-10-17,453.0,3513,Invalid price
+5277,Nelson-Bender,Luxury,820.66,99.0,UAE,2025-07-28,110.0,4422,Invalid rating
+5279,"Archer, Kim and Hernandez",Business,,2.1,FRANCE,2023-07-30,315.0,166,Invalid price
+5305,,,1725.47,4.7,GERMANY,2024-11-21,356.0,2190,Missing name; Invalid category
+5309,Brewer-Harris,,1621.46,2.9,USA,2024-11-26,80.0,275,Invalid category
+5319,,Luxury,328.08,2.9,GERMANY,2023-07-01,278.0,2549,Missing name
+5321,,Resort,1470.63,4.0,AUSTRALIA,2023-07-24,229.0,3474,Missing name
+5329,Day-King,Boutique,759.88,-1.0,FRANCE,2024-11-03,27.0,3147,Invalid rating
+5336,Skinner Group,Boutique,,3.6,USA,1981-12-05,389.0,1937,Invalid price
+5339,"Cunningham, Roberts and Robles",Luxury,1906.87,-1.0,USA,2023-08-05,7.0,4768,Invalid rating
+5356,,Boutique,1593.34,3.8,FRANCE,2025-09-23,40.0,1065,Missing name
+5374,"Howard, Quinn and King",Business,1512.93,99.0,AUSTRALIA,2024-01-09,500.0,100,Invalid rating
+5390,,Business,1848.74,2.2,INDIA,2025-10-30,271.0,375,Missing name
+5409,"Anthony, Robbins and Sutton",Boutique,,1.2,UAE,2025-12-27,427.0,2985,Invalid price
+5414,Carter Group,,568.22,4.0,AUSTRALIA,2025-07-07,,2719,Invalid category
+5421,,Business,1611.91,3.3,UK,2023-05-26,131.0,301,Missing name
+5425,"Murphy, Orozco and Wagner",,,3.2,JAPAN,2024-07-09,367.0,974,Invalid price; Invalid category
+5426,,Budget,1758.84,2.3,JAPAN,2025-09-09,475.0,3653,Missing name
+5435,,Resort,1377.98,1.4,AUSTRALIA,2026-01-14,71.0,1543,Missing name
+5445,"King, Horne and Jones",Luxury,726.89,-1.0,GERMANY,2026-02-17,14.0,2828,Invalid rating
+5458,,Business,522.24,4.8,FRANCE,2025-11-09,214.0,2450,Missing name
+5462,,Boutique,1789.8,3.0,USA,2024-05-09,433.0,4336,Missing name
+5468,,Business,,4.5,FRANCE,2026-02-01,478.0,3117,Missing name; Invalid price
+5473,,Luxury,54.63,1.2,AUSTRALIA,2024-08-03,83.0,1067,Missing name
+5482,,Luxury,1164.33,4.7,INDIA,2025-08-03,90.0,3853,Missing name
+5486,Ward LLC,Luxury,1036.77,,UAE,2024-02-29,177.0,589,Invalid rating
+5501,"Oconnell, Rose and Valencia",Luxury,192.37,,UK,2025-02-11,36.0,382,Invalid rating
+5502,Donovan PLC,Business,396.92,,JAPAN,2025-09-06,403.0,2215,Invalid rating
+5508,"Suarez, Harris and Bryan",,38.92,1.2,FRANCE,2023-04-20,200.0,3863,Invalid category
+5513,,Budget,249.51,1.6,INDIA,2023-10-23,26.0,552,Missing name
+5519,Lowe and Sons,Budget,,1.2,AUSTRALIA,2024-11-14,282.0,4299,Invalid price
+5525,"Brown, Davis and Anderson",Luxury,,4.4,AUSTRALIA,2024-05-17,384.0,2064,Invalid price
+5528,,Luxury,,3.1,UK,2025-04-08,280.0,3532,Missing name; Invalid price
+5544,Hall Inc,Budget,,4.1,INDIA,2023-05-27,405.0,1903,Invalid price
+5549,Carter and Sons,Business,,4.8,FRANCE,2023-08-14,37.0,954,Invalid price
+5552,Edwards Inc,Resort,1660.14,,USA,1996-12-20,208.0,2842,Invalid rating
+5554,Jackson-Gray,Business,,2.6,FRANCE,2026-02-20,,1941,Invalid price
+5559,Morrow-Sullivan,Business,1697.45,,UK,2024-10-11,413.0,4219,Invalid rating
+5575,Ramirez-Ferguson,Boutique,958.83,,USA,2024-03-31,344.0,1834,Invalid rating
+5583,"Campbell, Bartlett and Ortiz",Business,1135.18,99.0,USA,2025-12-28,173.0,4340,Invalid rating
+5584,,Hostel,1575.94,2.6,INDIA,2023-09-12,207.0,4401,Missing name
+5586,,Resort,427.31,2.6,JAPAN,2024-02-27,,104,Missing name
+5603,Cantrell LLC,Luxury,,1.4,GERMANY,2025-01-17,325.0,1130,Invalid price
+5609,"Hamilton, Clark and Bowen",,1385.48,2.6,AUSTRALIA,2024-12-28,438.0,1788,Invalid category
+5613,"Douglas, Smith and Nielsen",Budget,1943.36,,INDIA,1990-07-09,3.0,659,Invalid rating
+5635,Terry Group,Luxury,684.62,99.0,UK,2025-03-22,175.0,26,Invalid rating
+5643,Johnson-Dalton,Boutique,,1.7,AUSTRALIA,2025-05-06,337.0,3,Invalid price
+5656,Waters-Cabrera,Hostel,830.84,99.0,AUSTRALIA,2023-05-18,183.0,596,Invalid rating
+5662,Carpenter-Horn,Budget,526.51,99.0,AUSTRALIA,2025-05-12,432.0,1427,Invalid rating
+5667,,Resort,1101.03,1.3,FRANCE,2025-12-31,91.0,3360,Missing name
+5668,,Boutique,369.66,2.2,INDIA,2025-05-28,276.0,4341,Missing name
+5669,Sellers and Sons,Resort,328.89,99.0,FRANCE,2023-11-26,237.0,3975,Invalid rating
+5673,Soto-Griffin,Business,,3.5,GERMANY,2026-01-01,177.0,3080,Invalid price
+5687,,Resort,,3.0,AUSTRALIA,2025-08-08,,4926,Missing name; Invalid price
+5694,,Hostel,138.32,3.3,AUSTRALIA,2023-11-23,83.0,606,Missing name
+5695,,Resort,1706.29,3.3,GERMANY,1978-12-23,205.0,1661,Missing name
+5701,Jackson Group,Boutique,1618.06,99.0,GERMANY,2024-01-07,383.0,346,Invalid rating
+5704,Jackson LLC,Budget,,1.8,UAE,2024-01-09,19.0,842,Invalid price
+5721,"Rice, Jones and Garza",,1878.99,2.5,UK,2025-04-13,271.0,4742,Invalid category
+5724,,Luxury,305.13,2.7,USA,1997-04-19,333.0,3961,Missing name
+5728,"Davidson, Reynolds and Robbins",Business,,99.0,GERMANY,2023-09-29,192.0,798,Invalid price; Invalid rating
+5730,"Sampson, Baker and Esparza",Budget,1692.98,-1.0,FRANCE,2023-10-06,2.0,1382,Invalid rating
+5732,,Business,1793.95,99.0,USA,2025-04-22,360.0,2166,Missing name; Invalid rating
+5736,Holmes LLC,Boutique,32.88,99.0,USA,2023-11-08,,2770,Invalid rating
+5737,Cain-Leon,Budget,,1.6,USA,2025-07-30,183.0,3218,Invalid price
+5743,"Burgess, Williams and Stevenson",Business,,3.5,FRANCE,2024-12-01,257.0,66,Invalid price
+5747,,Luxury,1095.09,-1.0,FRANCE,2025-01-11,200.0,1671,Missing name; Invalid rating
+5761,Baxter Group,Hostel,,5.0,AUSTRALIA,2024-09-08,380.0,2282,Invalid price
+5772,,Budget,478.74,4.0,INDIA,2025-11-21,287.0,550,Missing name
+5783,"Lozano, Martinez and Martinez",Luxury,388.01,99.0,UK,2025-12-25,309.0,1129,Invalid rating
+5787,Rice-Roberts,,1286.48,99.0,FRANCE,2025-08-27,275.0,3639,Invalid rating; Invalid category
+5789,"Bell, Jones and Ferguson",Boutique,1007.98,99.0,UAE,2025-05-15,317.0,2741,Invalid rating
+5791,"Nicholson, Smith and White",Hostel,735.32,,UK,2025-11-24,332.0,458,Invalid rating
+5813,Young Ltd,Hostel,,2.6,FRANCE,2025-09-06,23.0,622,Invalid price
+5815,,Business,944.21,3.5,UAE,2024-03-10,253.0,3114,Missing name
+5827,Smith and Sons,Hostel,,4.4,USA,2025-11-23,443.0,4070,Invalid price
+5835,Duncan-Garcia,Budget,,3.8,JAPAN,2025-02-27,,208,Invalid price
+5838,Blake PLC,Boutique,491.53,99.0,UAE,2024-02-20,97.0,281,Invalid rating
+5856,Brown-Bautista,Resort,,,INDIA,2026-01-12,411.0,3845,Invalid price; Invalid rating
+5863,"Lee, Manning and West",Luxury,1049.3,-1.0,GERMANY,2025-08-14,270.0,2792,Invalid rating
+5875,,Resort,1497.86,1.0,USA,2026-02-08,407.0,3087,Missing name
+5883,Jones-Hill,Business,,2.7,USA,2023-09-20,416.0,221,Invalid price
+5884,Williams Inc,Luxury,,2.8,JAPAN,2026-02-14,242.0,3580,Invalid price
+5909,,Budget,1407.02,3.6,FRANCE,2024-12-11,285.0,166,Missing name
+5910,,Boutique,242.38,1.6,USA,2024-04-14,87.0,0,Missing name
+5911,"Young, Mason and Freeman",Business,652.01,,UAE,2023-08-23,343.0,647,Invalid rating
+5916,"Keller, Cunningham and Sanchez",Luxury,,3.7,AUSTRALIA,2025-04-02,5.0,3534,Invalid price
+5920,Smith-Wilson,Business,866.54,,USA,2023-09-24,282.0,434,Invalid rating
+5922,"Gonzales, Calderon and Phillips",Luxury,,3.0,JAPAN,2024-08-05,467.0,4393,Invalid price
+5924,Cruz-Johnson,Luxury,,-1.0,UAE,2023-12-11,478.0,3962,Invalid price; Invalid rating
+5930,Buchanan-Hopkins,,1714.18,4.4,USA,2024-12-25,296.0,3148,Invalid category
+5936,Booth Inc,,337.94,4.6,GERMANY,2025-02-21,148.0,3914,Invalid category
+5939,Baird-Walters,Resort,1318.7,-1.0,JAPAN,2024-08-16,115.0,504,Invalid rating
+5941,,Hostel,608.84,3.4,FRANCE,2025-11-03,415.0,2021,Missing name
+5943,,Budget,344.27,2.2,GERMANY,2025-06-26,133.0,2610,Missing name
+5944,"Howard, Adams and Graves",Resort,,2.9,JAPAN,2024-01-16,42.0,3239,Invalid price
+5955,"Fischer, Bradford and Williams",Hostel,,1.1,FRANCE,2025-05-19,211.0,2913,Invalid price
+5957,Miller-Cortez,Boutique,776.04,-1.0,USA,2023-12-24,23.0,4453,Invalid rating
+5961,Ayers Group,,1161.17,2.1,UK,2024-07-15,434.0,1192,Invalid category
+5977,"Freeman, Finley and Cisneros",Resort,124.46,,UK,2025-01-03,,1146,Invalid rating
+5985,Mcdaniel-Gregory,Business,,3.8,GERMANY,2024-01-02,,3353,Invalid price
+5996,,Luxury,1559.84,4.5,UK,2024-06-23,210.0,3745,Missing name
+6000,,Luxury,970.55,2.9,JAPAN,2025-11-19,156.0,685,Missing name
+6006,Mcknight Ltd,Boutique,1035.81,,FRANCE,2024-10-02,261.0,1312,Invalid rating
+6017,,Budget,1771.14,4.0,USA,2025-04-19,398.0,3326,Missing name
+6018,Robinson Ltd,Business,,2.8,GERMANY,2025-12-23,11.0,279,Invalid price
+6023,,Resort,1372.79,1.3,JAPAN,1999-09-07,469.0,3001,Missing name
+6024,Thompson LLC,,617.58,1.2,GERMANY,2025-04-16,394.0,4703,Invalid category
+6028,"Horton, Kelley and Morrow",Business,,1.9,FRANCE,2025-08-24,499.0,1311,Invalid price
+6035,,Luxury,206.53,1.0,UAE,2025-05-11,,3425,Missing name
+6049,,Boutique,1483.44,5.0,UK,2023-05-24,206.0,3069,Missing name
+6051,"Brown, Bush and Ortiz",Luxury,,3.2,JAPAN,1999-04-09,302.0,4768,Invalid price
+6052,Lewis-Hunter,Luxury,,5.0,GERMANY,2024-03-30,,2589,Invalid price
+6068,,Boutique,1852.45,3.8,UK,2024-08-01,9.0,3624,Missing name
+6069,,Budget,1538.12,1.3,FRANCE,2025-07-04,29.0,3534,Missing name
+6075,,Business,1748.25,1.9,AUSTRALIA,2024-10-02,330.0,4175,Missing name
+6076,Gibbs Group,Resort,,2.8,INDIA,2023-08-30,216.0,3470,Invalid price
+6083,Barnett Group,Hostel,1920.36,99.0,USA,2023-04-29,80.0,4246,Invalid rating
+6097,Barrett Inc,Resort,,1.5,FRANCE,2023-10-07,65.0,928,Invalid price
+6098,Bond Group,Resort,,2.7,FRANCE,2024-07-21,140.0,2058,Invalid price
+6107,Smith-Clark,Resort,,1.9,AUSTRALIA,2023-09-07,369.0,1922,Invalid price
+6119,,Luxury,1847.73,1.9,UK,2024-06-11,14.0,4175,Missing name
+6127,Mendoza-Serrano,Luxury,363.13,,GERMANY,2024-08-07,208.0,2887,Invalid rating
+6134,"Gonzales, Castro and Thomas",Luxury,,-1.0,USA,2024-06-07,205.0,1034,Invalid price; Invalid rating
+6138,,Boutique,502.38,3.1,FRANCE,2023-10-16,97.0,1700,Missing name
+6146,,Hostel,1448.24,3.3,USA,2025-12-09,92.0,4716,Missing name
+6149,"Mayer, Mcdonald and Carrillo",Hostel,,4.8,FRANCE,2025-07-20,281.0,1747,Invalid price
+6150,Phillips LLC,Budget,,3.7,USA,1996-07-08,248.0,1828,Invalid price
+6157,Sparks-Kelly,Boutique,96.17,-1.0,FRANCE,2024-03-17,401.0,1655,Invalid rating
+6166,"Olson, Ross and Gordon",Resort,,4.6,GERMANY,2025-10-29,446.0,937,Invalid price
+6167,Weaver-Pacheco,Luxury,170.69,,FRANCE,2024-07-06,488.0,1548,Invalid rating
+6169,,Budget,665.92,2.1,USA,2024-05-03,139.0,768,Missing name
+6170,Huff-Suarez,Luxury,,4.4,FRANCE,2026-02-13,233.0,3558,Invalid price
+6171,Gibson LLC,Boutique,,2.9,USA,2024-11-26,424.0,2197,Invalid price
+6172,,Budget,,1.7,UAE,2024-03-13,68.0,3745,Missing name; Invalid price
+6174,"Washington, Martin and Harvey",Boutique,,4.6,AUSTRALIA,2023-12-12,332.0,77,Invalid price
+6177,"Stone, Payne and Dunn",Budget,388.91,,FRANCE,2025-03-12,112.0,1575,Invalid rating
+6180,Hoffman PLC,Boutique,1443.44,99.0,FRANCE,2022-09-09,363.0,3557,Invalid rating
+6196,Morales-Johnson,Resort,,4.4,UAE,2023-04-23,381.0,1138,Invalid price
+6200,Smith Inc,Boutique,,1.5,AUSTRALIA,2024-07-27,412.0,1763,Invalid price
+6204,"Thompson, Nelson and Lewis",Resort,,1.1,JAPAN,2025-10-06,182.0,2492,Invalid price
+6208,"Miller, Moore and Wilson",Resort,1837.38,99.0,FRANCE,2024-01-18,318.0,4291,Invalid rating
+6220,,Business,811.15,1.1,USA,2025-02-06,127.0,4163,Missing name
+6222,,Luxury,985.97,1.0,UK,2026-01-05,183.0,2335,Missing name
+6225,Lawrence-Kelly,Boutique,,3.4,FRANCE,2024-05-20,56.0,122,Invalid price
+6229,"Barber, Zuniga and Vasquez",Luxury,,4.5,UK,2025-07-30,182.0,1699,Invalid price
+6236,Lin Inc,,444.5,2.7,FRANCE,2025-11-11,269.0,2645,Invalid category
+6239,"Nelson, King and Lee",Resort,,1.4,INDIA,2024-10-29,402.0,149,Invalid price
+6248,"Smith, Hernandez and Solis",Hostel,,3.5,FRANCE,2024-09-10,,3942,Invalid price
+6252,,Hostel,703.68,4.8,USA,2024-04-30,489.0,1571,Missing name
+6266,Whitaker PLC,Resort,,1.1,UAE,2025-07-10,229.0,678,Invalid price
+6273,,Luxury,183.22,2.2,UK,2025-02-17,11.0,1101,Missing name
+6277,Morgan and Sons,Budget,697.71,-1.0,FRANCE,2023-07-23,469.0,2813,Invalid rating
+6287,,Budget,1548.75,3.0,USA,2024-07-29,471.0,3037,Missing name
+6292,,Resort,1202.27,2.8,FRANCE,2025-03-13,194.0,649,Missing name
+6293,Hernandez Inc,Boutique,,99.0,USA,2025-03-07,442.0,1793,Invalid price; Invalid rating
+6294,Miller-Fitzpatrick,Budget,1535.54,,GERMANY,2024-02-04,36.0,2000,Invalid rating
+6301,"Johnson, Velez and Ryan",Boutique,,3.6,INDIA,2023-09-28,260.0,506,Invalid price
+6306,Thornton-Lewis,,588.16,2.9,FRANCE,2023-05-16,32.0,1511,Invalid category
+6307,,Resort,1662.32,4.7,AUSTRALIA,2024-04-12,30.0,3394,Missing name
+6315,"Harris, Carney and Miller",,217.05,4.5,UK,2025-11-20,327.0,3941,Invalid category
+6316,"Murphy, Wong and Peterson",,1030.27,1.1,FRANCE,2024-09-15,194.0,112,Invalid category
+6322,,Budget,1293.39,2.0,USA,2023-11-23,497.0,482,Missing name
+6330,Becker-Mcintyre,Budget,,2.4,UAE,2025-02-24,159.0,3651,Invalid price
+6334,,Budget,611.09,3.8,INDIA,2025-11-01,56.0,1801,Missing name
+6341,Rogers Group,Budget,1759.35,,FRANCE,2025-07-18,412.0,4714,Invalid rating
+6342,Lang-Mitchell,Business,,3.8,UAE,2024-12-06,462.0,1445,Invalid price
+6346,,Hostel,344.59,4.4,FRANCE,1975-04-22,271.0,2812,Missing name
+6347,Duncan PLC,Boutique,,5.0,UAE,2025-10-10,485.0,2599,Invalid price
+6353,Ellis-Kramer,Budget,,1.8,FRANCE,2025-10-02,281.0,2363,Invalid price
+6354,,Budget,570.44,1.7,FRANCE,2024-06-26,411.0,4951,Missing name
+6358,Barker-Rodriguez,Luxury,,3.7,INDIA,2026-02-15,113.0,2750,Invalid price
+6364,,Hostel,162.47,2.5,FRANCE,2023-07-22,264.0,699,Missing name
+6373,,Business,735.15,4.7,FRANCE,2023-08-09,268.0,423,Missing name
+6376,Green-Hogan,Business,,99.0,JAPAN,2023-11-12,167.0,2596,Invalid price; Invalid rating
+6377,Boyd Ltd,Hostel,,3.8,USA,2025-08-18,221.0,1058,Invalid price
+6379,Hall Inc,Luxury,348.27,99.0,USA,2025-06-20,258.0,2663,Invalid rating
+6380,West-Brown,Boutique,297.75,,UAE,2023-06-10,289.0,1041,Invalid rating
+6382,"Wright, Nichols and Hunt",Business,1844.06,99.0,GERMANY,2024-09-14,489.0,918,Invalid rating
+6390,Benson LLC,,1684.69,3.6,UAE,2024-01-20,224.0,791,Invalid category
+6392,,Luxury,80.57,4.6,INDIA,2025-11-30,174.0,3019,Missing name
+6402,Long PLC,Boutique,1124.72,,GERMANY,2023-12-03,388.0,230,Invalid rating
+6403,"Payne, Downs and Davis",Budget,968.04,99.0,INDIA,2023-06-18,89.0,805,Invalid rating
+6405,Serrano-Sullivan,,1492.93,2.5,JAPAN,2024-12-29,119.0,3562,Invalid category
+6410,Young-Mathews,Hostel,283.23,-1.0,USA,2025-11-21,,1857,Invalid rating
+6413,Smith-Myers,Resort,,3.3,UK,2023-05-29,301.0,1397,Invalid price
+6419,"Mejia, Wallace and Jacobs",Boutique,506.89,-1.0,UK,2024-04-13,478.0,4973,Invalid rating
+6423,"Hensley, Preston and White",Business,,1.6,FRANCE,2023-05-02,14.0,337,Invalid price
+6424,"Bailey, Rose and Russell",,609.14,3.4,USA,2024-08-14,152.0,1141,Invalid category
+6438,"Bell, Rocha and Smith",Budget,879.44,-1.0,FRANCE,2025-11-12,228.0,2322,Invalid rating
+6439,,Hostel,1152.92,2.5,FRANCE,2023-10-31,444.0,3964,Missing name
+6443,Beasley-Adkins,,1972.1,1.3,INDIA,2025-11-13,204.0,3541,Invalid category
+6453,"Acevedo, Carter and Thompson",Hostel,,3.0,GERMANY,2023-12-05,95.0,2697,Invalid price
+6459,Smith Inc,Budget,311.5,99.0,USA,2023-10-25,305.0,2185,Invalid rating
+6460,Taylor LLC,Hostel,,2.3,AUSTRALIA,2023-10-08,89.0,1732,Invalid price
+6477,"Hart, Greene and Patterson",Boutique,1994.35,,UK,2024-09-21,215.0,3431,Invalid rating
+6482,Hansen-Espinoza,Resort,473.64,-1.0,USA,2025-08-11,60.0,2381,Invalid rating
+6485,Johnson Group,Hostel,1341.82,99.0,USA,2026-02-05,220.0,3584,Invalid rating
+6487,Blair Group,Business,395.56,-1.0,AUSTRALIA,2008-03-14,109.0,1046,Invalid rating
+6490,"Pitts, Clark and Phelps",Luxury,399.66,-1.0,INDIA,2024-09-08,71.0,4879,Invalid rating
+6499,Lee Group,Budget,,2.5,FRANCE,2025-06-19,248.0,254,Invalid price
+6503,Callahan-Martinez,,103.98,1.4,FRANCE,2024-08-29,40.0,3311,Invalid category
+6511,,Luxury,658.74,4.2,FRANCE,2023-10-19,445.0,4006,Missing name
+6515,Potts Inc,Business,1818.73,99.0,UK,2024-03-13,23.0,3965,Invalid rating
+6523,Aguilar Inc,Business,507.57,99.0,AUSTRALIA,2024-08-15,117.0,252,Invalid rating
+6524,,Boutique,1468.09,1.4,JAPAN,2023-08-31,154.0,1124,Missing name
+6550,Mack Inc,,971.4,2.8,USA,2025-11-02,351.0,1673,Invalid category
+6556,,Hostel,,4.6,USA,2025-11-27,409.0,4614,Missing name; Invalid price
+6585,,Business,1211.76,3.3,USA,2025-03-28,267.0,2312,Missing name
+6592,,Boutique,1719.53,3.7,JAPAN,2023-04-30,306.0,4616,Missing name
+6593,,Boutique,673.08,1.9,UAE,2024-08-24,353.0,1001,Missing name
+6594,Perkins Inc,Resort,185.59,,FRANCE,2024-06-11,290.0,4268,Invalid rating
+6612,,Hostel,48.25,1.9,AUSTRALIA,2025-03-24,279.0,3764,Missing name
+6614,,Budget,1120.61,2.4,FRANCE,2024-03-24,397.0,386,Missing name
+6626,"Sullivan, White and Macdonald",Hostel,,2.0,UK,2025-10-30,395.0,3166,Invalid price
+6634,,Hostel,1055.32,3.2,USA,1973-09-20,198.0,1823,Missing name
+6636,Garcia and Sons,Boutique,,3.4,FRANCE,2023-10-02,104.0,102,Invalid price
+6642,Whitney-Williams,Budget,,3.5,JAPAN,2024-05-30,379.0,484,Invalid price
+6660,,Budget,494.91,3.6,FRANCE,2025-03-21,354.0,3517,Missing name
+6667,Ramsey and Sons,Boutique,,2.2,UAE,2023-06-15,296.0,4703,Invalid price
+6674,Payne-White,,193.18,4.9,UK,2024-05-01,360.0,2673,Invalid category
+6680,Gregory LLC,Budget,,4.5,INDIA,2024-07-30,439.0,977,Invalid price
+6686,,Resort,309.47,3.0,UAE,2025-10-14,497.0,1836,Missing name
+6700,"Dougherty, Bailey and Joseph",Resort,,1.1,UAE,2025-07-21,497.0,1179,Invalid price
+6703,,Hostel,32.4,4.7,UAE,2023-06-08,480.0,3421,Missing name
+6705,"Gonzalez, Howell and Mendez",Budget,1058.58,-1.0,UAE,2025-09-05,377.0,1063,Invalid rating
+6706,,Budget,1861.44,4.1,UK,2024-09-03,431.0,3785,Missing name
+6707,Guerrero Ltd,Luxury,1673.54,99.0,USA,2024-10-05,173.0,4200,Invalid rating
+6708,Meadows-Hoffman,Luxury,1685.92,99.0,FRANCE,2023-10-26,271.0,4222,Invalid rating
+6713,Bowers-Craig,Hostel,,4.9,GERMANY,2025-11-19,54.0,1046,Invalid price
+6726,Nichols PLC,Business,,3.9,FRANCE,2024-10-22,342.0,4838,Invalid price
+6754,Davis PLC,Business,1871.17,,USA,2025-05-27,418.0,1980,Invalid rating
+6761,,Boutique,435.81,4.8,FRANCE,2025-08-10,38.0,4320,Missing name
+6763,,Resort,692.47,3.0,UK,2025-04-02,415.0,1085,Missing name
+6769,White Inc,Boutique,,4.2,GERMANY,2025-10-23,397.0,141,Invalid price
+6771,,Luxury,1991.41,1.7,INDIA,2025-02-07,448.0,1916,Missing name
+6774,,Resort,976.76,3.0,UK,2025-11-15,220.0,2076,Missing name
+6775,,Hostel,303.83,3.7,USA,2023-09-14,201.0,2890,Missing name
+6784,,Hostel,1289.69,1.8,GERMANY,2023-10-28,3.0,4923,Missing name
+6798,Vargas-Johnson,Business,1556.21,-1.0,UK,2024-03-12,449.0,2100,Invalid rating
+6802,"Burgess, Ellis and Smith",Luxury,1720.18,,FRANCE,2024-08-26,138.0,2031,Invalid rating
+6804,"Brown, Spencer and Russell",Hostel,,2.7,USA,2024-07-26,182.0,2688,Invalid price
+6807,,Boutique,1771.7,4.9,USA,2023-10-18,443.0,2670,Missing name
+6822,,Boutique,713.86,3.3,FRANCE,2024-12-10,482.0,3072,Missing name
+6841,Orozco-Clark,Resort,,4.0,GERMANY,2024-02-28,186.0,4523,Invalid price
+6845,,Budget,809.98,1.5,UK,2026-01-21,375.0,446,Missing name
+6846,"Harris, Barnes and Herman",,400.53,4.9,GERMANY,2024-03-17,459.0,1494,Invalid category
+6851,Mcbride Group,Boutique,1199.58,,GERMANY,2020-10-19,287.0,3966,Invalid rating
+6855,Sanders-Webb,Luxury,1922.06,-1.0,INDIA,2025-05-08,,3955,Invalid rating
+6861,Pittman-Turner,Resort,,3.2,FRANCE,2024-05-14,481.0,4228,Invalid price
+6866,"Dawson, Grimes and Carter",Business,,3.3,UK,2023-09-25,384.0,4442,Invalid price
+6880,Frye and Sons,,1765.7,2.7,UAE,2022-03-13,410.0,3317,Invalid category
+6882,Ramirez-Adams,Business,930.41,-1.0,UAE,2025-07-09,277.0,1972,Invalid rating
+6888,Mendoza-Lawrence,Boutique,198.28,99.0,USA,2025-10-01,125.0,1617,Invalid rating
+6890,Reid Ltd,Boutique,964.41,,FRANCE,2023-09-23,447.0,1005,Invalid rating
+6896,Smith and Sons,Luxury,475.77,99.0,USA,2023-03-20,438.0,432,Invalid rating
+6907,,Hostel,605.86,4.7,FRANCE,2025-06-05,323.0,1607,Missing name
+6910,Valencia Group,Luxury,1334.78,99.0,FRANCE,2024-08-26,378.0,1840,Invalid rating
+6911,,Boutique,1493.31,4.8,AUSTRALIA,2023-09-29,229.0,3195,Missing name
+6912,,Hostel,171.6,3.1,GERMANY,2025-08-30,308.0,4200,Missing name
+6916,"Cruz, Mccarty and Carroll",Business,913.4,,INDIA,2024-09-20,287.0,900,Invalid rating
+6924,Estes PLC,Luxury,1765.44,99.0,JAPAN,2023-12-23,215.0,735,Invalid rating
+6934,Barry-Salazar,Luxury,1441.91,,INDIA,2025-02-21,394.0,2908,Invalid rating
+6935,Conner-Miller,Budget,,4.4,FRANCE,2023-09-19,411.0,4688,Invalid price
+6944,,Budget,1781.99,4.2,UAE,2023-04-27,471.0,2550,Missing name
+6949,French-Rogers,Hostel,1119.51,-1.0,UK,1997-11-08,64.0,3772,Invalid rating
+6960,,Luxury,811.8,4.5,AUSTRALIA,2024-08-20,262.0,4485,Missing name
+6961,,Resort,961.87,4.9,UK,2024-04-11,203.0,1985,Missing name
+6962,Kelley-Casey,Resort,,1.9,INDIA,2023-08-10,492.0,1017,Invalid price
+6966,"Torres, Thomas and Hill",Boutique,527.77,99.0,USA,2024-01-19,345.0,4612,Invalid rating
+6972,,Boutique,1719.86,2.8,AUSTRALIA,2025-07-25,84.0,516,Missing name
+6980,Ramos-Young,Boutique,,4.9,USA,2024-01-24,397.0,3434,Invalid price
+6982,,Luxury,489.52,4.7,FRANCE,2025-11-19,120.0,545,Missing name
+6991,"Lopez, Howard and Clark",Resort,,4.1,USA,2025-05-01,77.0,1037,Invalid price
+6995,Smith-Zavala,Business,343.09,,JAPAN,2024-04-08,465.0,2038,Invalid rating
+6998,"Bray, Kim and Kane",Resort,1001.93,99.0,JAPAN,2023-06-17,40.0,878,Invalid rating
+7005,Martin-Jenkins,Budget,1307.9,99.0,AUSTRALIA,2026-02-25,67.0,1984,Invalid rating
+7007,,Hostel,1213.1,2.8,UK,2024-05-24,374.0,2941,Missing name
+7016,Smith and Sons,Business,,2.5,UAE,2024-01-31,277.0,4103,Invalid price
+7020,"Myers, Hayes and Payne",Boutique,586.51,99.0,GERMANY,2025-09-14,444.0,2348,Invalid rating
+7026,Cooper-Thomas,Hostel,,3.0,JAPAN,2023-04-15,349.0,852,Invalid price
+7032,Gonzales Inc,Boutique,107.26,-1.0,FRANCE,2025-06-01,209.0,4570,Invalid rating
+7034,Lee and Sons,Resort,1496.18,,FRANCE,2024-04-09,320.0,3955,Invalid rating
+7043,,Boutique,1218.76,4.1,UAE,2025-12-21,358.0,1794,Missing name
+7044,Garcia Group,Hostel,838.4,-1.0,JAPAN,2025-04-12,262.0,666,Invalid rating
+7046,Berg-Boyer,Resort,,2.2,GERMANY,2023-07-26,372.0,3689,Invalid price
+7050,Richardson and Sons,Budget,997.57,99.0,JAPAN,1998-08-01,332.0,920,Invalid rating
+7059,Sanchez-Higgins,Budget,,2.5,INDIA,2023-03-12,429.0,2300,Invalid price
+7063,"Burton, Gilbert and Friedman",Luxury,,3.2,USA,2025-08-29,257.0,451,Invalid price
+7066,"Smith, Richmond and Melton",Luxury,1933.9,99.0,JAPAN,2025-09-24,440.0,4276,Invalid rating
+7091,Walker Inc,Boutique,,2.2,FRANCE,2025-11-30,292.0,3571,Invalid price
+7100,,Boutique,1983.49,4.0,USA,2024-01-29,328.0,1301,Missing name
+7103,"Odom, Evans and Cortez",,1391.76,2.6,AUSTRALIA,2023-09-21,72.0,205,Invalid category
+7107,,Budget,1392.28,2.9,UK,2025-02-11,426.0,1368,Missing name
+7110,Alexander and Sons,Budget,1594.17,-1.0,AUSTRALIA,2024-10-24,238.0,4729,Invalid rating
+7117,"Palmer, George and Morris",Luxury,1739.67,,INDIA,2023-09-12,370.0,2927,Invalid rating
+7125,Proctor-Collins,Resort,1498.82,,FRANCE,2023-08-04,6.0,4472,Invalid rating
+7136,"Long, Martin and Vaughn",Budget,1505.27,,UK,2025-12-26,270.0,380,Invalid rating
+7139,Haney Inc,Resort,,3.5,FRANCE,2024-10-08,227.0,923,Invalid price
+7140,"Baker, Weaver and Meza",Boutique,989.1,99.0,INDIA,2023-03-30,461.0,2748,Invalid rating
+7142,"Williams, Richards and Powell",Budget,,1.4,INDIA,2024-07-21,160.0,4967,Invalid price
+7146,Cruz-Gilmore,Resort,1031.67,-1.0,USA,2026-01-07,306.0,4493,Invalid rating
+7149,Montgomery-Jefferson,Business,,3.8,FRANCE,1980-10-22,216.0,2495,Invalid price
+7152,"Morris, Jennings and Bradley",Boutique,,1.6,JAPAN,2025-07-25,390.0,3267,Invalid price
+7156,Cruz-Gonzalez,Resort,,3.6,UK,2024-12-29,34.0,360,Invalid price
+7162,White-Shelton,Hostel,1749.11,99.0,USA,2025-04-06,86.0,2188,Invalid rating
+7169,King-Bridges,Luxury,46.37,99.0,GERMANY,2023-11-06,468.0,2207,Invalid rating
+7187,"Woodard, Peters and Cole",Business,,1.1,INDIA,2023-08-17,28.0,2907,Invalid price
+7189,Wade-Wilson,,1646.38,1.7,FRANCE,2025-12-11,169.0,3555,Invalid category
+7194,"Singh, Martinez and Vargas",Business,,2.5,JAPAN,2026-01-24,110.0,670,Invalid price
+7196,Lynch Group,,1419.06,2.8,INDIA,2025-11-17,81.0,1198,Invalid category
+7202,Simpson and Sons,,243.56,1.9,USA,2024-09-16,96.0,1888,Invalid category
+7204,Brown-Lang,Boutique,126.32,-1.0,GERMANY,2024-10-25,25.0,2551,Invalid rating
+7221,"Baldwin, Pitts and Randall",Boutique,,2.1,AUSTRALIA,1999-12-10,104.0,1242,Invalid price
+7222,,Budget,,3.8,USA,2023-07-03,174.0,2243,Missing name; Invalid price
+7226,Jones Inc,Resort,,1.6,GERMANY,2007-03-28,486.0,2959,Invalid price
+7231,Gay PLC,Budget,986.21,-1.0,FRANCE,2023-10-26,442.0,3189,Invalid rating
+7234,"Evans, Robinson and Gray",Resort,,1.4,USA,2026-01-19,,1279,Invalid price
+7235,Smith-Foster,Business,,2.6,FRANCE,2025-11-09,119.0,4176,Invalid price
+7245,"Roberts, Wagner and Olson",Luxury,,,USA,2023-08-13,107.0,4949,Invalid price; Invalid rating
+7246,"Rodriguez, Jackson and Williams",,1765.08,4.8,INDIA,2023-08-03,47.0,3820,Invalid category
+7249,,Boutique,716.39,2.9,USA,2024-04-11,300.0,4220,Missing name
+7265,"Alexander, Lewis and Baker",Business,1738.35,-1.0,USA,2025-10-21,490.0,412,Invalid rating
+7269,Collins-Manning,Boutique,1882.11,,FRANCE,2023-10-09,456.0,1772,Invalid rating
+7277,Brown-Brown,Resort,562.06,99.0,FRANCE,2023-05-31,,1617,Invalid rating
+7293,,Luxury,929.69,1.9,USA,2023-12-26,329.0,3727,Missing name
+7301,"Scott, Morris and Smith",,806.64,2.7,FRANCE,2024-03-08,214.0,2142,Invalid category
+7305,Adams Inc,Budget,,4.6,FRANCE,2025-04-12,157.0,4196,Invalid price
+7322,"Whitaker, White and Williamson",Hostel,,2.2,UAE,2024-08-18,28.0,450,Invalid price
+7328,,Business,744.86,2.5,GERMANY,2024-07-04,199.0,3651,Missing name
+7339,"Robles, Gray and Buck",,1349.75,1.1,USA,2023-03-22,369.0,3909,Invalid category
+7344,Martinez PLC,Budget,,4.8,USA,2024-03-01,44.0,2155,Invalid price
+7353,,Business,866.19,2.1,UK,2024-03-30,440.0,4407,Missing name
+7354,,,928.03,2.2,GERMANY,2023-11-21,208.0,331,Missing name; Invalid category
+7373,Douglas Group,Budget,,1.5,USA,2025-03-15,,220,Invalid price
+7374,"Woods, Cruz and Richards",Budget,1421.72,,USA,1987-01-23,387.0,4557,Invalid rating
+7378,,Business,1710.19,1.8,UK,2025-02-18,437.0,3801,Missing name
+7381,"Myers, Baker and Strong",Boutique,,4.3,USA,2023-08-09,106.0,1103,Invalid price
+7382,Johnson-Morgan,Hostel,91.35,99.0,UK,2023-06-22,248.0,4572,Invalid rating
+7385,"Cook, Mann and Kelly",,1291.72,4.9,FRANCE,2024-07-20,318.0,4770,Invalid category
+7400,Sanders and Sons,,1542.89,3.7,JAPAN,2026-02-03,161.0,2489,Invalid category
+7403,,Hostel,919.69,4.4,FRANCE,2024-05-13,427.0,3512,Missing name
+7405,,Budget,1207.95,2.7,FRANCE,2023-10-08,189.0,672,Missing name
+7421,Edwards-Patterson,Boutique,1363.69,-1.0,AUSTRALIA,2025-09-12,130.0,3842,Invalid rating
+7444,,,334.5,3.5,AUSTRALIA,2025-12-08,442.0,995,Missing name; Invalid category
+7448,,Boutique,1087.18,1.1,UK,2023-03-04,21.0,1566,Missing name
+7455,,Budget,993.14,4.9,USA,2023-03-16,393.0,592,Missing name
+7456,"Lee, Rodriguez and Frazier",Luxury,,1.5,UAE,2025-12-10,310.0,1462,Invalid price
+7468,"Becker, Smith and Collins",Hostel,,2.8,AUSTRALIA,2023-09-06,167.0,531,Invalid price
+7469,"Martin, Clark and Patton",Boutique,,3.9,INDIA,2025-11-20,328.0,1735,Invalid price
+7481,Neal-Oliver,Boutique,138.51,-1.0,GERMANY,2023-06-13,45.0,2324,Invalid rating
+7484,Scott PLC,Luxury,863.93,-1.0,AUSTRALIA,2025-04-25,113.0,4727,Invalid rating
+7490,"Woods, Fisher and Cobb",Resort,337.95,-1.0,INDIA,2025-02-04,90.0,1994,Invalid rating
+7491,Wright-Guerrero,Boutique,1762.78,,FRANCE,2025-01-08,363.0,502,Invalid rating
+7494,Pham and Sons,Resort,837.53,99.0,USA,2025-01-18,108.0,227,Invalid rating
+7499,Walsh-Green,,743.98,3.0,UK,2024-02-07,72.0,1485,Invalid category
+7501,Woods Ltd,Business,,4.4,USA,2023-10-08,384.0,3893,Invalid price
+7506,Baird-Gonzalez,Budget,84.71,-1.0,AUSTRALIA,2024-10-31,292.0,3714,Invalid rating
+7519,Reynolds PLC,,1655.81,4.0,UAE,2023-05-26,402.0,2028,Invalid category
+7526,,Boutique,1639.12,1.6,USA,2025-03-26,129.0,1132,Missing name
+7545,Dyer-Jimenez,Business,,4.2,USA,2025-02-14,153.0,0,Invalid price
+7549,Brown-Johnson,Luxury,933.58,-1.0,UAE,2024-09-09,370.0,1218,Invalid rating
+7551,,Budget,424.78,4.0,UAE,2023-06-29,380.0,1438,Missing name
+7552,,Resort,1639.66,1.2,FRANCE,2024-07-01,217.0,397,Missing name
+7561,Bryant LLC,,454.56,1.8,UK,2024-01-20,212.0,699,Invalid category
+7563,Thomas-Blanchard,Hostel,1566.93,99.0,UAE,2024-03-19,462.0,4495,Invalid rating
+7574,"Gibbs, Lewis and Diaz",Budget,,1.4,FRANCE,2024-07-22,449.0,4333,Invalid price
+7577,,Budget,148.06,4.9,UK,2024-04-11,358.0,3704,Missing name
+7583,,Luxury,827.31,1.1,AUSTRALIA,2024-10-15,165.0,4579,Missing name
+7598,,Boutique,192.97,2.8,UK,2023-05-26,40.0,252,Missing name
+7606,Hale-Miller,Budget,1575.25,99.0,UAE,2024-07-04,485.0,4080,Invalid rating
+7608,"Parker, Williams and Duke",Business,,4.6,INDIA,2024-09-09,495.0,2907,Invalid price
+7611,,Hostel,1622.75,4.7,AUSTRALIA,2007-08-02,21.0,4251,Missing name
+7613,,Budget,1062.83,4.8,USA,2023-11-01,425.0,1194,Missing name
+7616,,Hostel,1117.75,1.1,GERMANY,2025-07-24,166.0,140,Missing name
+7619,Oneill Ltd,Luxury,1127.46,-1.0,UK,2023-10-23,216.0,230,Invalid rating
+7621,Richardson Inc,Luxury,1874.74,,INDIA,2023-07-23,439.0,4944,Invalid rating
+7632,Valenzuela Group,Hostel,,2.7,USA,2026-01-20,170.0,175,Invalid price
+7634,Miller LLC,,401.35,3.1,GERMANY,2025-12-09,3.0,1538,Invalid category
+7641,,Budget,757.44,2.1,JAPAN,2024-06-02,78.0,1581,Missing name
+7652,"Bennett, Sandoval and Robbins",,486.6,1.5,USA,2025-12-13,298.0,2836,Invalid category
+7661,Barrett LLC,Resort,281.75,,INDIA,2023-04-05,153.0,1417,Invalid rating
+7663,,Boutique,1779.66,3.2,INDIA,2024-10-05,364.0,3075,Missing name
+7665,Rosales-Alexander,Luxury,,1.3,USA,2025-06-15,494.0,1551,Invalid price
+7666,,Budget,592.8,2.4,INDIA,1983-10-20,87.0,49,Missing name
+7670,Patel Inc,Business,,3.0,UK,2025-08-28,234.0,53,Invalid price
+7672,Robinson-Joseph,,1843.19,2.9,USA,2025-02-13,92.0,4051,Invalid category
+7674,Hernandez-Gonzalez,,1095.03,2.7,GERMANY,2026-02-28,71.0,4788,Invalid category
+7679,King-Horn,Luxury,1072.35,,UK,2025-04-16,283.0,864,Invalid rating
+7702,Zhang-Hammond,,1557.19,3.8,JAPAN,2023-11-04,306.0,1911,Invalid category
+7703,Phillips and Sons,Luxury,,2.3,USA,2025-06-08,142.0,1284,Invalid price
+7711,Guerra PLC,Resort,246.08,-1.0,FRANCE,2025-03-12,435.0,663,Invalid rating
+7713,Moss Ltd,Hostel,,3.0,GERMANY,2024-09-20,46.0,606,Invalid price
+7714,,Business,1419.47,3.3,JAPAN,2024-11-06,282.0,4606,Missing name
+7716,,Luxury,1762.92,2.8,UK,2024-10-16,483.0,236,Missing name
+7720,Walker-Wright,Boutique,982.06,-1.0,FRANCE,2023-07-26,293.0,3947,Invalid rating
+7731,Houston-Barker,Resort,503.84,99.0,AUSTRALIA,2024-10-21,142.0,1944,Invalid rating
+7736,,Budget,551.47,4.6,INDIA,2026-01-20,290.0,3968,Missing name
+7744,,Hostel,1751.76,1.6,USA,1973-06-12,309.0,2168,Missing name
+7763,Thornton and Sons,Luxury,,1.7,AUSTRALIA,2023-12-10,477.0,504,Invalid price
+7780,Bell Inc,Hostel,,3.9,FRANCE,2025-10-13,362.0,677,Invalid price
+7783,,Hostel,1560.69,-1.0,AUSTRALIA,2023-06-08,396.0,88,Missing name; Invalid rating
+7787,Rodriguez-Wilson,Resort,,2.8,UK,2026-02-08,101.0,2465,Invalid price
+7788,Greene PLC,Budget,1658.51,,GERMANY,2025-11-10,336.0,3740,Invalid rating
+7797,"Davis, Jones and Barron",Luxury,1585.84,-1.0,UAE,2024-10-14,412.0,3937,Invalid rating
+7803,,Boutique,50.78,4.4,UK,2024-06-15,255.0,2639,Missing name
+7813,Ford-Contreras,Luxury,1478.91,-1.0,FRANCE,2023-04-13,228.0,962,Invalid rating
+7866,"Norris, Marshall and Diaz",Luxury,,1.0,AUSTRALIA,2024-01-04,244.0,2911,Invalid price
+7874,,Budget,929.06,2.0,FRANCE,2000-02-19,498.0,3512,Missing name
+7877,,Budget,1942.77,3.4,JAPAN,2024-05-02,319.0,757,Missing name
+7889,"Harris, Jones and Gonzalez",Hostel,,3.5,FRANCE,2023-10-01,9.0,3940,Invalid price
+7894,Hunt Ltd,Luxury,1068.65,,FRANCE,2025-01-13,378.0,3288,Invalid rating
+7895,"Meadows, Morales and Davis",Boutique,805.07,-1.0,AUSTRALIA,2025-11-13,30.0,2486,Invalid rating
+7897,Wiley PLC,,1685.81,,FRANCE,2016-03-19,320.0,2940,Invalid rating; Invalid category
+7904,,Boutique,134.06,2.7,FRANCE,2025-01-06,329.0,3767,Missing name
+7910,Yoder LLC,Boutique,1634.25,,GERMANY,2025-02-13,285.0,4039,Invalid rating
+7912,"Deleon, Bailey and Mcdonald",,1452.68,4.6,UAE,1999-05-03,290.0,303,Invalid category
+7913,Osborne Ltd,,346.91,3.7,UAE,2004-06-20,405.0,4779,Invalid category
+7921,"Esparza, Cook and Dickson",Resort,,3.2,JAPAN,2023-12-18,211.0,4773,Invalid price
+7933,,Boutique,1772.25,3.1,GERMANY,2025-04-13,413.0,1026,Missing name
+7935,Rojas Inc,Luxury,,2.5,AUSTRALIA,2025-01-18,243.0,1465,Invalid price
+7937,Wilson-Chase,Business,,4.7,AUSTRALIA,2025-04-18,276.0,2875,Invalid price
+7968,,Business,256.28,,UAE,2023-07-22,219.0,1818,Missing name; Invalid rating
+7981,Chavez LLC,Luxury,1902.05,99.0,FRANCE,2024-08-23,346.0,686,Invalid rating
+7983,Bates-Cortez,,1446.28,2.4,AUSTRALIA,2023-04-30,173.0,1674,Invalid category
+7994,Frye-Lewis,Business,,3.2,USA,2023-04-28,98.0,3480,Invalid price
+8009,,Business,1506.67,3.8,USA,2024-09-08,445.0,715,Missing name
+8012,,Budget,1256.28,2.3,INDIA,2025-08-28,225.0,4948,Missing name
+8018,"Rhodes, Webster and Perez",Luxury,1405.89,-1.0,USA,2024-01-09,297.0,615,Invalid rating
+8020,Keller-Camacho,Budget,,,USA,2025-12-02,345.0,4413,Invalid price; Invalid rating
+8025,,Resort,743.36,3.6,FRANCE,2011-06-11,406.0,4813,Missing name
+8030,Patterson Inc,Boutique,,1.7,UAE,2023-10-01,342.0,3921,Invalid price
+8044,Hernandez LLC,Budget,1147.47,-1.0,GERMANY,2024-06-16,218.0,4562,Invalid rating
+8054,Thompson and Sons,Boutique,,4.6,USA,2025-10-01,93.0,527,Invalid price
+8055,,Resort,1306.46,4.0,JAPAN,2025-12-28,368.0,3231,Missing name
+8058,,Boutique,677.68,2.4,UAE,2026-01-27,430.0,2624,Missing name
+8059,,Hostel,1841.17,3.6,USA,2025-01-04,99.0,3930,Missing name
+8067,,Luxury,40.3,4.0,FRANCE,2006-12-13,272.0,1397,Missing name
+8075,,Business,343.59,2.1,UK,2024-11-24,469.0,4949,Missing name
+8080,Juarez Inc,Hostel,1764.56,-1.0,UK,2025-02-16,10.0,1497,Invalid rating
+8082,Perry LLC,Luxury,342.59,,UK,2025-01-07,365.0,3429,Invalid rating
+8095,"Strickland, Price and Henderson",Budget,,1.8,AUSTRALIA,2025-05-20,213.0,2585,Invalid price
+8096,Skinner LLC,,1080.16,2.3,UAE,2023-01-16,215.0,4388,Invalid category
+8119,Jones-Ware,Hostel,1204.94,,USA,2024-10-07,309.0,1472,Invalid rating
+8120,Levine-Garcia,Hostel,,2.5,USA,2024-03-05,115.0,4899,Invalid price
+8123,"Myers, Vega and Brown",,1742.57,2.7,USA,2024-05-20,176.0,2819,Invalid category
+8125,"Allen, Jones and Simmons",Luxury,,2.8,USA,2024-11-12,312.0,2775,Invalid price
+8134,Jacobson-Price,Business,,,USA,2024-09-10,251.0,3699,Invalid price; Invalid rating
+8145,,Luxury,565.32,1.1,INDIA,2024-09-16,169.0,1481,Missing name
+8149,,Business,1738.56,4.9,AUSTRALIA,2023-04-22,,826,Missing name
+8150,Thornton-Bernard,Budget,1783.13,99.0,USA,2024-11-08,303.0,4577,Invalid rating
+8153,Wolfe Inc,,778.28,2.0,USA,2006-05-17,418.0,1928,Invalid category
+8155,Parker Ltd,Boutique,,1.1,INDIA,2025-11-15,182.0,360,Invalid price
+8188,"Lee, Dunlap and Brock",Resort,777.61,,GERMANY,2025-02-23,218.0,82,Invalid rating
+8201,"Russell, Holmes and West",Hostel,1663.54,,INDIA,2025-07-04,35.0,789,Invalid rating
+8202,"Caldwell, Nash and Johnson",Business,335.32,99.0,FRANCE,2023-09-08,5.0,1746,Invalid rating
+8203,,Boutique,1598.96,3.1,JAPAN,2025-11-28,174.0,2551,Missing name
+8204,,Budget,561.57,3.0,UAE,2024-07-18,216.0,455,Missing name
+8211,,Business,1017.79,3.9,USA,2026-01-09,145.0,2582,Missing name
+8212,Winters-Perez,Boutique,544.44,,FRANCE,2023-05-17,56.0,4372,Invalid rating
+8221,"Gray, Williams and Davis",,,3.3,INDIA,2024-01-15,79.0,4964,Invalid price; Invalid category
+8238,"Mooney, Pena and Koch",Business,1298.31,-1.0,USA,2023-11-01,,78,Invalid rating
+8248,Garcia Group,Boutique,1805.12,99.0,INDIA,2024-03-17,445.0,451,Invalid rating
+8263,"Hammond, Valentine and Garcia",Luxury,,4.1,UAE,2025-10-30,408.0,4560,Invalid price
+8271,,Hostel,,4.5,USA,2026-02-05,407.0,4352,Missing name; Invalid price
+8276,,Resort,1792.43,1.3,UAE,2024-12-04,395.0,3509,Missing name
+8283,Thompson-Perez,Luxury,,4.5,FRANCE,2025-08-26,133.0,384,Invalid price
+8284,"Frederick, Porter and Williams",Luxury,,3.2,FRANCE,2025-10-31,189.0,820,Invalid price
+8285,Graham Ltd,Budget,,4.3,USA,2024-08-13,322.0,4525,Invalid price
+8298,,Business,752.9,1.3,USA,2025-03-01,494.0,2835,Missing name
+8312,Liu Ltd,Hostel,1349.44,,UK,2024-03-27,72.0,3992,Invalid rating
+8319,Martinez LLC,Business,131.17,,USA,2025-06-01,437.0,3795,Invalid rating
+8324,,Boutique,1225.66,2.7,FRANCE,2023-09-02,32.0,42,Missing name
+8326,Roberson and Sons,Budget,,3.1,JAPAN,2023-10-10,388.0,849,Invalid price
+8339,Johnson and Sons,Hostel,,4.7,GERMANY,2024-08-18,17.0,852,Invalid price
+8346,Hughes-Holden,Hostel,,3.9,JAPAN,2024-04-14,174.0,183,Invalid price
+8358,Graves LLC,Business,,1.5,JAPAN,2024-05-17,181.0,2776,Invalid price
+8371,Welch Group,Resort,,4.4,JAPAN,2024-09-12,162.0,4537,Invalid price
+8372,"Kelley, Edwards and Kelley",Boutique,,1.5,USA,2025-12-15,332.0,3792,Invalid price
+8374,Henry Inc,Resort,435.97,-1.0,JAPAN,2025-05-15,212.0,1795,Invalid rating
+8375,"Clarke, Sanchez and Long",,965.94,4.1,AUSTRALIA,2024-06-27,160.0,1345,Invalid category
+8378,,Resort,803.22,1.4,UAE,2025-06-29,,1907,Missing name
+8383,,Boutique,860.21,3.1,UAE,2025-05-20,114.0,2852,Missing name
+8384,Brown-Warren,,1209.54,1.8,GERMANY,2003-02-08,234.0,3421,Invalid category
+8394,"Hayes, Bryant and Martin",Boutique,,1.8,FRANCE,2024-12-30,242.0,3923,Invalid price
+8401,Phillips-Ellis,Luxury,,2.6,FRANCE,2023-04-27,12.0,4179,Invalid price
+8404,Allen and Sons,,365.67,2.2,USA,2024-09-03,351.0,2982,Invalid category
+8412,White-Pham,Budget,,2.5,FRANCE,2025-06-02,437.0,3256,Invalid price
+8417,Rodriguez-Jones,Resort,,3.0,USA,2025-07-17,238.0,3226,Invalid price
+8422,Kim-Rodriguez,Resort,,3.0,FRANCE,2024-01-19,,214,Invalid price
+8423,,Budget,148.93,1.3,USA,2024-05-16,278.0,3651,Missing name
+8449,Riggs LLC,Resort,,1.5,USA,2025-05-05,199.0,2382,Invalid price
+8455,,Budget,1710.35,3.6,AUSTRALIA,2023-09-24,464.0,3024,Missing name
+8456,,Hostel,103.63,,AUSTRALIA,2024-08-18,15.0,4707,Missing name; Invalid rating
+8457,"Bell, Alexander and Robinson",Budget,,3.4,AUSTRALIA,2023-07-05,322.0,538,Invalid price
+8459,Thomas LLC,,200.63,1.3,JAPAN,2023-05-09,41.0,4457,Invalid category
+8468,"Colon, Krueger and Mckay",Budget,,4.9,INDIA,2024-05-22,322.0,4504,Invalid price
+8480,Ross-Morales,Budget,,1.6,USA,2025-09-21,415.0,1304,Invalid price
+8483,Hill-Johnson,Hostel,,3.2,GERMANY,2024-12-12,195.0,2479,Invalid price
+8484,,Budget,645.4,3.2,JAPAN,2003-03-02,,1860,Missing name
+8489,Hill Inc,Business,,1.6,INDIA,2024-12-27,39.0,1961,Invalid price
+8493,"Hall, Lopez and Stone",Luxury,115.67,99.0,FRANCE,2023-04-20,473.0,4545,Invalid rating
+8501,Coleman and Sons,Luxury,860.65,-1.0,USA,2023-10-26,180.0,4295,Invalid rating
+8506,,Hostel,1656.61,3.5,JAPAN,2025-06-25,259.0,3351,Missing name
+8508,Miller-Perkins,Hostel,,2.5,GERMANY,2023-06-12,457.0,2395,Invalid price
+8513,Rodriguez-Green,Budget,485.57,-1.0,FRANCE,2024-09-22,381.0,3735,Invalid rating
+8519,Reed-Meyer,Hostel,,2.9,FRANCE,2023-05-28,112.0,4745,Invalid price
+8523,Patrick Inc,,538.53,3.2,UAE,2023-12-12,453.0,2132,Invalid category
+8529,Garcia-Williams,Boutique,846.44,,FRANCE,2023-06-24,433.0,1983,Invalid rating
+8532,,Hostel,414.06,1.5,USA,2023-03-31,60.0,3293,Missing name
+8537,Floyd-Davis,,1218.83,2.7,USA,2023-09-07,99.0,3118,Invalid category
+8538,,Budget,338.73,4.6,UK,1995-10-17,215.0,1428,Missing name
+8541,"Gardner, Hartman and Snow",Budget,,2.9,GERMANY,2023-08-14,47.0,2287,Invalid price
+8549,"Alexander, Frazier and Archer",,493.56,3.3,UAE,2025-04-30,193.0,2182,Invalid category
+8551,Garcia Group,Hostel,767.09,99.0,FRANCE,2023-12-02,159.0,779,Invalid rating
+8553,,Luxury,882.95,3.8,AUSTRALIA,2023-06-19,271.0,1629,Missing name
+8561,"Flores, Thompson and Davis",Budget,882.74,,UAE,2024-07-02,256.0,4441,Invalid rating
+8573,"Johnson, Barber and Petty",Resort,1637.63,99.0,UK,2025-01-26,,669,Invalid rating
+8574,Smith-Guzman,Resort,,2.5,JAPAN,2023-04-06,101.0,4556,Invalid price
+8587,Bryant-Taylor,Business,,1.7,USA,2023-09-10,359.0,3743,Invalid price
+8599,Garcia-Thompson,Hostel,,4.3,JAPAN,2025-07-15,330.0,269,Invalid price
+8604,Hernandez-Randall,Budget,1771.98,99.0,USA,2024-04-23,110.0,3356,Invalid rating
+8610,"French, Clark and Parker",Budget,268.91,-1.0,UAE,2023-03-17,470.0,1253,Invalid rating
+8617,,Budget,,4.4,UK,2024-01-06,500.0,4752,Missing name; Invalid price
+8618,Ortiz-Guzman,Luxury,176.4,,AUSTRALIA,2023-05-31,293.0,2347,Invalid rating
+8622,Moore Inc,Boutique,,3.2,UK,1992-01-21,423.0,2342,Invalid price
+8625,Ellis Ltd,Budget,,2.9,INDIA,2025-08-12,339.0,1036,Invalid price
+8627,"Garcia, Klein and Fuentes",Budget,1094.49,-1.0,USA,2025-11-04,386.0,4422,Invalid rating
+8629,Huerta-Reyes,Business,986.84,99.0,FRANCE,2023-03-27,384.0,613,Invalid rating
+8637,"Stevens, Middleton and Wilson",Resort,509.71,99.0,INDIA,2023-04-20,74.0,499,Invalid rating
+8646,Dudley PLC,Boutique,,2.5,GERMANY,2025-12-04,31.0,3465,Invalid price
+8652,King-Owens,Resort,,4.4,GERMANY,1982-11-19,86.0,714,Invalid price
+8659,,Budget,253.44,4.8,JAPAN,2024-04-22,230.0,4145,Missing name
+8664,Wise-Velazquez,,1971.91,3.2,USA,2025-12-20,105.0,3766,Invalid category
+8676,Wilson Group,Boutique,1116.43,-1.0,INDIA,2025-10-11,364.0,2982,Invalid rating
+8679,Bernard-Hernandez,Resort,1329.3,-1.0,UAE,2024-05-30,342.0,3560,Invalid rating
+8681,Scott LLC,Business,852.4,,USA,2023-07-27,136.0,4997,Invalid rating
+8692,Miller and Sons,Resort,,4.1,UAE,2025-12-23,411.0,4767,Invalid price
+8695,Schroeder PLC,Hostel,155.73,99.0,AUSTRALIA,2023-12-30,73.0,2422,Invalid rating
+8701,Gallagher-Chan,Hostel,335.16,-1.0,USA,2023-09-30,157.0,4856,Invalid rating
+8702,Haley Group,,,2.9,INDIA,2023-04-09,471.0,565,Invalid price; Invalid category
+8704,"Olson, Huffman and Fernandez",Luxury,,1.4,UK,2026-02-17,404.0,4478,Invalid price
+8707,,Business,951.19,3.9,UAE,2023-12-16,187.0,1023,Missing name
+8714,Padilla-Ho,Hostel,1634.81,,USA,2024-04-01,487.0,2445,Invalid rating
+8718,,Business,588.64,3.6,JAPAN,2024-10-22,400.0,63,Missing name
+8723,,Boutique,482.53,4.7,USA,2025-12-26,370.0,638,Missing name
+8726,,Boutique,399.46,4.1,FRANCE,2023-06-18,352.0,1833,Missing name
+8735,Parker Inc,Boutique,721.69,-1.0,UAE,2024-11-09,457.0,2918,Invalid rating
+8738,,Budget,1416.47,4.1,FRANCE,1996-01-19,208.0,1745,Missing name
+8752,,Resort,1520.8,3.2,INDIA,2025-04-21,335.0,2441,Missing name
+8756,"Avila, Gay and Collins",Budget,,3.3,INDIA,2023-07-22,480.0,3692,Invalid price
+8759,,Business,1680.69,4.2,FRANCE,2025-01-15,357.0,2681,Missing name
+8788,,Resort,623.31,3.5,INDIA,2024-07-27,234.0,1560,Missing name
+8789,"Davis, Williams and Armstrong",Luxury,1514.95,-1.0,INDIA,2024-10-15,346.0,3984,Invalid rating
+8805,Baker PLC,Budget,740.63,,USA,2025-03-13,29.0,2650,Invalid rating
+8807,Thomas-Levine,Luxury,,3.9,FRANCE,2025-02-21,210.0,1757,Invalid price
+8808,,Resort,1590.97,2.1,FRANCE,2025-06-11,75.0,4002,Missing name
+8815,"Taylor, Gonzales and Fox",Hostel,,-1.0,INDIA,2025-01-06,217.0,3323,Invalid price; Invalid rating
+8817,,Resort,227.78,4.4,UAE,2023-03-19,272.0,4397,Missing name
+8818,"Bradshaw, Mason and Swanson",Hostel,,1.8,FRANCE,2024-06-01,343.0,709,Invalid price
+8821,"Johnson, Bauer and Clark",,1788.39,1.8,USA,2025-07-19,300.0,3113,Invalid category
+8848,Fields LLC,Resort,1216.06,-1.0,FRANCE,2024-02-11,58.0,1873,Invalid rating
+8852,,Budget,,2.4,GERMANY,2023-09-17,357.0,4766,Missing name; Invalid price
+8858,Hall Ltd,Budget,113.53,99.0,GERMANY,2024-03-20,435.0,4841,Invalid rating
+8861,,Business,,4.3,INDIA,2023-04-19,473.0,3917,Missing name; Invalid price
+8872,,Hostel,531.75,4.2,JAPAN,2025-08-30,491.0,256,Missing name
+8876,,Resort,491.67,2.0,USA,2025-01-10,402.0,3465,Missing name
+8880,,Boutique,623.3,3.4,JAPAN,2025-07-05,291.0,3848,Missing name
+8889,,Luxury,162.34,3.6,FRANCE,2024-10-22,144.0,3491,Missing name
+8896,Cross and Sons,Resort,370.61,99.0,USA,2024-02-07,291.0,2586,Invalid rating
+8906,,Luxury,719.32,2.8,FRANCE,2024-10-18,105.0,1296,Missing name
+8918,,Business,,1.9,JAPAN,2025-07-22,81.0,1130,Missing name; Invalid price
+8923,Wiley-Hart,,,4.8,JAPAN,1984-09-08,393.0,3384,Invalid price; Invalid category
+8937,Shepherd-Vaughn,Luxury,325.56,-1.0,GERMANY,2025-06-03,158.0,4629,Invalid rating
+8940,Gordon LLC,Luxury,,4.8,UK,2024-06-04,246.0,3631,Invalid price
+8943,"Fry, Goodwin and Barnett",Hostel,,2.6,USA,2025-12-31,238.0,256,Invalid price
+8954,Cooper-West,Hostel,627.58,99.0,FRANCE,2024-06-02,157.0,1318,Invalid rating
+8955,Gray-Burke,Boutique,,3.1,INDIA,2025-06-09,473.0,4007,Invalid price
+8958,Ellison Inc,Hostel,1470.13,99.0,JAPAN,2023-08-10,132.0,3028,Invalid rating
+8960,Lindsey-Harper,Boutique,,2.8,FRANCE,2023-10-29,162.0,1701,Invalid price
+8964,,Boutique,1330.05,1.8,UK,2025-01-26,295.0,1264,Missing name
+8971,,Budget,1181.99,3.6,UAE,2023-10-24,66.0,373,Missing name
+8972,Tucker-Smith,Hostel,,4.0,JAPAN,2024-11-19,88.0,1062,Invalid price
+8975,,Business,568.81,2.2,FRANCE,2026-02-24,471.0,1442,Missing name
+8977,,Resort,86.36,4.3,AUSTRALIA,2023-10-03,69.0,2037,Missing name
+8996,"Golden, Heath and Nelson",Hostel,774.76,-1.0,USA,2024-02-23,406.0,2574,Invalid rating
+8998,"Arellano, Lopez and Martin",,1698.65,-1.0,AUSTRALIA,2024-09-22,280.0,294,Invalid rating; Invalid category
+9009,"Barnett, Wise and Roth",Luxury,304.45,-1.0,UAE,2025-01-24,346.0,2348,Invalid rating
+9011,Pineda-Conley,,1738.82,3.7,UK,2025-04-29,339.0,4317,Invalid category
+9016,"Mitchell, Howard and Stephens",Budget,,2.5,GERMANY,2023-06-19,162.0,1101,Invalid price
+9021,"Marshall, Lee and Green",Luxury,,4.2,FRANCE,2023-03-30,4.0,3121,Invalid price
+9029,Thomas Inc,Boutique,752.63,-1.0,USA,2024-04-23,16.0,3160,Invalid rating
+9031,Freeman-Heath,Hostel,,,JAPAN,2024-03-11,291.0,4702,Invalid price; Invalid rating
+9032,Lawrence LLC,Resort,836.1,99.0,GERMANY,2025-08-29,207.0,1000,Invalid rating
+9044,"Murphy, Brown and Ramirez",Resort,253.61,,FRANCE,2024-04-12,396.0,4164,Invalid rating
+9045,"Fernandez, Weber and Wells",Boutique,65.19,,UK,2024-12-29,328.0,2264,Invalid rating
+9048,,Business,1585.18,1.5,JAPAN,2025-09-16,103.0,1442,Missing name
+9052,George PLC,,335.73,4.2,FRANCE,2023-10-16,285.0,933,Invalid category
+9060,,Resort,213.37,4.8,USA,2024-02-02,241.0,4528,Missing name
+9061,Green and Sons,Business,59.62,-1.0,USA,2025-09-02,191.0,3172,Invalid rating
+9063,,Resort,1373.92,1.1,USA,2025-02-09,407.0,777,Missing name
+9068,Odonnell Ltd,Business,1866.39,,FRANCE,2023-06-28,309.0,3826,Invalid rating
+9078,Baker-Rodriguez,Resort,1968.1,99.0,USA,2024-05-16,202.0,4942,Invalid rating
+9080,,Luxury,410.79,2.5,USA,2023-07-31,443.0,1131,Missing name
+9087,"Ayala, Smith and Rodriguez",Hostel,,4.9,AUSTRALIA,2025-12-07,237.0,2081,Invalid price
+9089,,Budget,1283.12,2.7,FRANCE,2024-01-16,477.0,3498,Missing name
+9095,Lewis Group,Hostel,835.55,,INDIA,2026-02-23,406.0,19,Invalid rating
+9102,Green-Murphy,Boutique,211.15,-1.0,JAPAN,2023-12-10,281.0,1767,Invalid rating
+9110,Bradley-Glenn,Hostel,1689.67,99.0,USA,2023-08-28,472.0,1143,Invalid rating
+9114,,Hostel,500.57,2.0,FRANCE,2023-12-05,204.0,1853,Missing name
+9129,"Lambert, Mason and Giles",Budget,979.54,,USA,2025-04-25,215.0,3491,Invalid rating
+9132,"Weaver, Arnold and Lee",Resort,995.63,-1.0,USA,2025-08-05,38.0,4051,Invalid rating
+9141,,Budget,636.34,4.6,FRANCE,2025-07-13,151.0,3091,Missing name
+9145,"Garcia, Smith and Yoder",Business,237.4,99.0,USA,2025-02-12,352.0,4839,Invalid rating
+9161,Warner and Sons,Boutique,,4.1,GERMANY,1982-12-27,76.0,2627,Invalid price
+9168,,Hostel,1249.59,-1.0,USA,2025-11-25,117.0,3478,Missing name; Invalid rating
+9203,Schmidt PLC,Luxury,,4.1,INDIA,2024-01-14,195.0,1455,Invalid price
+9205,Garcia-Arnold,Luxury,,2.6,JAPAN,2025-03-24,171.0,3543,Invalid price
+9207,,Luxury,1538.95,3.6,USA,2023-05-03,159.0,3147,Missing name
+9211,Perkins Inc,,1294.76,5.0,INDIA,2024-01-01,268.0,3157,Invalid category
+9216,Sharp-Sparks,Resort,,4.9,USA,2023-03-18,91.0,772,Invalid price
+9224,,Budget,1171.11,3.4,UK,2024-06-24,150.0,1563,Missing name
+9251,Taylor-Villanueva,Budget,,4.9,AUSTRALIA,2025-10-16,65.0,2344,Invalid price
+9255,Henderson-Walker,Boutique,,3.7,GERMANY,2025-06-10,350.0,1754,Invalid price
+9257,Mccarthy-Peters,Hostel,682.06,,USA,2023-12-15,142.0,551,Invalid rating
+9273,"Gallegos, Perez and Drake",,1596.17,4.4,INDIA,2025-01-29,110.0,3752,Invalid category
+9280,,Resort,1253.63,1.2,USA,2023-12-12,455.0,3557,Missing name
+9287,"Meyer, Roy and Scott",,551.84,3.9,AUSTRALIA,2025-12-15,432.0,385,Invalid category
+9300,"Mullins, Kim and Mendez",Hostel,,3.7,UK,2000-05-31,295.0,1639,Invalid price
+9303,,Hostel,1557.13,99.0,INDIA,2024-11-12,139.0,4800,Missing name; Invalid rating
+9305,Hicks-Carpenter,Budget,1153.44,,FRANCE,2025-12-05,58.0,2393,Invalid rating
+9310,Arroyo Inc,Business,623.15,99.0,USA,2024-07-20,290.0,4403,Invalid rating
+9312,,Boutique,424.03,1.8,FRANCE,2024-05-20,,3935,Missing name
+9313,"Pena, Deleon and Norton",Resort,,1.5,USA,2025-03-27,62.0,3272,Invalid price
+9316,Villanueva-Perez,Resort,1124.6,-1.0,FRANCE,2025-03-12,462.0,3107,Invalid rating
+9320,Flores-Brooks,Budget,1897.81,,UAE,2026-02-23,455.0,2864,Invalid rating
+9333,Morrow and Sons,,965.05,2.5,FRANCE,2025-06-13,409.0,4145,Invalid category
+9340,"Kelly, Nelson and Hernandez",Business,200.75,,INDIA,2024-07-31,411.0,537,Invalid rating
+9347,"Green, Baker and Brown",Luxury,804.43,-1.0,UK,2025-10-21,106.0,3409,Invalid rating
+9364,,,1656.77,-1.0,USA,2025-07-18,80.0,4292,Missing name; Invalid rating; Invalid category
+9366,,Budget,701.14,3.9,FRANCE,1992-06-20,447.0,1313,Missing name
+9368,"Pierce, Larsen and Mccoy",,1104.52,2.9,FRANCE,2025-08-28,,1372,Invalid category
+9377,Gomez LLC,Budget,,1.3,USA,2024-08-28,51.0,1445,Invalid price
+9399,Ortiz-Christian,Boutique,1424.23,99.0,UAE,2025-11-21,276.0,730,Invalid rating
+9410,Matthews-Brown,Business,945.47,,JAPAN,2025-04-17,102.0,1182,Invalid rating
+9412,"Brown, Richards and Tucker",Hostel,,1.7,UAE,2024-01-07,442.0,3696,Invalid price
+9419,,Budget,1926.79,4.6,UK,2024-01-22,195.0,2838,Missing name
+9423,Davis-Castaneda,,650.34,4.4,FRANCE,2025-04-27,274.0,4246,Invalid category
+9426,,Resort,218.78,3.2,GERMANY,2025-10-30,165.0,80,Missing name
+9428,"House, Baker and Perez",Hostel,1617.84,,USA,2023-12-14,17.0,3921,Invalid rating
+9435,"Ortiz, Taylor and Holmes",,396.02,2.6,INDIA,2025-04-21,21.0,497,Invalid category
+9439,Murphy LLC,Business,530.81,-1.0,FRANCE,2023-05-07,,4919,Invalid rating
+9443,,Resort,690.56,3.8,USA,2023-08-06,245.0,2733,Missing name
+9461,"York, Smith and Rogers",,713.47,1.6,AUSTRALIA,2024-07-08,279.0,1219,Invalid category
+9463,Santos-Jackson,Business,1700.36,,GERMANY,2025-09-04,273.0,108,Invalid rating
+9485,"Gibson, Richardson and Howard",Resort,1020.54,-1.0,JAPAN,2023-08-02,199.0,799,Invalid rating
+9486,,Boutique,1891.4,2.2,USA,2024-02-18,376.0,3460,Missing name
+9489,"Smith, Brady and Henry",Business,691.24,-1.0,AUSTRALIA,2023-11-25,142.0,1202,Invalid rating
+9494,House-Williams,Hostel,1303.59,-1.0,FRANCE,1996-11-24,,162,Invalid rating
+9509,,Budget,1142.56,4.4,JAPAN,2024-04-19,437.0,4828,Missing name
+9511,,Business,1363.79,1.5,JAPAN,2023-07-30,49.0,3088,Missing name
+9529,"Sutton, Dougherty and Joyce",Resort,,2.9,UK,2025-02-08,149.0,448,Invalid price
+9533,"Macdonald, Douglas and Fisher",,132.07,1.6,INDIA,2023-09-14,213.0,4266,Invalid category
+9534,Rios-Johnson,Luxury,1747.61,,FRANCE,2023-07-22,44.0,1668,Invalid rating
+9537,Robertson-Underwood,Boutique,,3.3,FRANCE,2024-04-06,429.0,179,Invalid price
+9541,,Luxury,1773.56,2.7,UK,2024-05-18,112.0,3483,Missing name
+9547,"Rush, Jones and Moore",Business,,2.8,INDIA,2023-07-11,284.0,1348,Invalid price
+9566,Owens and Sons,Hostel,,2.2,USA,2023-09-24,391.0,518,Invalid price
+9574,,Hostel,231.39,2.2,FRANCE,2024-10-23,124.0,4703,Missing name
+9575,Edwards and Sons,Business,323.39,99.0,INDIA,2023-12-21,398.0,2721,Invalid rating
+9576,,Resort,650.99,4.9,JAPAN,2025-05-09,218.0,1139,Missing name
+9582,Moore-Kim,Resort,196.18,-1.0,GERMANY,2023-11-30,133.0,1915,Invalid rating
+9590,,Business,1694.94,2.4,GERMANY,2024-10-23,389.0,2011,Missing name
+9591,,,1793.01,1.4,USA,2025-04-22,198.0,2863,Missing name; Invalid category
+9596,Henson Ltd,,1280.97,4.5,AUSTRALIA,2024-12-27,61.0,2164,Invalid category
+9614,,Boutique,1680.41,4.6,USA,2024-12-15,307.0,1061,Missing name
+9615,,Budget,1134.29,1.6,JAPAN,2023-05-28,452.0,4241,Missing name
+9619,Scott Ltd,Boutique,,2.1,GERMANY,2025-02-28,106.0,362,Invalid price
+9621,"Allen, Bailey and Green",Hostel,414.4,99.0,UK,2023-03-15,417.0,4734,Invalid rating
+9624,Murphy Inc,,1918.46,4.7,GERMANY,2026-01-26,128.0,1206,Invalid category
+9630,Ramirez Inc,Budget,1116.18,99.0,GERMANY,2024-09-06,382.0,3038,Invalid rating
+9641,,Budget,1829.25,1.7,AUSTRALIA,2024-04-11,163.0,3028,Missing name
+9653,"Johnson, Mclean and Crawford",Hostel,1626.83,,FRANCE,2023-09-17,356.0,3048,Invalid rating
+9654,,Resort,1881.68,4.0,FRANCE,2024-01-09,453.0,2042,Missing name
+9656,,Business,1603.69,3.0,USA,2023-11-18,164.0,1100,Missing name
+9657,,Hostel,1190.56,1.8,INDIA,2024-07-03,354.0,1933,Missing name
+9660,Hickman-Frank,Business,,4.3,JAPAN,2025-03-29,379.0,1217,Invalid price
+9662,,Luxury,1504.71,4.4,GERMANY,2023-11-12,408.0,1460,Missing name
+9665,"Richard, Odom and Jefferson",Business,1066.6,,FRANCE,2023-09-19,286.0,630,Invalid rating
+9668,,Luxury,1150.96,1.2,USA,2025-05-26,407.0,2729,Missing name
+9669,Wilkins Ltd,Business,,4.3,UK,2024-09-21,342.0,920,Invalid price
+9672,Burns LLC,Luxury,,3.2,AUSTRALIA,2025-10-19,115.0,2938,Invalid price
+9680,,Resort,1329.13,3.8,FRANCE,2023-04-21,377.0,253,Missing name
+9691,Lee PLC,Resort,,1.7,USA,2023-08-30,410.0,3028,Invalid price
+9696,"Wang, Banks and Lopez",,354.07,4.5,AUSTRALIA,2025-10-21,19.0,3300,Invalid category
+9703,Maldonado Ltd,Luxury,,1.2,FRANCE,2026-01-24,353.0,3035,Invalid price
+9711,,Resort,,3.0,UAE,2024-07-01,466.0,2438,Missing name; Invalid price
+9715,,Boutique,1829.15,1.0,USA,2025-11-23,397.0,490,Missing name
+9720,,Budget,,4.7,AUSTRALIA,2025-06-19,259.0,3286,Missing name; Invalid price
+9721,,Budget,594.17,3.3,UAE,2023-10-01,257.0,3804,Missing name
+9728,,Hostel,367.41,1.5,UAE,2024-08-19,465.0,2095,Missing name
+9729,Price-Moore,Business,1902.72,,USA,2023-10-03,149.0,1716,Invalid rating
+9731,,Business,1119.78,3.0,UAE,2024-08-21,495.0,4401,Missing name
+9733,Todd-Wells,Resort,,4.3,AUSTRALIA,2024-09-11,439.0,2163,Invalid price
+9735,,Budget,1349.54,3.6,UAE,2024-09-01,276.0,3833,Missing name
+9736,"Richardson, Stanley and Wilson",Hostel,1559.81,99.0,FRANCE,2026-02-13,328.0,4876,Invalid rating
+9754,,Boutique,1204.25,2.8,USA,2023-07-27,244.0,267,Missing name
+9755,Adams PLC,,1817.73,,UAE,2026-01-28,47.0,3147,Invalid rating; Invalid category
+9757,Brown-Berry,Hostel,,2.7,GERMANY,2023-08-10,216.0,4801,Invalid price
+9758,Bowers Ltd,Budget,43.67,-1.0,USA,2025-11-11,262.0,237,Invalid rating
+9764,Smith Group,,69.09,4.1,USA,2025-11-14,162.0,4944,Invalid category
+9765,Hayden PLC,Budget,521.49,99.0,FRANCE,2023-11-10,92.0,3088,Invalid rating
+9772,,Boutique,1320.3,3.0,FRANCE,2023-04-23,451.0,2329,Missing name
+9774,"Cooper, Burns and Price",Budget,,3.4,AUSTRALIA,2023-09-26,310.0,888,Invalid price
+9780,Hudson-Smith,Budget,,4.1,JAPAN,2025-01-29,166.0,3678,Invalid price
+9794,,Luxury,635.34,3.1,UAE,2024-06-05,60.0,1444,Missing name
+9797,Brooks Group,Resort,,3.3,GERMANY,2024-06-20,419.0,2055,Invalid price
+9800,,Budget,1554.29,2.4,USA,1995-05-02,220.0,3837,Missing name
+9805,,Budget,497.39,4.1,FRANCE,2023-09-04,161.0,1944,Missing name
+9822,"Solis, Bruce and Bryant",,341.23,1.6,JAPAN,2024-06-19,486.0,2390,Invalid category
+9829,Garrett-Williams,,1507.08,4.8,USA,2025-10-17,378.0,481,Invalid category
+9833,,Boutique,542.29,2.6,UK,2025-09-21,158.0,3451,Missing name
+9844,"Braun, Campbell and Anderson",,1181.79,4.3,JAPAN,2023-04-11,292.0,1500,Invalid category
+9853,Copeland Inc,Business,,3.7,GERMANY,2024-09-08,111.0,4963,Invalid price
+9860,"Livingston, Lewis and Ward",Business,1276.92,-1.0,UAE,2000-06-13,146.0,2781,Invalid rating
+9866,Carroll-Bishop,Business,1569.1,99.0,FRANCE,2025-08-06,333.0,806,Invalid rating
+9870,Bailey Ltd,Hostel,,1.8,JAPAN,2023-10-26,489.0,488,Invalid price
+9873,Graves PLC,Hostel,,4.9,GERMANY,2025-02-12,166.0,2724,Invalid price
+9901,Tate-Serrano,Resort,1315.21,99.0,FRANCE,2023-05-24,132.0,2751,Invalid rating
+9911,Gray PLC,Boutique,,2.3,AUSTRALIA,2023-10-29,308.0,445,Invalid price
+9912,,Business,459.07,1.4,GERMANY,2025-07-02,447.0,4544,Missing name
+9913,Stewart Ltd,Hostel,,4.4,GERMANY,2023-11-26,235.0,4099,Invalid price
+9915,Robinson PLC,Budget,1494.55,99.0,USA,2024-01-06,15.0,2387,Invalid rating
+9920,"Valdez, Jones and Mcdowell",,1680.44,4.7,UK,2025-12-27,270.0,2045,Invalid category
+9924,Cook-Chang,,1838.32,2.4,INDIA,2025-09-02,32.0,2285,Invalid category
+9932,Olson Group,Luxury,541.51,,AUSTRALIA,2023-11-29,294.0,3936,Invalid rating
+9939,Hayes-Smith,,1328.92,4.4,JAPAN,2024-03-13,349.0,1769,Invalid category
+9985,Reid-Smith,Hostel,,2.6,USA,2025-01-05,312.0,4020,Invalid price
+9988,"Carter, Tate and Ramirez",,476.83,3.2,INDIA,2025-06-10,306.0,1522,Invalid category
+9997,,Business,276.63,3.1,UK,2025-02-16,27.0,2124,Missing name
+10002,"Robinson, Phelps and Jones",,112.18,3.5,GERMANY,2024-03-06,5.0,2321,Invalid category
+10006,King-Duke,Business,,3.0,UK,2025-09-27,103.0,1302,Invalid price
+10009,,Hostel,772.27,4.5,FRANCE,2024-01-28,331.0,4345,Missing name
+10016,"Wyatt, Scott and Shaffer",Business,1678.19,,AUSTRALIA,2023-11-17,232.0,1132,Invalid rating
+10020,Johnson-Preston,Resort,,1.6,UAE,1993-04-22,329.0,2886,Invalid price
+10022,Keller-Day,Resort,,1.5,UAE,2025-11-02,31.0,4459,Invalid price
+10034,Torres Inc,Boutique,155.59,99.0,AUSTRALIA,2025-02-20,17.0,1694,Invalid rating
+10035,,Luxury,136.67,2.1,FRANCE,2025-05-24,326.0,196,Missing name
+10043,,Business,1038.1,2.1,USA,2023-09-13,436.0,148,Missing name
+10049,Mays and Sons,Resort,,2.2,JAPAN,2025-02-24,482.0,1525,Invalid price
+10055,Sims-Ramirez,Business,1880.64,,UAE,2024-02-22,139.0,2006,Invalid rating
+10056,Johnson-Thomas,,,2.2,FRANCE,2004-01-05,49.0,513,Invalid price; Invalid category
+10057,Baxter-Greene,Luxury,,-1.0,JAPAN,2025-12-06,116.0,84,Invalid price; Invalid rating
+10077,Perez-Lane,,1781.15,4.7,JAPAN,2024-06-04,463.0,1700,Invalid category
+10079,,Resort,216.95,2.2,USA,2023-09-20,352.0,2760,Missing name
+10080,Ramos-Francis,Business,,4.0,FRANCE,2024-03-22,1.0,156,Invalid price
+10088,Livingston Group,Luxury,1256.34,99.0,UAE,2024-10-07,478.0,2778,Invalid rating
+10091,"Nichols, Salinas and Rojas",Boutique,,4.6,GERMANY,2024-08-31,151.0,4453,Invalid price
+10094,,Resort,1157.98,4.0,FRANCE,2025-04-07,151.0,345,Missing name
+10100,Wilson Group,Resort,,2.4,AUSTRALIA,2025-03-31,106.0,1372,Invalid price
+10111,"Martinez, Mitchell and Roberson",Budget,229.62,99.0,UK,2024-12-30,380.0,4252,Invalid rating
+10114,,Business,880.78,3.5,FRANCE,2024-02-09,143.0,4152,Missing name
+10119,Ramirez Ltd,Resort,,2.4,FRANCE,2025-12-14,174.0,935,Invalid price
+10120,"Collins, Price and Jimenez",Business,,4.0,JAPAN,2025-10-27,442.0,2613,Invalid price
+10136,Jackson and Sons,,187.19,2.2,AUSTRALIA,2024-12-26,315.0,60,Invalid category
+10147,Ortiz PLC,Budget,,2.1,USA,2023-12-31,88.0,626,Invalid price
+10150,Smith-Harrison,Boutique,,2.6,UAE,2023-05-28,460.0,436,Invalid price
+10154,Davis-Morales,Boutique,,3.1,INDIA,2023-03-28,199.0,244,Invalid price
+10160,"Clark, Kennedy and Rangel",Luxury,,4.5,FRANCE,2025-07-17,,1764,Invalid price
+10165,Nguyen-Martinez,Business,1992.96,,FRANCE,2024-01-21,30.0,426,Invalid rating
+10189,"Weber, Kim and Taylor",Budget,1489.79,-1.0,USA,2024-02-01,80.0,1376,Invalid rating
+10200,"Paul, Miller and Moore",Boutique,1974.1,,UAE,2026-02-01,365.0,940,Invalid rating
+10208,Ward and Sons,,1984.62,2.2,FRANCE,2023-03-12,451.0,2139,Invalid category
+10209,"Stout, Jackson and Hughes",Budget,1408.6,-1.0,GERMANY,2024-07-09,323.0,61,Invalid rating
+10212,,Boutique,1231.17,2.4,FRANCE,2024-12-16,157.0,1849,Missing name
+10215,"Cook, Perez and Mayo",Resort,502.03,,USA,2024-12-22,454.0,1235,Invalid rating
+10216,Bates-Peters,Budget,510.07,,INDIA,2023-03-11,84.0,958,Invalid rating
+10224,,Budget,520.65,2.0,UAE,2025-03-28,423.0,2794,Missing name
+10226,Hall LLC,,306.17,1.4,UK,2025-10-16,364.0,1062,Invalid category
+10231,,Resort,1119.36,2.6,USA,2025-06-09,,2058,Missing name
+10236,"Lam, Hickman and Cook",Luxury,340.71,,FRANCE,2025-01-23,,807,Invalid rating
+10279,Williams PLC,Boutique,,3.3,AUSTRALIA,2023-08-15,25.0,2499,Invalid price
+10295,Hall LLC,Business,,2.3,INDIA,2024-11-13,449.0,3339,Invalid price
+10307,,Resort,844.47,4.7,INDIA,2025-03-25,7.0,61,Missing name
+10308,Barry-Kerr,Business,,1.3,UAE,2024-04-07,69.0,2185,Invalid price
+10309,Wright and Sons,Resort,680.97,-1.0,USA,2023-07-19,40.0,3755,Invalid rating
+10312,,Luxury,1162.03,2.7,UAE,2023-04-01,325.0,3110,Missing name
+10316,"Young, Andrews and Fisher",Hostel,1363.69,-1.0,AUSTRALIA,2024-09-09,389.0,3340,Invalid rating
+10320,Howard-Jackson,Budget,1229.23,-1.0,USA,2025-10-23,175.0,2077,Invalid rating
+10332,Kelly-Smith,Luxury,1248.05,99.0,USA,2025-11-17,267.0,4900,Invalid rating
+10333,"Short, Ortega and Richards",Budget,1378.24,,INDIA,2024-02-10,204.0,536,Invalid rating
+10334,,Boutique,,4.6,FRANCE,2024-11-18,293.0,2054,Missing name; Invalid price
+10340,,Hostel,986.0,1.2,UAE,1982-07-05,311.0,3948,Missing name
+10344,Stone-Aguilar,Luxury,153.42,,FRANCE,2024-05-01,219.0,2858,Invalid rating
+10345,Gardner LLC,Boutique,,3.4,AUSTRALIA,2024-04-26,33.0,989,Invalid price
+10348,,Resort,1598.11,2.2,FRANCE,2025-02-27,44.0,3709,Missing name
+10359,"Brown, Farley and Hanson",Luxury,,2.0,FRANCE,2025-11-16,279.0,4544,Invalid price
+10360,Roy Group,,978.51,4.6,JAPAN,2024-10-10,290.0,2393,Invalid category
+10361,,Business,241.28,99.0,AUSTRALIA,2023-10-22,217.0,972,Missing name; Invalid rating
+10372,Estrada-Cunningham,,527.49,3.2,UAE,2023-06-02,396.0,2879,Invalid category
+10374,Wall and Sons,Resort,252.2,,USA,2023-10-14,296.0,4001,Invalid rating
+10385,"Barajas, Webb and Pitts",Luxury,702.08,99.0,UK,2024-05-12,42.0,2486,Invalid rating
+10402,Jensen LLC,Hostel,1360.56,99.0,USA,2023-12-22,418.0,359,Invalid rating
+10411,Floyd-Chavez,,1863.71,1.1,USA,2024-10-14,103.0,2497,Invalid category
+10433,Dixon-Sellers,Resort,,1.3,GERMANY,2025-02-19,177.0,2454,Invalid price
+10443,Cortez-Henry,Business,,4.9,UK,2026-01-18,417.0,3857,Invalid price
+10444,Potter-Mcintosh,Luxury,,1.6,FRANCE,1977-11-12,359.0,315,Invalid price
+10445,,,664.18,1.7,USA,2025-12-17,264.0,2346,Missing name; Invalid category
+10449,Morris-Buck,Business,,2.6,USA,2025-12-27,258.0,3412,Invalid price
+10451,,Budget,608.79,2.8,JAPAN,2025-04-27,185.0,1063,Missing name
+10454,Mack-Mathis,Business,690.26,,AUSTRALIA,2024-01-19,61.0,4368,Invalid rating
+10456,,Hostel,1952.55,4.0,FRANCE,2023-03-10,212.0,993,Missing name
+10457,Monroe-Price,Luxury,734.68,99.0,GERMANY,2023-08-07,453.0,565,Invalid rating
+10463,Barron-Moore,Boutique,1174.67,,GERMANY,2025-10-05,92.0,4999,Invalid rating
+10465,Murphy and Sons,,610.14,2.7,FRANCE,2024-04-09,370.0,4205,Invalid category
+10470,,Business,1226.38,3.9,UK,1988-02-22,323.0,524,Missing name
+10472,Miles Inc,Resort,863.49,99.0,USA,2025-03-27,178.0,2506,Invalid rating
+10477,Hood and Sons,Business,,1.5,FRANCE,2023-11-18,79.0,447,Invalid price
+10485,,Budget,911.74,4.5,FRANCE,2025-06-01,284.0,691,Missing name
+10491,,Resort,1512.97,2.1,USA,2015-07-01,177.0,4030,Missing name
+10494,Weaver-Martin,Hostel,1339.06,-1.0,FRANCE,2025-01-01,,2479,Invalid rating
+10499,,Luxury,775.03,2.1,GERMANY,2026-01-24,163.0,1346,Missing name
+10516,Briggs PLC,Luxury,,4.4,USA,2024-05-27,270.0,3515,Invalid price
+10527,,Business,974.9,4.2,GERMANY,2025-05-13,252.0,3949,Missing name
+10528,"Williams, Sellers and Jones",Hostel,,2.1,UK,2024-03-25,130.0,3157,Invalid price
+10540,"Holland, Nunez and Allen",Resort,1998.73,-1.0,UAE,2023-05-24,,1111,Invalid rating
+10542,,Business,638.41,1.3,FRANCE,2023-05-15,230.0,3346,Missing name
+10544,"Castillo, Ramos and Jones",Resort,833.21,-1.0,USA,2023-07-14,221.0,1727,Invalid rating
+10578,"Lawrence, Rivera and Brock",Business,,4.8,USA,2023-07-28,131.0,1649,Invalid price
+10588,,Resort,467.27,3.3,USA,2024-09-16,199.0,983,Missing name
+10592,Jimenez-Zavala,Business,783.65,,JAPAN,2025-06-10,443.0,962,Invalid rating
+10597,Bradley Inc,Hostel,,4.5,FRANCE,2025-05-23,,4840,Invalid price
+10599,,Budget,1604.53,1.3,INDIA,2024-08-07,154.0,22,Missing name
+10633,Reynolds LLC,,1652.47,4.4,USA,2025-11-04,418.0,3588,Invalid category
+10638,Stanley LLC,Business,971.1,-1.0,UK,2024-04-27,484.0,818,Invalid rating
+10644,,Hostel,1304.38,1.8,GERMANY,1978-07-26,32.0,3349,Missing name
+10652,,Budget,528.83,2.1,UAE,2023-10-19,73.0,2967,Missing name
+10659,"Smith, Le and Miller",Luxury,,2.4,FRANCE,2024-12-10,282.0,3527,Invalid price
+10677,,Hostel,1819.78,1.6,INDIA,2024-08-25,160.0,4454,Missing name
+10680,"Anderson, Bailey and Castillo",,263.01,3.5,UK,2023-06-01,435.0,3757,Invalid category
+10686,Ellis LLC,Resort,930.86,,UK,2025-06-02,412.0,3231,Invalid rating
+10704,Thomas PLC,,104.8,1.4,USA,2025-03-26,244.0,2092,Invalid category
+10705,"Norris, Goodwin and Bruce",Boutique,,1.3,UAE,2024-02-01,467.0,2063,Invalid price
+10706,,Boutique,170.24,3.5,UK,2026-01-09,472.0,2444,Missing name
+10715,,Resort,1973.95,3.9,GERMANY,2023-11-12,237.0,2925,Missing name
+10740,Hamilton Group,Resort,,3.1,USA,2025-11-19,421.0,4997,Invalid price
+10742,Bennett Inc,Resort,1449.27,99.0,UK,2023-09-16,44.0,1179,Invalid rating
+10745,Casey PLC,,355.79,4.4,FRANCE,2023-06-22,24.0,3012,Invalid category
+10763,Gordon Group,Business,1613.63,,USA,2024-02-22,363.0,3112,Invalid rating
+10767,,Luxury,1226.94,2.0,JAPAN,2026-02-03,428.0,2052,Missing name
+10771,,Hostel,769.38,3.2,USA,2025-03-25,239.0,4482,Missing name
+10789,,Business,350.67,3.6,GERMANY,2025-10-16,62.0,2628,Missing name
+10791,Walker LLC,Business,,2.7,FRANCE,2024-06-08,451.0,3481,Invalid price
+10794,Ayers and Sons,Hostel,,4.6,AUSTRALIA,2024-02-01,193.0,1427,Invalid price
+10808,Hayes Ltd,Budget,382.99,-1.0,FRANCE,2024-03-21,296.0,2078,Invalid rating
+10820,,Luxury,1402.46,1.1,FRANCE,2024-05-12,226.0,273,Missing name
+10822,Osborn and Sons,,1336.33,5.0,USA,2026-01-08,473.0,4942,Invalid category
+10826,Lee-Gonzalez,Hostel,400.54,99.0,AUSTRALIA,2025-04-06,120.0,3176,Invalid rating
+10827,"Brown, Mcguire and Mcmahon",Hostel,,1.2,USA,2024-07-13,494.0,624,Invalid price
+10836,,Luxury,380.67,4.1,GERMANY,2023-09-16,77.0,2970,Missing name
+10843,Moss-Barry,Budget,,4.9,USA,2024-11-04,215.0,1997,Invalid price
+10845,,Hostel,1074.7,1.9,USA,2025-05-09,61.0,743,Missing name
+10846,,Luxury,1978.19,1.5,UK,2025-07-14,263.0,220,Missing name
+10853,,Budget,542.84,1.3,GERMANY,2023-05-23,144.0,187,Missing name
+10854,Jennings Ltd,Budget,1391.85,,USA,2024-01-10,75.0,1048,Invalid rating
+10873,,Resort,308.55,1.5,USA,2025-10-13,283.0,3198,Missing name
+10876,,Business,1967.62,1.1,GERMANY,2025-06-04,209.0,2910,Missing name
+10879,"Lamb, Miller and Williams",Luxury,,3.2,FRANCE,2026-01-29,130.0,2856,Invalid price
+10885,,Hostel,,4.2,FRANCE,2023-06-20,301.0,4924,Missing name; Invalid price
+10897,"Griffith, Butler and Curtis",,1995.55,3.4,JAPAN,2024-12-15,480.0,518,Invalid category
+10902,Conway-Holloway,Luxury,1825.5,,USA,2023-04-10,42.0,546,Invalid rating
+10906,"White, Williams and Lee",Resort,,3.7,INDIA,2025-07-28,62.0,4574,Invalid price
+10908,Sawyer-Price,Boutique,,1.8,UK,2026-02-05,117.0,440,Invalid price
+10910,Price PLC,,713.42,3.0,UK,2026-02-18,257.0,1891,Invalid category
+10925,"Patterson, Hurst and Murphy",Hostel,,3.8,FRANCE,2023-04-03,,3995,Invalid price
+10928,Thomas LLC,Boutique,1095.8,99.0,FRANCE,2025-01-02,59.0,1905,Invalid rating
+10931,,Business,1835.99,1.8,USA,2023-03-16,391.0,2810,Missing name
+10934,Jacobs Group,Resort,,2.2,UAE,2023-09-03,194.0,4650,Invalid price
+10945,"Perez, Ferrell and Cantu",Budget,,1.3,USA,2024-11-03,300.0,4154,Invalid price
+10960,Baker Ltd,Resort,312.76,99.0,FRANCE,2024-08-26,272.0,2289,Invalid rating
+10967,Grant Ltd,Boutique,,4.5,GERMANY,2024-12-19,479.0,3466,Invalid price
+10968,Mullins Group,Luxury,,-1.0,FRANCE,2026-01-16,171.0,2854,Invalid price; Invalid rating
+11002,,Luxury,1860.3,1.7,INDIA,2024-07-19,50.0,1035,Missing name
+11003,Stevens LLC,Luxury,,2.3,FRANCE,2024-10-13,295.0,3043,Invalid price
+11004,"Charles, Moran and Williams",Luxury,,3.9,INDIA,2023-03-05,429.0,3885,Invalid price
+11013,Hines Ltd,Budget,646.29,99.0,USA,2023-11-04,,530,Invalid rating
+11022,Barry Inc,Luxury,1247.47,,INDIA,2023-09-10,421.0,3084,Invalid rating
+11024,Thompson-Berry,Budget,1419.21,,UAE,2025-05-07,329.0,4303,Invalid rating
+11033,Bates Group,,921.75,3.1,JAPAN,2026-02-09,158.0,3672,Invalid category
+11035,,Business,569.72,3.1,USA,2024-03-11,,1647,Missing name
+11038,,Resort,1807.95,4.6,USA,2025-04-10,140.0,1455,Missing name
+11047,"Woods, Howell and Howell",Business,,1.9,FRANCE,2026-02-12,145.0,2639,Invalid price
+11054,"Carter, Ellis and Carlson",Boutique,982.57,99.0,USA,2015-05-28,452.0,2688,Invalid rating
+11068,Delgado-Garcia,,,1.5,AUSTRALIA,2023-06-20,12.0,4653,Invalid price; Invalid category
+11071,Sweeney Inc,Boutique,1775.07,,INDIA,2023-04-05,16.0,4833,Invalid rating
+11078,"Lewis, Gallagher and Ferguson",,1660.46,4.4,FRANCE,2023-08-16,437.0,960,Invalid category
+11093,Lopez-Huffman,Boutique,,2.9,USA,2023-12-19,128.0,4892,Invalid price
+11105,Johnson-Martinez,Budget,,1.5,FRANCE,2025-11-11,79.0,44,Invalid price
+11114,,Resort,1545.98,1.1,UAE,2023-05-29,243.0,4157,Missing name
+11118,,Resort,1839.73,1.1,USA,2023-10-20,,1387,Missing name
+11124,Bailey-Dawson,Resort,,4.3,USA,2023-03-12,289.0,4602,Invalid price
+11131,Edwards Ltd,Business,,1.3,JAPAN,2025-03-28,115.0,3522,Invalid price
+11134,Christensen PLC,Budget,1375.91,-1.0,GERMANY,2023-09-03,423.0,2580,Invalid rating
+11135,Sparks-Robbins,Budget,,1.0,FRANCE,2025-06-05,423.0,4666,Invalid price
+11142,Nichols Inc,Hostel,1513.57,,INDIA,2024-04-15,288.0,1929,Invalid rating
+11145,,Luxury,862.14,2.4,UK,2023-04-06,436.0,2160,Missing name
+11153,Williams and Sons,Resort,935.72,,USA,2024-10-07,314.0,1012,Invalid rating
+11154,Davis-Jimenez,Resort,,3.7,JAPAN,2023-03-03,438.0,2492,Invalid price
+11157,Harris Inc,Hostel,,1.8,JAPAN,2023-04-24,110.0,4340,Invalid price
+11159,Mullen-Dyer,Hostel,,2.0,JAPAN,2024-05-24,408.0,4068,Invalid price
+11160,Dawson Inc,Business,,2.9,INDIA,2024-06-02,54.0,1448,Invalid price
+11167,Mitchell-Davis,Business,1381.34,99.0,UK,2023-06-16,233.0,2918,Invalid rating
+11168,Hayden-Rose,Boutique,,3.6,USA,2024-07-22,115.0,2396,Invalid price
+11184,,Budget,,,JAPAN,2026-01-31,89.0,3684,Missing name; Invalid price; Invalid rating
+11186,,Luxury,594.28,2.1,FRANCE,2025-09-01,,4965,Missing name
+11193,"Cooley, Salinas and Rosales",Resort,598.78,,USA,2019-05-15,75.0,346,Invalid rating
+11199,Taylor-Barnes,Budget,,2.2,INDIA,2025-03-15,184.0,3749,Invalid price
+11201,,Hostel,744.52,1.5,FRANCE,2025-03-04,228.0,3167,Missing name
+11213,Rasmussen PLC,Resort,1215.51,99.0,UAE,2025-01-17,180.0,4821,Invalid rating
+11215,Hill Inc,Boutique,,2.1,INDIA,2024-02-05,,237,Invalid price
+11217,Woods-Gregory,,523.4,2.1,AUSTRALIA,2025-01-06,102.0,4240,Invalid category
+11220,Evans LLC,Boutique,,2.8,FRANCE,2025-09-05,387.0,628,Invalid price
+11227,"Hebert, Shah and Barnett",,519.54,2.3,INDIA,2023-06-30,347.0,71,Invalid category
+11232,"Richardson, Kane and Harrington",Business,,1.5,INDIA,2026-02-19,119.0,3922,Invalid price
+11233,Fields-Torres,Luxury,1506.13,,GERMANY,2023-06-13,10.0,417,Invalid rating
+11242,Hughes-Woods,Resort,962.41,,GERMANY,2025-12-23,247.0,1189,Invalid rating
+11250,,Resort,1864.45,2.7,AUSTRALIA,2024-01-13,295.0,1891,Missing name
+11252,,Resort,290.31,4.8,USA,2023-11-21,471.0,2988,Missing name
+11258,"Owens, Butler and Bonilla",Resort,1942.43,,INDIA,2026-02-27,472.0,1642,Invalid rating
+11259,Boone-Anderson,Budget,439.87,-1.0,FRANCE,2025-07-29,67.0,4693,Invalid rating
+11265,,Budget,1942.14,1.3,INDIA,2023-05-27,177.0,118,Missing name
+11270,"Barry, Harding and Roberts",Resort,,2.8,FRANCE,2023-11-30,65.0,4725,Invalid price
+11272,Abbott Ltd,Resort,385.3,-1.0,USA,1974-12-13,384.0,1007,Invalid rating
+11278,,Luxury,956.11,99.0,AUSTRALIA,2025-07-06,88.0,1531,Missing name; Invalid rating
+11286,Blankenship Inc,Resort,1620.91,99.0,UAE,2026-01-24,214.0,2824,Invalid rating
+11288,,Business,846.18,2.9,FRANCE,2025-11-20,151.0,1295,Missing name
+11295,Huang-Castro,Budget,,5.0,GERMANY,2024-02-05,186.0,2442,Invalid price
+11296,Logan and Sons,Business,,2.6,AUSTRALIA,2025-03-30,122.0,4559,Invalid price
+11302,"Blackwell, Hernandez and Simpson",Luxury,,4.3,GERMANY,2023-04-21,257.0,4594,Invalid price
+11307,,Hostel,1325.82,3.1,INDIA,2025-06-04,89.0,4261,Missing name
+11313,,Budget,1195.36,3.4,FRANCE,2023-03-09,399.0,694,Missing name
+11314,"Carr, Lopez and Romero",Business,557.62,99.0,FRANCE,2024-01-03,483.0,1340,Invalid rating
+11316,,Budget,326.1,4.3,UAE,2023-08-22,,4183,Missing name
+11319,,Luxury,1367.69,2.1,FRANCE,2024-02-10,441.0,3634,Missing name
+11324,Ward and Sons,,1705.26,3.7,USA,2025-01-04,160.0,233,Invalid category
+11328,Nguyen-Parsons,Hostel,1320.38,,INDIA,2025-05-29,253.0,1403,Invalid rating
+11336,Lucero-Zuniga,Hostel,1102.12,-1.0,INDIA,2024-03-22,471.0,1994,Invalid rating
+11351,,Luxury,293.54,2.0,JAPAN,2023-05-17,101.0,1100,Missing name
+11357,"Murray, Garner and Warner",Boutique,1653.3,99.0,USA,1982-04-16,284.0,3954,Invalid rating
+11363,"Torres, Miller and Costa",Boutique,437.67,-1.0,FRANCE,2025-01-27,442.0,56,Invalid rating
+11365,Sims and Sons,Luxury,1099.08,-1.0,UAE,2023-05-25,65.0,4791,Invalid rating
+11371,,Boutique,1922.03,2.9,FRANCE,2025-02-12,142.0,1374,Missing name
+11373,"Johnson, Aguilar and Martinez",Boutique,683.88,-1.0,FRANCE,2023-03-12,391.0,233,Invalid rating
+11374,,Resort,1269.08,1.1,INDIA,1986-05-14,21.0,4655,Missing name
+11376,Smith-Black,Resort,,2.4,INDIA,2025-02-10,426.0,2935,Invalid price
+11386,"Lee, Turner and Phillips",Resort,,2.6,GERMANY,2025-06-12,,3983,Invalid price
+11388,,Resort,1818.0,4.9,FRANCE,2024-10-18,309.0,3158,Missing name
+11398,Ryan Inc,,1878.63,2.6,UAE,2025-09-19,461.0,2196,Invalid category
+11399,,Hostel,1017.19,3.2,FRANCE,2025-02-06,375.0,4076,Missing name
+11403,"Henderson, Schaefer and Sweeney",Boutique,,2.6,JAPAN,2023-06-10,61.0,1146,Invalid price
+11408,Parker-Bradford,Boutique,1550.67,,UK,2024-10-06,156.0,4206,Invalid rating
+11414,"Brock, Todd and Castaneda",Luxury,,3.7,USA,2025-09-27,82.0,3876,Invalid price
+11416,,Resort,1327.03,1.3,JAPAN,1999-11-14,355.0,1474,Missing name
+11419,Fernandez-Colon,Hostel,1053.35,,INDIA,1987-11-02,267.0,4958,Invalid rating
+11420,Mcdonald-Carter,Resort,1212.09,99.0,JAPAN,2025-05-30,350.0,1314,Invalid rating
+11422,Aguilar Group,Budget,,1.6,INDIA,2025-08-14,366.0,3574,Invalid price
+11451,"Singleton, Flores and Williams",Budget,,1.3,JAPAN,2024-03-21,373.0,4341,Invalid price
+11452,"Walters, Gould and Smith",Budget,,2.5,UK,2025-12-12,15.0,2359,Invalid price
+11460,"Morgan, Hughes and Morris",Luxury,,2.8,UAE,2024-07-08,385.0,1983,Invalid price
+11461,"Floyd, Howard and Hess",Boutique,,3.7,UK,2023-07-22,232.0,3319,Invalid price
+11466,,Business,1541.71,1.3,AUSTRALIA,2024-12-25,90.0,2779,Missing name
+11470,Reid-Payne,Luxury,,2.4,FRANCE,2023-11-16,187.0,3752,Invalid price
+11474,"Rodriguez, Duarte and Jones",Resort,709.18,,FRANCE,2023-11-01,473.0,727,Invalid rating
+11480,Chandler and Sons,Hostel,,4.8,UAE,1985-03-07,77.0,1904,Invalid price
+11481,Hahn LLC,Business,,1.4,USA,2025-09-03,200.0,763,Invalid price
+11484,,Budget,583.01,2.7,USA,2024-04-28,422.0,2999,Missing name
+11507,,Hostel,,1.3,FRANCE,2023-03-31,165.0,3799,Missing name; Invalid price
+11508,,Business,,-1.0,FRANCE,2023-11-30,120.0,1039,Missing name; Invalid price; Invalid rating
+11516,"Scott, Mcknight and Pham",Budget,1946.93,-1.0,UK,2024-10-12,370.0,3095,Invalid rating
+11518,Gray-Carter,Luxury,,2.5,INDIA,2024-04-26,328.0,2871,Invalid price
+11531,Powell-Mosley,,263.19,2.8,FRANCE,2025-08-08,390.0,4862,Invalid category
+11532,,Hostel,924.31,4.1,INDIA,2009-11-07,394.0,1410,Missing name
+11550,,Boutique,,3.0,AUSTRALIA,2024-02-25,11.0,3311,Missing name; Invalid price
+11559,"Fuller, Vargas and Rodriguez",Hostel,561.17,99.0,UAE,2024-05-09,57.0,4052,Invalid rating
+11572,,Hostel,1607.75,3.7,GERMANY,2025-12-09,12.0,960,Missing name
+11573,"Holmes, Reese and Anderson",Luxury,1175.43,,FRANCE,2024-04-04,349.0,1347,Invalid rating
+11575,,Hostel,638.16,4.9,FRANCE,2025-05-02,377.0,4461,Missing name
+11580,,Budget,1019.39,4.6,GERMANY,2025-11-05,163.0,2565,Missing name
+11582,"Gonzalez, Turner and Rose",Hostel,,3.4,UAE,2024-05-05,395.0,3913,Invalid price
+11586,Dunlap Inc,,1964.62,4.3,INDIA,2024-12-08,324.0,3032,Invalid category
+11591,"Hammond, Moreno and Vasquez",Boutique,,3.0,UK,2023-05-24,414.0,2418,Invalid price
+11598,"Novak, Roach and Rodriguez",,197.72,4.1,INDIA,2024-02-14,192.0,257,Invalid category
+11603,Powell PLC,,860.9,4.9,AUSTRALIA,2025-05-26,172.0,2874,Invalid category
+11604,,Hostel,139.8,3.7,INDIA,1995-06-23,91.0,4095,Missing name
+11608,Webb Ltd,Hostel,826.65,99.0,USA,2025-09-17,124.0,3776,Invalid rating
+11627,"Cortez, Case and Glass",Resort,,3.9,USA,2013-03-10,366.0,1783,Invalid price
+11639,"Herring, Mckenzie and Austin",Business,,2.9,GERMANY,2023-09-23,155.0,4438,Invalid price
+11657,,Business,649.44,4.0,UK,2024-04-19,204.0,3042,Missing name
+11673,,Luxury,1983.64,4.3,FRANCE,2023-05-09,479.0,3304,Missing name
+11677,Jones-Wolfe,Hostel,,4.2,INDIA,2025-12-06,102.0,3076,Invalid price
+11691,,Budget,845.83,3.9,FRANCE,2023-05-26,66.0,1917,Missing name
+11715,Burgess-Neal,Business,869.46,-1.0,FRANCE,2023-04-12,420.0,192,Invalid rating
+11716,,Resort,303.61,2.4,UAE,2024-09-08,177.0,298,Missing name
+11720,"Jackson, Mosley and Flynn",Resort,,2.6,USA,2024-04-24,335.0,4974,Invalid price
+11722,Ellis-Fischer,,977.55,-1.0,INDIA,2025-07-14,376.0,2620,Invalid rating; Invalid category
+11725,Weeks Ltd,Budget,1694.1,99.0,FRANCE,2025-05-07,25.0,4282,Invalid rating
+11726,,Luxury,1402.72,3.7,INDIA,2023-05-12,472.0,4696,Missing name
+11733,Martin-Perry,,1418.43,2.1,USA,2012-09-27,74.0,2632,Invalid category
+11740,,Business,1118.78,1.3,USA,2025-04-22,148.0,330,Missing name
+11745,,Business,821.49,4.6,USA,2025-01-09,243.0,2546,Missing name
+11747,,Budget,502.32,3.9,FRANCE,2024-06-08,32.0,4715,Missing name
+11748,,Luxury,1852.73,4.1,UK,2023-05-02,,3105,Missing name
+11754,Mccoy Group,Budget,655.84,,GERMANY,2025-08-20,441.0,44,Invalid rating
+11772,Miller Inc,Hostel,,2.5,JAPAN,1976-09-25,53.0,3110,Invalid price
+11779,"Tanner, Bradshaw and Holmes",Business,1864.51,-1.0,USA,2024-10-20,54.0,4892,Invalid rating
+11790,"Chen, Mccarthy and Lewis",Hostel,1247.42,,AUSTRALIA,2023-03-09,199.0,4094,Invalid rating
+11792,Williamson Ltd,,1975.04,2.7,FRANCE,2023-04-09,142.0,2632,Invalid category
+11797,Holland-Weber,Budget,36.51,,FRANCE,2023-12-23,373.0,1359,Invalid rating
+11805,"Acevedo, Mendoza and Doyle",Boutique,,3.5,UK,2024-04-09,351.0,948,Invalid price
+11806,Brown Group,Luxury,,3.1,FRANCE,2025-08-02,415.0,1752,Invalid price
+11822,Bryant and Sons,Luxury,903.0,-1.0,JAPAN,2026-02-11,253.0,1015,Invalid rating
+11832,,Business,1426.77,1.8,FRANCE,2023-07-31,127.0,2462,Missing name
+11835,"Powell, Nguyen and Porter",,394.85,1.4,JAPAN,2023-05-12,314.0,3250,Invalid category
+11836,"Sanchez, Reese and Garza",Budget,,2.6,USA,2025-05-28,79.0,2542,Invalid price
+11855,"Castro, Pearson and Mckee",,123.43,3.4,AUSTRALIA,2025-01-13,364.0,1326,Invalid category
+11862,,Boutique,1557.55,3.2,FRANCE,1980-11-28,472.0,2003,Missing name
+11863,"Mccullough, Garcia and Pena",Luxury,,4.0,GERMANY,2025-11-01,165.0,3508,Invalid price
+11873,Hill PLC,Budget,1644.91,,GERMANY,2025-06-25,221.0,1591,Invalid rating
+11878,"Reed, Caldwell and Dean",Budget,,2.1,USA,2025-07-15,408.0,2651,Invalid price
+11886,Noble LLC,Hostel,1514.65,,FRANCE,1983-07-19,391.0,789,Invalid rating
+11887,,Hostel,811.8,3.9,INDIA,2024-12-18,443.0,4127,Missing name
+11894,"Smith, Wilkins and Singleton",Resort,146.81,99.0,AUSTRALIA,2023-09-24,466.0,1311,Invalid rating
+11912,,Luxury,815.1,1.1,USA,2023-03-05,360.0,3536,Missing name
+11918,Jones LLC,Business,,2.2,INDIA,2025-07-03,138.0,849,Invalid price
+11921,,Luxury,1669.89,4.9,FRANCE,2025-06-07,1.0,4133,Missing name
+11923,,Boutique,1318.25,3.4,UAE,2025-06-09,173.0,1913,Missing name
+11925,Garcia-Robinson,Resort,240.49,,USA,2024-04-29,62.0,1123,Invalid rating
+11935,,Business,701.18,4.6,USA,2026-02-22,237.0,1591,Missing name
+11940,Johnson-Hubbard,Resort,464.15,-1.0,FRANCE,2024-03-28,280.0,3357,Invalid rating
+11942,,Resort,311.25,3.5,GERMANY,1987-06-25,140.0,171,Missing name
+11945,"Watson, Graham and Mcneil",Hostel,,5.0,AUSTRALIA,2024-12-03,444.0,853,Invalid price
+11948,Hamilton-Olson,Luxury,449.28,,UK,2023-05-18,24.0,3359,Invalid rating
+11949,"Nguyen, Diaz and Mccann",Budget,,2.3,USA,2023-06-06,,2460,Invalid price
+11956,,Luxury,1745.11,2.0,JAPAN,2024-03-20,54.0,1470,Missing name
+11957,Smith LLC,Hostel,,4.6,UAE,2023-10-14,431.0,993,Invalid price
+11965,Morgan-Hunter,Hostel,,3.2,INDIA,2025-05-22,197.0,2370,Invalid price
+11970,Esparza-Sanchez,Boutique,1757.15,99.0,UK,2023-12-16,456.0,223,Invalid rating
+11978,"Sanchez, White and Walter",Hostel,147.96,99.0,FRANCE,2024-05-14,,4466,Invalid rating
+11982,,Hostel,537.33,3.5,JAPAN,2025-12-08,377.0,661,Missing name
+11994,,Business,1792.0,4.6,USA,2024-08-21,223.0,765,Missing name
+12000,Lopez-Diaz,Budget,949.03,,GERMANY,2025-03-09,418.0,1231,Invalid rating

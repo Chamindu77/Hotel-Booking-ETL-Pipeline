@@ -9,12 +9,12 @@ def run():
 
     # EXTRACT
     raw_df = extract_from_local('data/raw/hotels_raw.csv')
-    upload_to_s3('data/raw/hotels_raw.csv', 'raw/hotels_raw.csv')  # S3 backup
+    upload_to_s3('data/raw/hotels_raw.csv', 'raw/hotels_raw.csv') 
 
     # TRANSFORM
     clean_df, rejected_df = clean_data(raw_df)
 
-    # Save cleaned to CSV & S3
+    # Save cleaned to CSV and S3
     clean_df.to_csv('data/cleaned/hotels_clean.csv', index=False)
     upload_to_s3('data/cleaned/hotels_clean.csv', 'cleaned/hotels_clean.csv')
 

@@ -11,7 +11,7 @@ np.random.seed(42)
 CATEGORIES = ['Luxury', 'Budget', 'Business', 'Resort', 'Boutique', 'Hostel']
 COUNTRIES = ['USA', 'UK', 'France', 'Germany', 'Japan', 'Australia', 'UAE', 'india', 'FRANCE', 'usa']
 
-def generate_hotel_data(n=12000):
+def generate_hotel_data(n=12300):
     records = []
     for i in range(1, n + 1):
 
